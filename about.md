@@ -9,4 +9,4 @@ You can reach me at marzagao dot 1 at osu dot edu.
 
 Thanks for visiting!
 
-<img src="http://i.imgur.com/7L0c53hl.jpg" title="me in Lisbon - Monument to the Discoverers" height="40%" width="40%" /></a>
+<img src="http://i.imgur.com/7L0c53hl.jpg" title="me in Lisbon - Monument to the Discoverers" height="40%" width="40%" />
