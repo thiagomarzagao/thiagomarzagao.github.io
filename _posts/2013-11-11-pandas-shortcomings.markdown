@@ -1,20 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-11 15:24:41+00:00
 layout: post
-slug: pandas-shortcomings
 title: pandas' shortcomings
-wordpress_id: 252
-categories:
-- big data
-- Python
-- stats
-tags:
-- Big Data
-- pandas
-- Python
-- stats
 ---
 
 If you use [pandas](http://pandas.pydata.org/) with big data you may want to check the presentation below, by Wes McKinney (pandas' creator). He discusses why pandas doesn't scale well and what he is doing about it (he is creating a new library - 'badgers'; the benchmarks look promising).

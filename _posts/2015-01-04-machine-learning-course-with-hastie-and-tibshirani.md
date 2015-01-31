@@ -1,6 +1,7 @@
 ---
 layout: post
 title: machine learning course with Hastie and Tibshirani
+comments: true
 ---
 
 [Here](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about). It starts on January 19th.

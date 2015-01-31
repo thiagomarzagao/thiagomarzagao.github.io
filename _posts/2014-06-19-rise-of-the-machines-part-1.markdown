@@ -1,18 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2014-06-19 01:08:14+00:00
 layout: post
-slug: rise-of-the-machines-part-1
 title: rise of the machines - part 1
-wordpress_id: 792
-categories:
-- Python
-- stats
-tags:
-- C
-- Mindstorms
-- Python
 ---
 
 Social scientists spend a lot of time writing code that has no physical manifestation. Other than changing pixels in a laptop screen our scripts do not change the material world in any observable way. Meanwhile our colleagues in the engineering department get to build Terminator-like robots and all sorts of fun machines. So I decided I wouldn't live in perpetual envy anymore. 

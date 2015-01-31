@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ubuntu beats OS X on Mac Hardware
+comments: true
 ---
 
 [Here](http://www.phoronix.com/scan.php?page=article&amp;item=osx10_ubuntu1410).

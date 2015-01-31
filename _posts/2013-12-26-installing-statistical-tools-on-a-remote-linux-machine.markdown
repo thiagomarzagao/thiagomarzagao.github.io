@@ -1,22 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-12-26 12:28:04+00:00
 layout: post
-slug: installing-statistical-tools-on-a-remote-linux-machine
 title: installing statistical tools on a remote Linux machine
-wordpress_id: 664
-categories:
-- big data
-- Python
-tags:
-- Amazon
-- BLAS
-- LAPACK
-- Linux
-- MKL
-- Python
-- scientific computing
 ---
 
 If you have lots of data to analyze you may need to use a remote machine to get the computing power you need. Amazon Web Services is a popular choice, but their machines usually come "naked" - they have the operating system and not much else. Amazon does offer some software bundles, called Amazon Machine Images (AMIs), but these are more about business tools (SQL and NoSQL applications mainly) than about scientific computing tools. So normally you need to install all the software yourself. That can be a pain; you have to rely on the command line (no clicking on .dmg or .exe files), packages have complex dependency relations, you need to figure out what compilers you need, etc. So here is a step-by-step. I'm assuming a few things: you know (or can figure out on your own) how to fire up a remote machine (say, an Amazon EC2 instance); you know how to SSH into your remote machine; you know what a terminal is; you are not afraid of Linux; you will use Python for your scientific computing.

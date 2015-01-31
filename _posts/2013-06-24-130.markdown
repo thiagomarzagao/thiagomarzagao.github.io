@@ -1,19 +1,7 @@
 ---
-author: thiagomarzagao
-comments: true
-date: 2013-06-24 16:10:32+00:00
 layout: post
-slug: '130'
 title: '"Fightin'' Words" in Python'
-wordpress_id: 130
-categories:
-- Python
-- stats
-tags:
-- machine learning
-- Python
-- stats
-- text analysis
+comments: true
 ---
 
 The Python script below implements the “Fightin’ Words” algorithm (see [Monroe, B., Colaresi, M., Quinn, K. Fightin’ words: lexical feature selection and evaluation for identifying the content of political conflict. Political Analysis, 16(4), pp. 372-403](http://pan.oxfordjournals.org/content/16/4/372.short)). It takes as inputs word-frequency matrices. These matrices must be in CSV format. The first column must contain the words and the second column must contain the absolute frequencies (if there are additional columns they will simply be ignored). These matrices need to be in the appropriate folder: change ‘rpath’ as needed (see line 11).

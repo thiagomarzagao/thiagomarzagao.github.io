@@ -1,19 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-18 22:21:47+00:00
 layout: post
-slug: ive-been-using-python-for-3-years-and-ive-never-defined-a-class
 title: '"I''ve been using Python for 3 years and I''ve never defined a class"'
-wordpress_id: 585
-categories:
-- Python
-- stats
-tags:
-- classes
-- object-oriented programming
-- Python
-- stats
 ---
 
 [Here](http://www.reddit.com/r/Python/comments/1qvoop/ive_been_using_python_for_3_years_and_ive_never/).

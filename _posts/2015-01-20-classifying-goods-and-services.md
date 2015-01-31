@@ -1,6 +1,7 @@
 ---
 layout: post
 title: classifying goods and services
+comments: true
 ---
 
 I needed to produce an automated classifier of goods and services: something that takes a short description and returns the corresponding category, according to some taxonomy. For instance, you enter "jelly beans" and the classifier returns [Harmonized System](http://en.wikipedia.org/wiki/Harmonized_System) heading 1704 - Sugar Confection". The end goal is to classify all goods and services purchased with taxpayers' money in Brazil, in all levels (federal, state, municipal) and branches (executive, legislative, judiciary) of government. I've spent the last few weeks working on this and here I summarize what worked and what didn't. 

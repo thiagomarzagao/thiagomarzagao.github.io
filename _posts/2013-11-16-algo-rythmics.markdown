@@ -1,15 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-16 05:30:04+00:00
 layout: post
-slug: algo-rythmics
 title: Algo-rythmics
-wordpress_id: 511
-tags:
-- algorithms
-- folk dance
-- sorting
 ---
 
 Here's what happens under the hood when you ask R to sort your data.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: why I enjoy webscraping
+comments: true
 ---
 
 ( ) It speeds up data collection.

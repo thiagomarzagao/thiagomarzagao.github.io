@@ -1,18 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2014-02-01 21:31:28+00:00
 layout: post
-slug: will-julia-become-the-new-r
 title: will Julia become the new R?
-wordpress_id: 722
-categories:
-- stats
-tags:
-- Julia
-- programming
-- scientific computing
-- Statistics
 ---
 
 [![](http://i.imgur.com/ePG8bkI.png?2)](http://imgur.com/ePG8bkI)

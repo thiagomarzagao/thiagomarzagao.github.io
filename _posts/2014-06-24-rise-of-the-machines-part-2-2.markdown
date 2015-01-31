@@ -1,15 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2014-06-24 17:17:13+00:00
 layout: post
-slug: rise-of-the-machines-part-2-2
 title: rise of the machines - part 2
-wordpress_id: 852
-tags:
-- C
-- EV3
-- LEGO
 ---
 
 Here I show how to use C++ to communicate via Bluetooth with the LEGO Mindstorms EV3 brick (see [previous post](http://thiagomarzagao.com/2014/06/18/rise-of-the-machines-part-1/)).

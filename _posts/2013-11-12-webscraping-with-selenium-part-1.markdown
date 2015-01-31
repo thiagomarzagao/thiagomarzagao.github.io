@@ -1,20 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-12 21:15:23+00:00
 layout: post
-slug: webscraping-with-selenium-part-1
 title: webscraping with Selenium - part 1
-wordpress_id: 302
-categories:
-- LexisNexis
-- Python
-- webscraping
-tags:
-- lexisnexis
-- Python
-- selenium
-- webscraping
 ---
 
 If you are webscraping with Python chances are that you have already tried `urllib`, `httplib`, `requests`, etc. These are excellent libraries, but some websites don't like to be webscraped. In these cases you may need to disguise your webscraping bot as a human being. Selenium is just the tool for that. Selenium is a webdriver: it takes control of your browser, which then does all the work. Hence what the website "sees" is Chrome or Firefox or IE; it does not see Python or Selenium. That makes it a lot harder for the website to tell your bot from a human being.

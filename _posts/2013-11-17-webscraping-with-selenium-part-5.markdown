@@ -1,19 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-17 16:14:29+00:00
 layout: post
-slug: webscraping-with-selenium-part-5
 title: webscraping with Selenium - part 5
-wordpress_id: 540
-categories:
-- LexisNexis
-- Python
-- webscraping
-tags:
-- lexisnexis
-- Python
-- webscraping
 ---
 
 This the final part of our Selenium tutorial. Here we will cover headless browsing and parallel webscraping.
@@ -30,7 +18,7 @@ Second, it makes it easier to use remote computers. Like Amazon EC2, Google Comp
 
 I know, it sounds weird to not see the action. But really, you've built and tested your script, you know it works, so now it's time to get rid of the visual. In the words of Master Kenobi, "stretch out with your feelings".
 
-http://www.youtube.com/watch?v=X69NCLxwLEY
+<iframe width="420" height="315" src="https://www.youtube.com/embed/X69NCLxwLEY" frameborder="0" allowfullscreen></iframe>
 
 <strong>using a headless browser</strong>
 

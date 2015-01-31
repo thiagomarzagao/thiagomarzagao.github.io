@@ -1,15 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2014-06-27 17:00:03+00:00
 layout: post
-slug: rise-of-the-machines-part-3
 title: rise of the machines - part 3
-wordpress_id: 907
-tags:
-- EV3
-- Mindstorms
-- Python
 ---
 
 [![](http://i.imgur.com/LTJZhVI.png)](http://imgur.com/LTJZhVI)

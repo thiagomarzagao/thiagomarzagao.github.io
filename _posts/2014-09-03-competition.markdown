@@ -1,19 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2014-09-03 14:52:41+00:00
 layout: post
-slug: competition
 title: competition
-wordpress_id: 1014
-categories:
-- big data
-- polisci
-- stats
-tags:
-- democracy
-- polisci
-- stats
 ---
 
 [![](http://i.imgur.com/PKXkvMW.png)](http://imgur.com/PKXkvMW)

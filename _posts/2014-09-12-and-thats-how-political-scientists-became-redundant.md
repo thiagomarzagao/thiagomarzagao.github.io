@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ...and that's how political scientists became redundant
+comments: true
 ---
 
 From [here](http://www.automaticstatistician.com):

@@ -1,21 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-17 04:53:19+00:00
 layout: post
-slug: scaling-machine-learning-in-python
 title: scaling machine learning in Python
-wordpress_id: 553
-categories:
-- big data
-- Python
-- stats
-tags:
-- Big Data
-- machine learning
-- parallel computing
-- Python
-- stats
 ---
 
 I just came across this PyData talk on Python tools for parallelizing machine learning applications. It's worth watching if you have tons of texts and doing things sequentially is just not working for you.

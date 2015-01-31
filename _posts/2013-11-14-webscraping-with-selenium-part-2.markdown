@@ -1,20 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-14 02:43:29+00:00
 layout: post
-slug: webscraping-with-selenium-part-2
 title: webscraping with Selenium - part 2
-wordpress_id: 352
-categories:
-- LexisNexis
-- Python
-- webscraping
-tags:
-- lexisnexis
-- Python
-- selenium
-- webscraping
 ---
 
 In [part 1](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/) we learned how to locate page elements and how to interact with them. Here we will learn how to do deal with dynamic names and how to download things with Selenium.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: the wholy grail?
+comments: true
 ---
 
 [Abstract](http://arxiv.org/abs/1412.3773):

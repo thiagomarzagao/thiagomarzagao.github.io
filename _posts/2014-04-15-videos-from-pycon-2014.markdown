@@ -1,19 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2014-04-15 20:06:08+00:00
 layout: post
-slug: videos-from-pycon-2014
 title: videos from PyCon 2014
-wordpress_id: 753
-categories:
-- Python
-- stats
-tags:
-- machine learning
-- pycon
-- Python
-- Statistics
 ---
 
 [Here](http://pyvideo.org/category/50/pycon-us-2014) (all of them).

@@ -1,19 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-16 23:18:47+00:00
 layout: post
-slug: webscraping-with-selenium-part-4
 title: webscraping with Selenium - part 4
-wordpress_id: 504
-categories:
-- LexisNexis
-- Python
-- webscraping
-tags:
-- lexisnexis
-- Python
-- webscraping
 ---
 
 I've assumed that you know a bit of programming, so you are probably familiar with loops and conditional expressions. I won't cover these (or any) general programming concepts, but I want to discuss two specific points. The first one is the importance of pacing your bot. The second one is how to iterate over searches on LexisNexis Academic. This second point is really about LexisNexis, not about webscraping in general, so you can safely skip it if that's not the site you want to webscrape.

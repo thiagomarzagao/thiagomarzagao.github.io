@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Julia's shortcomings
+comments: true
 ---
 
 [Here](http://www.johnmyleswhite.com/notebook/2014/11/29/whats-wrong-with-statistics-in-julia/), by John Myles White. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: latex vs word
+comments: true
 ---
 
 <a href="http://imgur.com/pDseFzR"><img src="http://i.imgur.com/pDseFzR.png" title="source: imgur.com" /></a>

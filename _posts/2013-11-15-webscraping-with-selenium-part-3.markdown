@@ -1,19 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-15 19:59:31+00:00
 layout: post
-slug: webscraping-with-selenium-part-3
 title: webscraping with Selenium - part 3
-wordpress_id: 485
-categories:
-- LexisNexis
-- Python
-- webscraping
-tags:
-- lexisnexis
-- Python
-- webscraping
 ---
 
 In part 2 we learned how to handle dynamic names and how to download content with Selenium. Here we will learn how to make our code robust to network flukes.

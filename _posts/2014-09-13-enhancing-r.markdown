@@ -1,18 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2014-09-13 02:27:48+00:00
 layout: post
-slug: enhancing-r
 title: enhancing R
-wordpress_id: 1016
-categories:
-- big data
-- stats
-tags:
-- programming
-- R
-- Statistics
 ---
 
 From [here](http://arxiv.org/pdf/1409.3144.pdf):

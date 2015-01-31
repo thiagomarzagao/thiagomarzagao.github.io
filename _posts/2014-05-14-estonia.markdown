@@ -1,14 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2014-05-14 23:01:13+00:00
 layout: post
-slug: estonia
 title: Estonia
-wordpress_id: 764
-categories:
-- polisci
-- Python
 ---
 
 The Estonian online voting platform is open source and written in Python!

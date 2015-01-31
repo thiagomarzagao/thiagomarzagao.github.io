@@ -1,22 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2014-06-30 15:21:02+00:00
 layout: post
-slug: a-comparison-of-programming-languages-in-economics
 title: a comparison of programming languages in economics
-wordpress_id: 911
-categories:
-- Python
-- stats
-tags:
-- C
-- Fortran
-- Julia
-- Mathematica
-- Python
-- R
-- stats
 ---
 
 [Here](http://www.nber.org/papers/w20263?utm_campaign=ntw&utm_medium=email&utm_source=ntw).

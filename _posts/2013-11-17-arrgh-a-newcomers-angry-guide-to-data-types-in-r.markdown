@@ -1,17 +1,7 @@
 ---
-author: thiagomarzagao
 comments: true
-date: 2013-11-17 05:15:17+00:00
 layout: post
-slug: arrgh-a-newcomers-angry-guide-to-data-types-in-r
 title: 'aRrgh: a newcomer''s (angry) guide to data types in R'
-wordpress_id: 559
-categories:
-- stats
-tags:
-- Data analysis
-- R (programming language)
-- Statistics
 ---
 
 [Here](https://github.com/tdsmith/aRrgh).
