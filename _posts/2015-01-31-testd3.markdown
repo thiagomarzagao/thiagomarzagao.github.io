@@ -1,0 +1,8 @@
+---
+layout: post
+title:  testing d3
+---
+
+So, here's the stupid iframe that just won't work:
+
+<iframe src="alagoas.html" width="600" height="400" marginwidth="0" marginheight="0" scrolling="no"></iframe>
