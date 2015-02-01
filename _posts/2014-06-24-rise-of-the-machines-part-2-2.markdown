@@ -4,7 +4,7 @@ layout: post
 title: rise of the machines - part 2
 ---
 
-Here I show how to use C++ to communicate via Bluetooth with the LEGO Mindstorms EV3 brick (see [previous post](http://thiagomarzagao.com/2014/06/18/rise-of-the-machines-part-1/)).
+Here I show how to use C++ to communicate via Bluetooth with the LEGO Mindstorms EV3 brick (see [previous post](http://thiagomarzagao.com/2014/06/19/rise-of-the-machines-part-1/)).
 
 If you are on a Mac everything should work right away. If you are using Ubuntu or other Linux distro I think you'll only need to change the Bluetooth part a bit (my Ubuntu laptop doesn't have Bluetooth, so I can't be sure). If somehow you are forced to use Windows I think you'll need to change the Bluetooth part a lot. All the rest should be the same though.
 
