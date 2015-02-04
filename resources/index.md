@@ -29,11 +29,11 @@ Prof. Caren’s [tutorials](http://nealcaren.web.unc.edu/an-introduction-to-text
 
 When I first started I couldn’t find any good tutorial on how to webscrape with Selenium, so I wrote one myself. It’s divided in five parts:
 
-* [part 1](http://thiagomarzagao.wordpress.com/2013/11/12/webscraping-with-selenium-part-1/): installing Selenium, locating page elements, interacting with page elements
-* [part 2](http://thiagomarzagao.wordpress.com/2013/11/14/webscraping-with-selenium-part-2/): handling dynamic names and downloading files
-* [part 3](http://thiagomarzagao.wordpress.com/2013/11/15/webscraping-with-selenium-part-3/): handling network errors
-* [part 4](http://thiagomarzagao.wordpress.com/2013/11/16/webscraping-with-selenium-part-4/): pacing your bot
-* [part 5](http://thiagomarzagao.wordpress.com/2013/11/17/webscraping-with-selenium-part-5/): headless browsing and parallel webscraping
+* [part 1](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/): installing Selenium, locating page elements, interacting with page elements
+* [part 2](http://thiagomarzagao.com/2013/11/14/webscraping-with-selenium-part-2/): handling dynamic names and downloading files
+* [part 3](http://thiagomarzagao.com/2013/11/15/webscraping-with-selenium-part-3/): handling network errors
+* [part 4](http://thiagomarzagao.com/2013/11/16/webscraping-with-selenium-part-4/): pacing your bot
+* [part 5](http://thiagomarzagao.com/2013/11/17/webscraping-with-selenium-part-5/): headless browsing and parallel webscraping
 
 Katharine Jarmul’s recent talk (see above) also covers Selenium (it starts about 2h30m in) and she does a great job, so you should check it.
 
