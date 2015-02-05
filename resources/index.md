@@ -3,7 +3,7 @@ layout: page
 title: resources
 ---
 
-(last updated: January 25th, 2015)
+(last updated: February 5th, 2015)
 
 <strong>machine learning</strong>:
 
@@ -19,7 +19,7 @@ Manning, Raghavan, and Schütze’s “Introduction to information retrieval”.
 
 Prof. Grimmer’s [lecture notes](http://www.justingrimmer.org/teaching.html). They are from his text analysis course at Stanford. He covers the main text analysis methods, giving both the intuition and the math. He also helps you make sense of the field as a whole – what’s related to what, in what way.
 
-<strong>getting data and handling data</strong>:
+<strong>webscraping</strong>:
 
 Katharine Jarmul’s PyCon 2014 [talk](http://pyvideo.org/video/2592/introduction-to-web-and-data-scraping-with-pyt) teaches you how to webscrape with Python. It’s by far the best webscraping_with_Python resource I’ve ever seen.
 
@@ -40,8 +40,6 @@ Katharine Jarmul’s recent talk (see above) also covers Selenium (it starts abo
 Will Larson’s [tutorial](http://lethain.com/an-introduction-to-compassionate-screenscraping/) teaches you the art of compassionate webscraping — i.e., getting the stuff you want without disrupting the website’s operation.
 
 Prof. Howe’s online [class](https://class.coursera.org/datasci-001/class/index) teaches you MapReduce and some SQL, which may come in very handy if you have tons of data.
-
-In case you are plagued by the curse of too much data, the University of Oklahoma has a [workshop series](http://www.oscer.ou.edu/education.php) on supercomputing.
 
 <strong>data sources</strong>:
 
@@ -80,6 +78,12 @@ If you have non-English texts, it’s worth learning the intricacies of characte
 Python’s [Natural Language Toolkit](http://www.nltk.org/) (NLTK) gives you some tools for text-processing: tokenizing, chunking, etc. Two alternatives worth mentioning are the [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) toolkit, which has several Python wrappers, and [spaCy](http://honnibal.github.io/spaCy/). If you’re looking for windows and buttons [JFreq](http://conjugateprior.org/software/jfreq/) is a popular choice, but it chokes on large corpora and I’ve found that it doesn’t handle accented characters well.
 
 If you are into text analysis then you also should check [gensim](http://radimrehurek.com/gensim/). It gives you TF-IDF, LSA and LDA transformations, which means that you can do dimensionality reduction, handle synonymy and polysemy, and extract topics. And here is the best part: gensim handles huge datasets right out-of-the-box, not need to do any low-level coding yourself. I used gensim for one of my dissertation papers and it has saved me months of coding.
+
+<strong>miscellanea</strong>
+
+In case you are plagued by the curse of too much data, the University of Oklahoma has a [workshop series](http://www.oscer.ou.edu/education.php) on supercomputing.
+
+This is domain-specific, but if you're doing text analysis in political science you should definitely check [Prof. Benoit's](http://www.kenbenoit.net/) from time to time. Also, he just created a [website](http://www.textasdata.com/) dedicated to text analysis.
 
 <strong>next on the list</strong>:
 
