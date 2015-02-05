@@ -39,8 +39,6 @@ Katharine Jarmul’s recent talk (see above) also covers Selenium (it starts abo
 
 Will Larson’s [tutorial](http://lethain.com/an-introduction-to-compassionate-screenscraping/) teaches you the art of compassionate webscraping — i.e., getting the stuff you want without disrupting the website’s operation.
 
-Prof. Howe’s online [class](https://class.coursera.org/datasci-001/class/index) teaches you MapReduce and some SQL, which may come in very handy if you have tons of data.
-
 <strong>data sources</strong>:
 
 [WordNet](http://wordnet.princeton.edu/). This dataset groups related words — synonyms, antonyms, hyponyms (as in “chair” being a type of “furniture”), and meronyms (as in “leg” being a part of a “chair”). There are also [similar datasets for other languages](http://www.globalwordnet.org/gwa/wordnet_table.html).
@@ -81,9 +79,11 @@ If you are into text analysis then you also should check [gensim](http://radimre
 
 <strong>miscellanea</strong>
 
+This is domain-specific, but if you're doing text analysis in political science you should definitely check [Prof. Benoit's](http://www.kenbenoit.net/) from time to time. Also, he just created a [website](http://www.textasdata.com/) dedicated to text analysis.
+
 In case you are plagued by the curse of too much data, the University of Oklahoma has a [workshop series](http://www.oscer.ou.edu/education.php) on supercomputing.
 
-This is domain-specific, but if you're doing text analysis in political science you should definitely check [Prof. Benoit's](http://www.kenbenoit.net/) from time to time. Also, he just created a [website](http://www.textasdata.com/) dedicated to text analysis.
+Prof. Howe’s online [class](https://class.coursera.org/datasci-001/class/index) teaches you MapReduce and some SQL, which may come in very handy if you have tons of data.
 
 <strong>next on the list</strong>:
 
