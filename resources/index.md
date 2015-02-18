@@ -3,7 +3,7 @@ layout: page
 title: resources
 ---
 
-(last updated: February 5th, 2015)
+(last updated: February 18th, 2015)
 
 <strong>machine learning</strong>:
 
@@ -51,7 +51,7 @@ Will Larson’s [tutorial](http://lethain.com/an-introduction-to-compassionate-s
 
 If you are new to programming, [Udacity’s online class](https://www.udacity.com/course/cs101) is the best place to start. Prof. Evans uses Python to teach you the basics of programming – things like hashing, recursion, and computational cost. The course is self-paced (unlike Coursera courses), so you may complete it in a week or two if you clear your schedule.
 
-If you already know the basics of programming but never used Python, [“Quick Python”](http://books.google.com/books/about/The_Quick_Python_Book.html?id=ekGLPgAACAAJ) is my pick. I would recommend reading it from cover to cover (it only takes a day or two). Otherwise you may waste precious time later on trying to google what a “tuple” is, or how to “unpack a list of lists”. It’s better to learn all the essentials upfront.
+If you already know the basics of programming but never used Python, [“Python in a Nutshell”](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469) is my pick. I would recommend reading it from cover to cover (it only takes a day or two). Otherwise you may waste precious time later on trying to google what a “tuple” is, or how to “unpack a list of lists”. It’s better to learn all the essentials upfront.
 
 Here’s a [flowchart](http://mdalums95.files.wordpress.com/2013/12/wrujv6r.png) with the most common newbie mistakes.
 
