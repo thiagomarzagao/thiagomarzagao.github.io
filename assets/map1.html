@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.uf:hover {fill-opacity: 0.5;}
+
+.uf.MS {fill: rgb(19,0,235);}
+.uf.SC {fill: rgb(81,0,173);}
+.uf.ES {fill: rgb(21,0,233);}
+.uf.AC {fill: rgb(43,0,211);}
+.uf.RS {fill: rgb(119,0,135);}
+.uf.MT {fill: rgb(20,0,234);}
+.uf.RR {fill: rgb(59,0,195);}
+.uf.PB {fill: rgb(35,0,219);}
+.uf.PI {fill: rgb(44,0,210);}
+.uf.GO {fill: rgb(16,0,238);}
+.uf.RN {fill: rgb(28,0,226);}
+.uf.RJ {fill: rgb(34,0,220);}
+.uf.PR {fill: rgb(24,0,230);}
+.uf.AP {fill: rgb(66,0,188);}
+.uf.SP {fill: rgb(20,0,234);}
+.uf.DF {fill: rgb(37,0,217);}
+.uf.BA {fill: rgb(26,0,228);}
+.uf.PA {fill: rgb(59,0,195);}
+.uf.PE {fill: rgb(55,0,199);}
+.uf.MA {fill: rgb(75,0,179);}
+.uf.TO {fill: rgb(31,0,223);}
+.uf.CE {fill: rgb(42,0,212);}
+.uf.RO {fill: rgb(48,0,206);}
+.uf.AM {fill: rgb(57,0,197);}
+.uf.SE {fill: rgb(13,0,241);}
+.uf.MG {fill: rgb(15,0,239);}
+.uf.AL {fill: rgb(27,0,227);}
+
+#tooltip {
+    position: absolute;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    background-color: white;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+}
+
+#tooltip.hidden {
+    display: none;
+}
+
+#tooltip p {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+</style>
+<body>
+
+<div id="tooltip" class="hidden">
+    <p><strong></strong></p>
+    <p><strong><span id="value"></span></strong></p>
+    <p><span id="value2"></span></p>
+    <p><span id="value3"></span></p>
+</div>
+
+<script src="d3/d3.min.js"></script>
+<script src="topojson.v1.min.js"></script>
+<script>
+
+uf_dictionary = {"50": ["MS", "Mato Grosso do Sul", "0.08", "5,126"],
+                 "42": ["SC", "Santa Catarina", "0.47", "45,222"],
+                 "32": ["ES", "Espírito Santo", "0.09", "16,977"],
+                 "12": ["AC", "Acre", "0.20", "1,871"],
+                 "43": ["RS", "Rio Grande do Sul", "0.88", "83,133"],
+                 "51": ["MT", "Mato Grosso", "0.08", "3,202"],
+                 "14": ["RR", "Roraima", "0.30", "1,287"],
+                 "25": ["PB", "Paraíba", "0.16", "3,941"],
+                 "22": ["PI", "Piauí", "0.20", "1,364"],
+                 "52": ["GO", "Goiás", "0.06", "8,512"],
+                 "24": ["RN", "Rio Grande do Norte", "0.12", "3,663"],
+                 "33": ["RJ", "Rio de Janeiro", "0.15", "152,458"],
+                 "41": ["PR", "Paraná", "0.10", "43,169"],
+                 "16": ["AP", "Amapá", "0.35", "1,672"],
+                 "35": ["SP", "São Paulo", "0.08", "175,077"],
+                 "53": ["DF", "Distrito Federal", "0.17", "15,218"],
+                 "29": ["BA", "Bahia", "0.11", "10,649"],
+                 "15": ["PA", "Pará", "0.30", "8,544"],
+                 "26": ["PE", "Pernambuco", "0.27", "19,362"],
+                 "21": ["MA", "Maranhão", "0.42", "3,540"],
+                 "17": ["TO", "Tocantins", "0.14", "961"],
+                 "23": ["CE", "Ceará", "0.20", "9,864"],
+                 "11": ["RO", "Rondônia", "0.23", "2,017"],
+                 "13": ["AM", "Amazonas", "0.29", "10,864"],
+                 "28": ["SE", "Sergipe", "0.05", "2,198"], 
+                 "31": ["MG", "Minas Gerais", "0.06", "47,396"],
+                 "27": ["AL", "Alagoas", "0.11", "2,767"]};
+
+var width = 960,
+    height = 650
+
+var projection = d3.geo.mercator()
+    .translate([325, 250])
+    .center([-53.12, -10.20])
+    .scale(900);
+    
+var path = d3.geo.path()
+    .projection(projection);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+function idToStr(d) {
+        return uf_dictionary[d];
+};
+
+d3.json("br-states.json", function(error, mymap) {
+    svg.selectAll(".uf")
+        .data(topojson.feature(mymap, mymap.objects.states).features)
+        .enter()
+        .append("path")
+        .attr("class", function(d) {return "uf " + idToStr(d.id)[0];})
+        .attr("d", path)
+        .on("mouseover", function(d) {
+            var coordinates = [0, 0];
+            coordinates = d3.mouse(this);
+            var x = coordinates[0] + 10;
+            var y = coordinates[1] + 10;
+            d3.select("#tooltip")
+                .style("left", x + "px")
+                .style("top", y + "px")
+                .select("#value")
+                .text(idToStr(d.id)[1])
+            d3.select("#tooltip")
+                .style("left", x + "px")
+                .style("top", y + "px")
+                .select("#value2")
+                .text("tu/você ratio: " + idToStr(d.id)[2])
+            d3.select("#tooltip")
+                .style("left", x + "px")
+                .style("top", y + "px")
+                .select("#value3")
+                .text("tweets: " + idToStr(d.id)[3])
+            d3.select("#tooltip").classed("hidden", false);
+            })
+       .on("mouseout", function() {
+            d3.select("#tooltip").classed("hidden", true);
+            });
+});
+
+</script>
+</body>
