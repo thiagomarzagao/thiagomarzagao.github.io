@@ -23,9 +23,9 @@ time.sleep(seconds)
 
 `random.random()` will generate a random number between 0 and 1. So we are randomizing the delay between searches, which will vary between 5 and 10 seconds. That looks a lot more like human activity than a uniform delay. Try doing 100 searches with exactly 5 seconds between them. You can't. And if you can't do it then you don't want your bot to do it.
 
-"Then why would I want to webscrape in the first place? If the bot can't go faster than I can then what's the point? I could simply manually fetch all the content I want." You could and you should, if that's at all feasible. Building a webscraping bot can take a couple of weeks, depending on the complexity of the website and on whether you have done this before. If fetching everything manually would take only a couple of days then there is little reason to do it programmatically.
+"Then why would I want to webscrape in the first place? If the bot can't go faster than I can then what's the point? I could simply manually fetch all the content I want." You could and you should, if that's at all feasible. Building a webscraping bot can take a couple of weeks, depending on the complexity of the website and on whether you have done this before. If fetching everything manually would take only a couple of minutes then there is little reason to do it programmatically.
 
-Webscraping is for when fetching everything manually would take weeks or months or years. But even then you won't necessarily be done any faster. It may still take weeks or months or years for your bot to do all the work (well, hopefully not years). The key point is: webscraping is not about finishing faster, it's about freeing you to work on other, more interesting, tasks. While your bot is hard at work on LexisNexis or Factiva or any other site you are free to work on other parts of your dissertation, finish a conference paper, or binge-watch House of Cards on Netflix.
+Webscraping is for when fetching everything manually would take days or weeks or months. But even then you won't necessarily be done any faster. It may still take weeks or months or years for your bot to do all the work (well, hopefully not years). The key point is: webscraping is not about finishing faster, it's about freeing you to work on other, more interesting, tasks. While your bot is hard at work on LexisNexis or Factiva or any other site you are free to work on other parts of your dissertation, finish a conference paper, or binge-watch House of Cards on Netflix.
 
 Also, fetching online content manually is error-prone. If you are doing it programmatically everything is transparent: you have the code, hence you know exactly what searches were performed. You can also log any errors, as we saw in part 3, so if something went wrong you will know all about it: day, hour, search expression, button clicked, etc. 
 
@@ -101,7 +101,7 @@ _Scenario #2: more than 3000 results_
 
 This is similar to "no results" scenario, with only two differences. First, we need to look for the "More than 3000 Results" message (rather than the "No Documents Found" message); as before, we need to look for that message in a "safe" way, with a `try/except` statement or a user-defined function. Second, we have the option to go back and edit the search or proceed to the results page. 
 
-We can choose the latter by clicking the "Retrieve Results" button. But caution: when there are more than 3000 results the results page will only give us 1000 results. I don't know what criteria LexisNexis uses to select those 1000 results (I asked them but they never bothered to reply my email). Depending on the what you intend to do later you may want to consider issues of comparability and selection bias.
+We can choose the latter by clicking the "Retrieve Results" button. But caution: when there are more than 3000 results the results page will only give us 1000 results. I don't know what criteria LexisNexis uses to select those 1000 results (I asked them but they never bothered to reply my email). Depending on what you intend to do later you may want to consider issues of comparability and selection bias.
 
 _Scenario #3: 1-3000 results_
 
@@ -113,7 +113,7 @@ That number is contained in the `totalDocsInResult` object, as attribute "value"
 <input type="hidden" name="totalDocsInResult" value="587">
 {% endhighlight %}
 
-`totalDocsInResult`, in turn, is contained inside the 'fr_resultsNav...' frame that we already saw in part 2, which in turn is inside 'mainFrame'. We already know how to move into 'fr_resultsNav...' (see part 2). Once we are there extracting the total number of results is straightforward.
+`totalDocsInResult`, in turn, is contained inside the `fr_resultsNav...` frame that we already saw in part 2, which in turn is inside 'mainFrame'. We already know how to move into `fr_resultsNav...` (see part 2). Once we are there extracting the total number of results is straightforward.
 
 {% highlight python %}
 total = int(browser.find_element_by_name('totalDocsInResult').get_attribute('value'))
@@ -123,7 +123,7 @@ total = int(browser.find_element_by_name('totalDocsInResult').get_attribute('val
 
 If we have between 1 and 500 results nothing changes and we can use the code from part 2. But if we have between 501 and 3000 results that code won't work, since we can only retrieve 500 results at a time. We need to iterate over batches of 500 results if we have 501-3000 results. Here is some starter code.
 
-{% highlight python %}
+{% highlight python linenos %}
 if total > 500:
     initial = 1
     final = 500

@@ -30,9 +30,9 @@ browser.find_element_by_css_selector('img[alt=\"Download Documents\"]').click()
 
 Except it won't work here.
 
-Here is the problem: that “fr_resultsNav~ResultsMaxGroupTemplate0.6175091262270153″ frame has a different name every time you do a new search. So your code will miss it and crash (which is precisely what LexisNexis wants to happen, since they don't care for webscrapers).
+Here is the problem: that `fr_resultsNav~ResultsMaxGroupTemplate0.6175091262270153` frame has a different name every time you do a new search. So your code will miss it and crash (which is precisely what LexisNexis wants to happen, since they don't care for webscrapers).
 
-What are we to do then? Here the solution is simple. That frame name always changes, but only partially: it always begins with “fr_resultsNav”. So we can look for the frame that contains “fr_resultsNav” in its name.
+What are we to do then? Here the solution is simple. That frame name always changes, but only partially: it always begins with `fr_resultsNav`. So we can look for the frame that contains `fr_resultsNav` in its name.
 
 {% highlight python %}
 browser.switch_to_frame('mainFrame')
@@ -54,11 +54,11 @@ browser.find_element_by_css_selector('img[alt=\"Download Documents\"]').click()
 
 Great! We have solved the dynamic name problem.
 
-Notice the sequence here: first we move to “mainFrame” and _then_ we move to “fr_resultsNav~ResultsMaxGroupTemplate…”. The sequence is important: we need to move to the parent frame before we can move to the child frame. If we try to move to “fr_resultsNav~ResultsMaxGroupTemplate…” directly that won’t work. 
+Notice the sequence here: first we move to “mainFrame” and _then_ we move to `fr_resultsNav~ResultsMaxGroupTemplate…`. The sequence is important: we need to move to the parent frame before we can move to the child frame. If we try to move to `fr_resultsNav~ResultsMaxGroupTemplate…` directly that won’t work. 
 
 Now, what if the entire name changed? What would we do then?
 
-In that case we could use the position of the frame. If you inspect the HTML code of the page you will see that inside “mainFrame” we have eight different frames and that “fr_resultsNav~ResultsMaxGroupTemplate…” is the 6th. As long as that position remains constant we can do this:
+In that case we could use the position of the frame. If you inspect the HTML code of the page you will see that inside “mainFrame” we have eight different frames and that `fr_resultsNav~ResultsMaxGroupTemplate…` is the 6th. As long as that position remains constant we can do this:
 
 {% highlight python %}
 browser.switch_to_frame('mainFrame.5.child')
@@ -103,7 +103,7 @@ Now we are in a bit of a pickle. Let me explain why.
 
 When you click that link (whether manually or programmatically) your browser opens a dialog box asking you where you want to save that file. That is a problem here because Selenium can make your browser interact with webpages but cannot make your browser interact with itself. In other words, Selenium cannot make your browser change its bookmarks, switch to incognito mode, or (what matters here) interact with dialog boxes.
 
-I know, this sounds preposterous, but here is a bit of context: Selenium was conceived as a testing tool, not as a webscraping tool. Selenium's primary purpose is to help web developers automate tests on the sites they develop. Now, web developers can only control what the website does; they cannot how your computer reacts when you click a download link. So to web developers it doesn't matter that Selenium can't interact with dialog boxes.
+I know, this sounds preposterous, but here is a bit of context: Selenium was conceived as a testing tool, not as a webscraping tool. Selenium's primary purpose is to help web developers automate tests on the sites they develop. Now, web developers can only control what the website does; they cannot control how your computer reacts when you click a download link. So to web developers it doesn't matter that Selenium can't interact with dialog boxes.
 
 In other words, Selenium wasn't created for us. It's a great webscraping tool - the best one I've found so far. I can't imagine how you would even submit a search on LexisNexis using `urllib` or `httplib`, let alone retrieve the search results. But, yes, we are not Selenium's target audience. But just hang in there and everything will be allright.
 
@@ -123,7 +123,7 @@ The trick here is to find the URL behind the link LexisNexis generates. That lin
 <a href="/lnacui2api/delivery/DownloadDoc.do?fileSize=5000&amp;dnldFilePath=%2Fl-n%2Fshared%2Fprod%2Fdiscus%2Fqds%2Frepository%2Fdocs%2F6%2F43%2F2827%3A436730436%2Fformatted_doc&amp;zipDelivery=false&amp;dnldFileName=All_English_Language_News2013-11-12_22-26.TXT&amp;jobHandle=2827%3A436730436">All_English_Language_News2013-11-12_22-26.TXT</a>
 {% endhighlight %}
 
-If you stare at this HTML code long enough you will see some structure in it. Yes, it changes every time we do a new search, but some parts of it change in a predictable way. The news source ("All_English_Language_News") is always there. So are the date ("2013-11-12") and the hour ("22-26") of the request. And so is the file extension (".TXT"). We can use this structure to retrieve the URL. For instance, we can use the ".TXT" extension to do that, like this:
+If you stare at this HTML code long enough you will see some structure in it. Yes, it changes every time we do a new search, but some parts of it change in a predictable way. The news source (`All_English_Language_News`) is always there. So are the date ("2013-11-12") and the hour ("22-26") of the request. And so is the file extension (".TXT"). We can use this structure to retrieve the URL. For instance, we can use the ".TXT" extension to do that, like this:
 
 {% highlight python %}
 results_url = browser.find_element_by_partial_link_text('.TXT').get_attribute('href')
@@ -145,7 +145,7 @@ And voilà, the file is downloaded to your computer.
 
 If you are on a Mac you can use `curl` instead (or install `wget` from MacPorts). There must be something similar for Windows as well, just google around a bit.
 
-I know, platform-specific solutions are bad. I tried using `urllib2` and `requests` but that didn't work. What I got back was not the text file I had requested but some HTML gibberish instead. (My guess: since` urllib2` and `requests` connect to the website directly - and not through the browser - your bot loses its cover and gets kicked out by LexisNexis)
+I know, platform-specific solutions are bad. I tried using `urllib2` and `requests` but that didn't work. What I got back was not the text file I had requested but some HTML gibberish instead.
 
 _Solution #2: set a default download folder_
 
@@ -166,11 +166,11 @@ It looks like a great solution, but often it simply doesn't work at all. I've ha
 
 This is not surprising. The ChromeOptions capability is an experimental feature, as the code itself tells us (check the third line). Remember: Selenium wasn't originally conceived for webscrapers, so it can't make the browser interact with itself. The ChromeOptions capability was not created by the Selenium folks but by the chromedriver folks. Hopefully these tools will eventually become reliable but we are not quite there yet.
 
-You may be thinking "what if I set the browser's preferences _manually_?" It doesn't work. The preferences you set manually are saved under your user profile and they are loaded every time _you_ launch the browser but ignored when_ Selenium_ launches the browser. So, no good (believe me, I've tried it).
+You may be thinking "what if I set the browser's preferences _manually_?" It doesn't work. The preferences you set manually are saved under your user profile and they are loaded every time _you_ launch the browser but ignored when _Selenium_ launches the browser. So, no good (believe me, I've tried it).
 
 _Solution #3: improve Selenium_
 
-If you are feeling adventurous you could add download capabilities to Selenium yourself. [This guy](http://ardesco.lazerycode.com/index.php/2012/07/how-to-download-files-with-selenium-and-why-you-shouldnt/) did it (he also argues that people shouldn't download anything with Selenium in the first place but he is talking to web developers, not to webscrapers, so never mind that). He uses Java but I suppose that a Python equivalent shouldn't be too hard to produce. If you are curious, here is his code:
+If you are feeling adventurous you could add download capabilities to Selenium yourself. [This guy](http://ardesco.lazerycode.com/index.php/2012/07/how-to-download-files-with-selenium-and-why-you-shouldnt/) did it (he also argues that people shouldn't download anything with Selenium in the first place but he is talking to web developers, not to webscrapers, so never mind that). He uses Java but I suppose that a Python equivalent shouldn't be too hard to produce.
 
 Alas, that solution has 171 lines of code whereas the `wget` solution has only one line of code (two if you count `import os`), so I never bothered trying. But just because I was happy to settle for a quick-and-dirty workaround doesn't mean everyone will be.
 

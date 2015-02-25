@@ -92,7 +92,7 @@ And that's it. We have located the element.
 
 <strong>see the beauty?</strong>
 
-As the code above shows, Selenium is very intuitive. To switch frames we use 'switch_to_frame'. To find an element by its id we use 'find_element_by_id'. And so on.
+As the code above shows, Selenium is very intuitive. To switch frames we use `switch_to_frame`. To find an element by its id we use `find_element_by_id`. And so on.
 
 Another great feature of Selenium is that it's very similar across all languages it supports. In Java, for instance, this is how we switch frames and find elements by id:
 
