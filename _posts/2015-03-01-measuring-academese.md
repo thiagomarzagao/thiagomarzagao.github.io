@@ -97,7 +97,7 @@ Average word length:
 
 <iframe src="/assets/wordLength2.html" width="800" height="275" frameborder="0" scrolling="no"></iframe>
 
-Well, these are some disappointing data. I expected big differences - especially pairs like economics and anthropology, or business and history. Turns out I was wrong. Sadly, there isn't a clear "worst offender" for us to shame. Philosophy wins (well, loses) when it comes to poor word choices, but not by much, and philosophers don't use longer sentences or words than the other social scientists.
+Well, these are some disappointing data. I expected big differences - especially between pairs like economics and anthropology, or business and history. Turns out I was wrong. Sadly, there isn't a clear "worst offender" for us to shame. Philosophy wins (well, loses) when it comes to poor word choices, but not by much, and philosophers don't use longer sentences or words than the other social scientists.
 
 **what's next**
 
