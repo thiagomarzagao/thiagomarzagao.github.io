@@ -1,0 +1,114 @@
+<html>
+<head></head>
+<body>
+
+<div id="pieChart"></div>
+
+<script src="d3/d3.min.js"></script>
+<script src="d3pie.js"></script>
+<script>
+var pie = new d3pie("pieChart", {
+	"header": {
+		"title": {
+			"text": "humanities and social science articles",
+			"fontSize": 24,
+			"font": "open sans"
+		},
+		"subtitle": {
+			"text": "(selected disciplines)",
+			"color": "#333333",
+			"fontSize": 15,
+			"font": "open sans"
+		},
+		"titleSubtitlePadding": 0
+	},
+	"footer": {
+		"color": "#999999",
+		"fontSize": 10,
+		"font": "open sans",
+		"location": "bottom-left"
+	},
+	"size": {
+		"canvasWidth": 590
+	},
+	"data": {
+		"sortOrder": "value-desc",
+		"content": [
+			{
+				"label": "business",
+				"value": 4936,
+				"color": "#7e3838"
+			},
+			{
+				"label": "anthropology",
+				"value": 1942,
+				"color": "#7e6538"
+			},
+			{
+				"label": "political science",
+				"value": 1359,
+				"color": "#7c7e38"
+			},
+			{
+				"label": "economics",
+				"value": 2106,
+				"color": "#587e38"
+			},
+			{
+				"label": "philosophy",
+				"value": 1831,
+				"color": "#387e45"
+			},
+			{
+				"label": "history",
+				"value": 3686,
+				"color": "#387e6a"
+			},
+			{
+				"label": "sociology",
+				"value": 6573,
+				"color": "#386a7e"
+			}
+		]
+	},
+	"labels": {
+		"outer": {
+			"pieDistance": 32
+		},
+		"inner": {
+			"format": "value",
+			"hideWhenLessThanPercentage": 3
+		},
+		"mainLabel": {
+			"fontSize": 11
+		},
+		"percentage": {
+			"color": "#ffffff",
+			"decimalPlaces": 0
+		},
+		"value": {
+			"color": "#adadad",
+			"fontSize": 11
+		},
+		"lines": {
+			"enabled": true
+		}
+	},
+	"effects": {
+		"pullOutSegmentOnClick": {
+			"effect": "elastic",
+			"speed": 400,
+			"size": 8
+		}
+	},
+	"misc": {
+		"gradient": {
+			"enabled": true,
+			"percentage": 100
+		}
+	}
+});
+</script>
+
+</body>
+</html>
