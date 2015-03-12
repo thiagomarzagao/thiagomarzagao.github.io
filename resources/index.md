@@ -3,9 +3,9 @@ layout: page
 title: resources
 ---
 
-(last updated: February 18th, 2015)
+(last updated: March 11th, 2015)
 
-<strong>machine learning</strong>:
+<strong>machine learning / natural language processing</strong>:
 
 Prof. Ng’s online [class](https://class.coursera.org/ml-003/class). It’s certainly the best possible intro to machine learning you can find. Prof. Ng is an authority on the subject (he is director of the AI lab in Stanford) and a superb instructor.
 
@@ -18,6 +18,8 @@ Caltech’s machine learning [video library](http://work.caltech.edu/library/). 
 Manning, Raghavan, and Schütze’s “Introduction to information retrieval”. A [draft version](http://nlp.stanford.edu/IR-book/) is available online. This book is an excellent starting point for text mining. If your interest is in text mining only (and not in search algorithms), you can start with chapter 6, which lays some foundations, then proceed to chapters 13-17.
 
 Prof. Grimmer’s [lecture notes](http://www.justingrimmer.org/teaching.html). They are from his text analysis course at Stanford. He covers the main text analysis methods, giving both the intuition and the math. He also helps you make sense of the field as a whole – what’s related to what, in what way.
+
+Stanford's Natural Language Processing [syllabus](http://web.stanford.edu/class/cs224n/syllabus.shtml). Lots of great slides and readings. Deals with machine translation, deep learning, answering systems, and more. (Stanford, please make this a Coursera course!)
 
 <strong>webscraping</strong>:
 
