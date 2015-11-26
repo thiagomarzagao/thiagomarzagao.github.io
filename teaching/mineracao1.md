@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+permalink: mineracao1
 ---
 
 <strong>
