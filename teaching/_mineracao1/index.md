@@ -1,7 +1,10 @@
 ---
 layout: page
-title: MINERAÇÃO DE DADOS - 1/2016 - ADM/UnB
 ---
+
+<strong>
+MINERAÇÃO DE DADOS - 1/2016 - ADM/UnB
+</strong>
 
 Objetivo da disciplina:
 
