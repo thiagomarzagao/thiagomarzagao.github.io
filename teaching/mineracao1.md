@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: mineracao1
+permalink: teaching/mineracao1.md
 ---
 
 <strong>
