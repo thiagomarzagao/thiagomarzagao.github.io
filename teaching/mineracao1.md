@@ -1,10 +1,11 @@
 ---
-layout: page
-permalink: teaching/mineracao1.md
+layout: post
+title: EPA109738
 ---
 
 <strong>
-MINERAÇÃO DE DADOS - 1/2016 - ADM/UnB
+ENSINO E PESQUISA EM ADMINISTRAÇÃO - 1/2016 - ADM/UnB
+(mineração de dados)
 </strong>
 
 Objetivo da disciplina:
