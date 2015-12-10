@@ -29,7 +29,7 @@ Prof. Caren’s [tutorials](http://nealcaren.web.unc.edu/an-introduction-to-text
 
 [Selenium](http://docs.seleniumhq.org/) lets you “remote control” your browser. It’s tremendously useful when you need to scrape difficult sites that don’t like to be scraped (e.g., LexisNexis and Factiva). In my own research Selenium has saved me months of manual, tedious work.
 
-When I first started I couldn’t find any good tutorial on how to webscrape with Selenium, so I wrote one myself. It’s divided in five parts:
+<a name="selenium"></a>When I first started I couldn’t find any good tutorial on how to webscrape with Selenium, so I wrote one myself. It’s divided in five parts:
 
 * [part 1](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/): installing Selenium, locating page elements, interacting with page elements
 * [part 2](http://thiagomarzagao.com/2013/11/14/webscraping-with-selenium-part-2/): handling dynamic names and downloading files
