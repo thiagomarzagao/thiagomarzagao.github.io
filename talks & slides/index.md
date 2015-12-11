@@ -5,7 +5,8 @@ title: talks & slides
 
 <br>
 
-**Classificação automatizada de produtos em compras públicas)**
+**Classificação automatizada de produtos em compras públicas**
+(Automated classification of government purchases)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9WxFNz8uQ7w" frameborder="0" allowfullscreen></iframe>
 
