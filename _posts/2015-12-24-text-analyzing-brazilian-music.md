@@ -143,7 +143,7 @@ Just because you have a large vocabulary doesn't mean you pick the right words. 
 
 I read somewhere that sertanejo, forró, and pagode are beginning to merge into one single genre (I shudder at the thought of a song that is simultaneously sertanejo, forró, and pagode). I wonder if that may already show in our data, so it migh be interesting to clusterize the lyrics (say, using k-means) and check whether the resulting clusters correspond to genre labels.
 
-Finally, we could use recursive neural networks (RNN) to automate some artists (like people have done with [Obama](https://medium.com/@samim/obama-rnn-machine-generated-political-speeches-c8abd18a2ea0#.rmrcuuhwy)), just for the fun of it. As with any RNN the more training texts the better, so Chico Buarque, with his 416 lyrics, would be a great candidate for automation. I bet that most of his fans wouldn't be able to tell human Chico Buarque from bot Chico Buarque.
+Finally, we could use recurrent neural networks (RNN) to automate some artists (like people have done with [Obama](https://medium.com/@samim/obama-rnn-machine-generated-political-speeches-c8abd18a2ea0#.rmrcuuhwy)), just for the fun of it. As with any RNN the more training texts the better, so Chico Buarque, with his 416 lyrics, would be a great candidate for automation. I bet that most of his fans wouldn't be able to tell human Chico Buarque from bot Chico Buarque.
 
 **code**
 
