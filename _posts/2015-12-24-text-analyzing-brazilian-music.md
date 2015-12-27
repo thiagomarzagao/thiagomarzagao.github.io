@@ -131,7 +131,7 @@ The extremes tell a pretty coherent story: rap, MPB, and vintage sertanejo on on
 - Legião Urbana, a mediocre rock band that is insufferably popular in Brasília (where I live), only appears in the \#188th position - behind forró band Mastruz com Leite.
 - And my favorite finding: Molejo, Aviões do Forró, and Wesley Safadão, respectively the trashiest pagode band, forró band, and sertanejo singer of all times, all beat Grammy-winner, celebrated MPB singer and composer Maria Gadú.
 
-[Here](assets/table.html)'s the whole data if you're interested.
+[Here](http://thiagomarzagao.com/assets/table.html)'s the whole data if you're interested.
 
 **to do**
 
