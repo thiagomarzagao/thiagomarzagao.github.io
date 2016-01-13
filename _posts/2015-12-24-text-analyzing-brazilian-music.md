@@ -126,7 +126,7 @@ Romantic words are a lot more frequent here than in the top 30: kiss (*beijo*), 
 
 The extremes tell a pretty coherent story: rap, MPB, and vintage sertanejo on one end, forró, pagode, and contemporary sertanejo on the other. But things get fuzzier as we move away from the extremes. Here are some surprises:
 
-- Chiclete com Banana, an axé band whose best-known chorus is "aê aê aê aê aê", beats MPB-god, Grammy-winner, Girl from Ipanema co-author Tom Jobim. 
+- Chiclete com Banana, an axé band whose best-known chorus is "aê aê aê aê aê", beats MPB god, Grammy-winner, Girl from Ipanema co-author Tom Jobim. 
 - Daniel, a corny sertanejo singer, beats Maria Rita and Toquinho, two revered favorites of MPB fans.
 - Legião Urbana, a mediocre rock band that is insufferably popular in Brasília (where I live), only appears in the \#188th position - behind forró band Mastruz com Leite.
 - And my favorite finding: Molejo, Aviões do Forró, and Wesley Safadão, respectively the trashiest pagode band, forró band, and sertanejo singer of all times, all beat Grammy-winner, celebrated MPB singer and composer Maria Gadú.
