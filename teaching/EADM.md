@@ -22,7 +22,7 @@ title: EADM
 - 4 provas de 25 pontos cada.
 - As provas são individuais e sem consulta a qualquer tipo de material exceto calculadora.
 - Ao menos 50% dos 25 pontos corresponderão a questões extraídas do livro-texto (Anderson et al).
-- A nota mímima p/ aprovação na disciplina é 60/100.
+- A nota mínima p/ aprovação na disciplina é 60/100.
 
 **Plano de aulas**:
 
