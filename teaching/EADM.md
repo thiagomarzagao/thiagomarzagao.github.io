@@ -14,8 +14,7 @@ title: EADM
 **Bibliografia obrigatória**:
 
 - Anderson, David. Sweeney, Dennis. Williams, Thomas. (2013). *Estatística Aplicada à Administração e Economia.* Editora Cengage Learning. 3<sup>a</sup> edição (tradução da 6<sup>a</sup> edição norte-americana). Disponível na [Amazon](http://www.amazon.com.br/Estat%C3%ADstica-Aplicada-Administra%C3%A7%C3%A3o-e-Economia/dp/8522112819/ref=sr_1_1?ie=UTF8&qid=1453323140&sr=8-1&keywords=estat%C3%ADstica+aplicada+%C3%A0+administra%C3%A7%C3%A3o+e+economia), [Saraiva](http://www.saraiva.com.br/estatistica-aplicada-a-administracao-e-economia-3-ed-2013-4968036.html), [Livraria Cultura](http://www.livrariacultura.com.br/p/estatistica-aplicada-a-administracao-e-economia-42132070), provavelmente também em sebos.
-- Após cada aula o aluno deve ler os capítulos indicados e resolver os respectivos exercícios.
-- Não haverá qualquer tipo de controle sobre a leitura dos capítulos indicados ou sobre a resolução dos respectivos exercícios. Mas **em cada prova várias questões serão extraídas do livro, sem modificações, e essas questões valerão pelo menos 50% da prova**. Portanto é do interesse do aluno resolver o maior número possível de exercícios de cada capítulo indicado, ao longo do curso.
+- Após cada aula o aluno deve ler os capítulos indicados e resolver os respectivos exercícios. Não haverá qualquer tipo de controle sobre a leitura dos capítulos indicados ou sobre a resolução dos respectivos exercícios. Mas **em cada prova várias questões serão extraídas do livro, sem modificações, e essas questões valerão pelo menos 50% da prova**. Portanto é do interesse do aluno resolver o maior número possível de exercícios de cada capítulo indicado, ao longo do curso.
 
 **Avaliação**:
 
