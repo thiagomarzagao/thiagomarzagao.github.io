@@ -22,7 +22,9 @@
         {% if node.title != null %}
           {% if node.layout == "page" %}
             {% if node.title != "EPA109738" %}
-                <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+                {% if node.title != "EADM" %}
+                    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+                {% endif %}                
             {% endif %}
           {% endif %}
         {% endif %}
