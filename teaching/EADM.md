@@ -1,6 +1,7 @@
 ---
 layout: page
 title: EADM
+mostra: nao
 ---
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
