@@ -176,3 +176,5 @@ Naturally this entire loop will be inside the big loop that iterates over your s
 Here I only used an explicit wait for the "Close Window" button but of course you will want to sprinkle explicit waits whenever you feel the need (i.e., whenever your code crashes while trying to locate an element or interact with it). Review part 3 if needed.
 
 That's about it for now. On the next post we will cover headless browsing and parallel webscraping.
+
+([Part 5](http://thiagomarzagao.com/2013/11/17/webscraping-with-selenium-part-5/))

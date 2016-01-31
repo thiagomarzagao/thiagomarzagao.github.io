@@ -190,3 +190,5 @@ I don't know of any "copy-and-paste" way to get an element's CSS selector, but i
 That's it. You should now see Chrome leaving the search page and opening the results page.
 
 There is a lot more to cover, but that will have to wait.
+
+([Part 2](http://thiagomarzagao.com/2013/11/14/webscraping-with-selenium-part-2/))
