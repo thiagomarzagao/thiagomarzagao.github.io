@@ -1,5 +1,6 @@
 # Dependencies
 markdown:         kramdown
+#highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -18,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+#version:          2.1.0
 comments:         true
 
 github:
