@@ -149,7 +149,7 @@ Finally, we could use recurrent neural networks (RNN) to automate some artists (
 
 Here's the Python code I wrote to scrape Vagalume:
 
-{% highlight python linenos %}
+{% highlight python %}
 '''
 scrape lyrics from vagalume.com.br
 (author: thiagomarzagao.com)
