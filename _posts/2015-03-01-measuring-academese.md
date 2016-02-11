@@ -189,7 +189,7 @@ regex = re.compile("[^.!?\\s]" +
 
 To make the pie charts I used [d3pie](http://d3pie.org/), which is amazing tool: you make the charts interactively and d3pie generates the code for you. (That sort of defeats the purpose of these posts, which is to help me practice [D3](http://d3js.org/), but it was just so quick and easy that I couldn't resist.) To make the bar charts I just used plain D3. Here's the code for the first bar chart (the code is almost the same for the others):
 
-{% highlight html linenos %}
+{% highlight html %}
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
