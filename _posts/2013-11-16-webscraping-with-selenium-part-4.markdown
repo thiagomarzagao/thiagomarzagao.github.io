@@ -123,7 +123,7 @@ total = int(browser.find_element_by_name('totalDocsInResult').get_attribute('val
 
 If we have between 1 and 500 results nothing changes and we can use the code from part 2. But if we have between 501 and 3000 results that code won't work, since we can only retrieve 500 results at a time. We need to iterate over batches of 500 results if we have 501-3000 results. Here is some starter code.
 
-{% highlight python linenos %}
+{% highlight python %}
 if total > 500:
     initial = 1
     final = 500
