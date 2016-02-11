@@ -8,7 +8,7 @@ The Python script below implements the ‘wordscores’ algorithm (see [Laver, M
 
 Because this script processes one file at a time, it can handle corpora that are too large to fit in memory (unlike the R and Stata versions).
 
-{% highlight python %}
+{% highlight python linenos %}
 ### WORDSCORES (LBG-2003)
 ### author: Thiago Marzagao
 ### contact: marzagao ddott 1 at osu ddott edu
