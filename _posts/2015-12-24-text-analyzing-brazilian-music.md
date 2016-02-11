@@ -248,7 +248,7 @@ Vagalume [says](http://api.vagalume.com.br/docs/letras/) that in the future you 
 
 Here's the code I wrote to measure the vocabularies:
 
-{% highlight python linenos %}
+{% highlight python %}
 '''
 count vocabularies of lyrics scraped off vagalume.com.br
 (author: thiagomarzagao.com)
