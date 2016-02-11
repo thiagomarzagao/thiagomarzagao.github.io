@@ -4,26 +4,6 @@ layout: post
 title: text-analyzing Brazilian music
 ---
 
-<script src="https://gist.github.com/thiagomarzagao/41fc19b22106197f5bf3.js"></script>
-
-{% highlight python linenos %}
-'''
-some docstring
-'''
-print "line1"
-print "line2"
-print "line3"
-print "line4"
-print "line5"
-print "line6"
-print "line7"
-print "line8"
-print "line9"
-print "line10"
-{% endhighlight %}
-
-Stuff that should appear outside the code block.
-
 People have text-analyzed American songs to exhaustion. We've learned, among other things, that pop music has become [dumber](http://seatsmart.com/blog/lyric-intelligence/) and that Aesop Rock [beats](http://poly-graph.co/vocabulary.html) Shakespeare in vocabulary size. I thought it would be fun to make similar comparisons for Brazilian artists. Alas, as far as I could google no one has done that yet. So, I did it myself. Here's my report.
 
 **the data**
