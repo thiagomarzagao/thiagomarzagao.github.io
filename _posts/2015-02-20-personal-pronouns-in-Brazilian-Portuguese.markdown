@@ -30,7 +30,7 @@ Some caveats are in order. First, there may be intra-state variation. But for mo
  
 If you want the gory details, I used Twitter's [sample stream](https://dev.twitter.com/streaming/reference/get/statuses/sample), which is a continuous stream of a small random sample of all tweets, in JSON format. Programming-wise I used Python's [Tweepy](http://www.tweepy.org/). Here's my code (minus access key, token secret, etc; you can create your own Twitter-scraping credentials [here](https://apps.twitter.com/)):
 
-{% highlight python linenos %}
+{% highlight python %}
 import tweepy
  
 consumer_key = "YourConsumerKey"
@@ -67,7 +67,7 @@ As you can see from the code, I limited my scraping to posts containing *tu*, *v
 
 I also used Python to parse the tweets:
 
-{% highlight python linenos %}
+{% highlight python %}
 import os
 import re
 import json
@@ -151,7 +151,7 @@ To make the choropleth (the fancy word for a map whose colors vary according to 
 
 Below is the code I used to produce the choropleth. Here I only have 27 observations, so I didn't mind hardcoding the data for each of them. But if you have more observations (say, counties) you probably want to automate the process by having a function map *tu*/*você* ratios to the RGB color spectrum.
 
-{% highlight html linenos %}
+{% highlight html %}
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>

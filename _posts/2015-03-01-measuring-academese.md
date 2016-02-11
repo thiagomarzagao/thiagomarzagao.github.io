@@ -107,7 +107,7 @@ This analysis is not language-specific - what makes bad writing bad is the same 
 
 Here's the code I used to scrape SciELO, in case it may be useful to you. (Please, [be considerate](http://lethain.com/an-introduction-to-compassionate-screenscraping/). SciELO is super nice to us scrapers: it's ungated, there are no captchas, everything is in plain HTML, and - crucially - they don't prohibit scraping. So don't overparallelize or otherwise disrupt their servers.)
 
-{% highlight python linenos %}
+{% highlight python %}
 import os
 import re
 import requests
