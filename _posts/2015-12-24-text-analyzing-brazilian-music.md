@@ -246,7 +246,7 @@ You'll need the [requests](http://docs.python-requests.org/en/latest/) and [Beau
 
 Vagalume [says](http://api.vagalume.com.br/docs/letras/) that in the future you will need credentials to use their API (that's how it works with Twitter, for instance). So, if you're in the future you may have to change the code.
 
-Here's the code I wrote to meausure the vocabularies:
+Here's the code I wrote to measure the vocabularies:
 
 {% highlight python %}
 '''
