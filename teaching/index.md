@@ -3,6 +3,6 @@ layout: page
 title: teaching
 ---
 
-[MINERAÇÃO DE DADOS - 1/2016 - ADM/UnB](http://thiagomarzagao.com/teaching/EPA109738)
+[MINERAÇÃO DE DADOS - 1/2016 - ADM/UnB](/teaching/EPA109738)
 
-[ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP](http://thiagomarzagao.com/teaching/EADM)
+[ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP](/teaching/EADM)
