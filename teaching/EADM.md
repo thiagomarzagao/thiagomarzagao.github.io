@@ -6,7 +6,7 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
 
-(Última atualização: 20/01/2016)
+(Última atualização: 03/03/2016)
 
 **Objetivo da disciplina**: 
 
@@ -69,17 +69,17 @@ mostra: nao
 
 - conteúdo: aulas 6-8
 
-**10. intervalos de confiança (I)**
+**10. correlação linear**
+
+- bibliografia:
+    - Anderson et al, pp. 123-131
+
+**11. intervalos de confiança (I)**
 
 - bibliografia:
     - Anderson et al, pp. 315-352
 
-**11. intervalos de confiança (II)**
-
-- bibliografia:
-    - Anderson et al, pp. 315-352
-
-**12. intervalos de confiança (III)**
+**12. intervalos de confiança (II)**
 
 - bibliografia:
     - Anderson et al, pp. 315-352
@@ -103,11 +103,6 @@ mostra: nao
 - bibliografia:
     - Anderson et al, pp. 463-496
 
-**17. correlação linear**
+**17. prova**
 
-- bibliografia:
-    - Anderson et al, pp. 123-131
-
-**18. prova**
-
-- conteúdo: aulas 14-17
+- conteúdo: aulas 14-16
