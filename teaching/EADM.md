@@ -6,7 +6,7 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
 
-(Última atualização: 03/03/2016)
+(Última atualização: 17/03/2016)
 
 **Objetivo da disciplina**: 
 
@@ -30,21 +30,25 @@ mostra: nao
 
 - bibliografia:
     - Anderson et al, pp. 157-178
+    - [slides](/assets/teaching/estatistica/aulas_1_2.pdf)
 
 **2. probabilidade (II)**
 
 - bibliografia:
     - Anderson et al, pp. 157-178
+    - [slides](/assets/teaching/estatistica/aulas_1_2.pdf)
 
 **3. probabilidade condicional (I)**
 
 - bibliografia:
     - Anderson et al, pp. 179-202
+    - [slides](/assets/teaching/estatistica/aulas_3_4.pdf)
 
 **4. probabilidade condicional (II)**
 
 - bibliografia:
     - Anderson et al, pp. 179-202
+    - [slides](/assets/teaching/estatistica/aulas_3_4.pdf)
 
 **5. prova**
 
