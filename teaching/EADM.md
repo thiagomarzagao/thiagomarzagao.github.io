@@ -8,7 +8,7 @@ mostra: nao
 
 (Última atualização: 23/03/2016)
 
-<font color="red"><b>ATENÇÃO! FIZ CORREÇÕES NOS SLIDES DAS AULAS 3-4. FAVOR CONFERIR DESCARTAR A VERSÃO DISTRIBUÍDA NA AULA DE 23/3 E USAR A VERSÃO ATUAL.</b></font>
+<font color="red"><b>ATENÇÃO! FIZ CORREÇÕES NOS SLIDES DAS AULAS 3-4. FAVOR DESCARTAR A VERSÃO DISTRIBUÍDA NA AULA DE 23/3 E CONFERIR A VERSÃO ATUAL.</b></font>
 <br>
 
 **Objetivo da disciplina**: 
