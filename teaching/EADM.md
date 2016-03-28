@@ -6,9 +6,12 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
 
-(Última atualização: 23/03/2016)
+(Última atualização: 28/03/2016)
 
 <font color="red"><b>ATENÇÃO! FIZ CORREÇÕES NOS SLIDES DAS AULAS 3-4. FAVOR DESCARTAR A VERSÃO DISTRIBUÍDA NA AULA DE 23/3 E CONFERIR A VERSÃO ATUAL.</b></font>
+<br>
+
+<font color="red"><b>ATENÇÃO 2! LEMBREM-SE DE QUE HAVERÁ AULA DE REPOSIÇÃO NO SÁBADO 2/4, 9:00-12:00.</b></font>
 <br>
 
 **Objetivo da disciplina**: 
@@ -53,14 +56,14 @@ mostra: nao
     - Anderson et al, pp. 179-202
     - [slides](/assets/teaching/estatistica/aulas_3_4.pdf)
 
-**5. prova**
-
-- conteúdo: aulas 1-4
-
-**6. distribuições discretas de probabilidade**
+**5. distribuições discretas de probabilidade**
 
 - bibliografia:
     - Anderson et al, pp. 203-242
+
+**6. prova**
+
+- conteúdo: aulas 1-4
 
 **7. distribuições contínuas de probabilidade**
 
@@ -74,7 +77,7 @@ mostra: nao
 
 **9. prova**
 
-- conteúdo: aulas 6-8
+- conteúdo: aulas 5, 7, 8
 
 **10. correlação linear**
 
