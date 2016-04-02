@@ -6,13 +6,7 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
 
-(Última atualização: 28/03/2016)
-
-<font color="red"><b>ATENÇÃO! FIZ CORREÇÕES NOS SLIDES DAS AULAS 3-4. FAVOR DESCARTAR A VERSÃO DISTRIBUÍDA NA AULA DE 23/3 E CONFERIR A VERSÃO ATUAL.</b></font>
-<br>
-
-<font color="red"><b>ATENÇÃO 2! LEMBREM-SE DE QUE HAVERÁ AULA DE REPOSIÇÃO NO SÁBADO 2/4, 9:00-12:00.</b></font>
-<br>
+(Última atualização: 02/04/2016)
 
 **Objetivo da disciplina**: 
 
@@ -60,6 +54,7 @@ mostra: nao
 
 - bibliografia:
     - Anderson et al, pp. 203-242
+    - [slides](/assets/teaching/estatistica/aula_6.pdf)
 
 **6. prova**
 
