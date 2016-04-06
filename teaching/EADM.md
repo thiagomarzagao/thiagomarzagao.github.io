@@ -108,7 +108,7 @@ mostra: nao
 - bibliografia:
     - Anderson et al, pp. 463-496
 
-**17. prova**
+**17. regressão linear**
 
 - bibliografia:
     - Anderson et al, pp. 497-564
