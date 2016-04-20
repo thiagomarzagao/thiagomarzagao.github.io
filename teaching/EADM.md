@@ -6,7 +6,7 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
 
-(Última atualização: 18/04/2016)
+(Última atualização: 20/04/2016)
 
 **Objetivo da disciplina**: 
 
@@ -70,6 +70,7 @@ mostra: nao
 
 - bibliografia:
     - Anderson et al, pp. 243-274
+    - [slides](/assets/teaching/estatistica/aula_7.pdf)
 
 **9. prova**
 
