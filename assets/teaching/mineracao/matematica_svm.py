@@ -1,8 +1,7 @@
 import pandas as pd
 from sklearn.utils import shuffle
-from sklearn.tree import DecisionTreeClassifier
+from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.cross_validation import cross_val_score
 
 # comeca-se o script importando os pacotes necessarios
@@ -73,7 +72,7 @@ y = data['aprovacao']
 x, y = shuffle(x, y)
 
 # inicializa o classificador
-clf1 = DecisionTreeClassifier(criterion = 'gini')
+clf1 = SVC(C = 1.0)
 # treina o classificador
 clf1.fit(x[:300], y[:300])
 # mede a acuracia do classificador
@@ -82,32 +81,36 @@ accuracy1 = clf1.score(x[300:], y[300:])
 yhat = clf1.predict(x[300:])
 cm = confusion_matrix(y[300:], yhat)
 
-# repete, mas c/ alteracoes (random forest, validacao cruzada, etc)
+# repete, mas c/ alteracoes
 
-clf2 = DecisionTreeClassifier(criterion = 'entropy')
+clf2 = SVC(C = 0.1)
 clf2.fit(x[:300], y[:300])
 accuracy2 = clf2.score(x[300:], y[300:])
 
-clf3 = DecisionTreeClassifier(criterion = 'entropy', min_samples_split = 5)
+clf3 = SVC(C = 10.0)
 clf3.fit(x[:300], y[:300])
 accuracy3 = clf3.score(x[300:], y[300:])
 
-clf4 = DecisionTreeClassifier(criterion = 'entropy')
+clf4 = SVC(C = 1.0)
 clf4.fit(numericals[:300], y[:300])
 accuracy4 = clf4.score(numericals[300:], y[300:])
 
-clf5 = DecisionTreeClassifier(criterion = 'entropy')
+clf5 = SVC(C = 1.0)
 accuracies1 = cross_val_score(clf5, x, y, cv = 10)
 avg_accuracies1 = sum(accuracies1) / len(accuracies1)
 
-clf6 = RandomForestClassifier(n_estimators = 1000, criterion = 'entropy', bootstrap = True)
-clf6.fit(x[:300], y[:300])
-accuracy6 = clf6.score(x[300:], y[300:])
-
-clf7 = RandomForestClassifier(n_estimators = 1000, criterion = 'entropy', bootstrap = True)
+clf7 = SVC(C = 0.1)
 accuracies2 = cross_val_score(clf7, x, y, cv = 10)
 avg_accuracies2 = sum(accuracies2) / len(accuracies2)
 
-clf8 = RandomForestClassifier(n_estimators = 10000, criterion = 'entropy', bootstrap = True)
+clf8 = SVC(C = 10.0)
 accuracies3 = cross_val_score(clf8, x, y, cv = 10)
 avg_accuracies3 = sum(accuracies3) / len(accuracies3)
+
+clf9 = SVC(C = 10.0, kernel = 'poly')
+accuracies4 = cross_val_score(clf9, x, y, cv = 10)
+avg_accuracies4 = sum(accuracies4) / len(accuracies4)
+
+clf10 = SVC(C = 10.0, kernel = 'sigmoid')
+accuracies5 = cross_val_score(clf10, x, y, cv = 10)
+avg_accuracies5 = sum(accuracies5) / len(accuracies5)
