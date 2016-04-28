@@ -6,7 +6,7 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
 
-(Última atualização: 27/04/2016)
+(Última atualização: 28/04/2016)
 
 **Objetivo da disciplina**: 
 
@@ -69,7 +69,7 @@ mostra: nao
     - Anderson et al, pp. 203-242
     - [slides](/assets/teaching/estatistica/aula_6.pdf)
 
-**9. distribuições contínuas de probabilidade**
+|**9. distribuições contínuas de probabilidade (I)**
 
 - bibliografia:
     - Anderson et al, pp. 243-274
@@ -79,17 +79,18 @@ mostra: nao
 
 - conteúdo: aulas 7-9
 
-**11. distribuições amostrais**
+**11. distribuições contínuas de probabilidade (II)**
 
 - bibliografia:
-    - Anderson et al, pp. 275-314
+    - Anderson et al, pp. 243-274
+    - [slides](/assets/teaching/estatistica/aula_7.pdf)
 
-**12. intervalos de confiança (I)**
+**12. distribuições amostrais e intervalos de confiança**
 
 - bibliografia:
-    - Anderson et al, pp. 315-352
+    - Anderson et al, pp. 275-352
 
-**13. intervalos de confiança (II)**
+**13. intervalos de confiança**
 
 - bibliografia:
     - Anderson et al, pp. 315-352
