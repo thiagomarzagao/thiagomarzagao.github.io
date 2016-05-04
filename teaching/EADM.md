@@ -53,7 +53,7 @@ mostra: nao
 
 **5. revisão p/ prova**
 
-**6. prova**
+|**6. prova**
 
 - conteúdo: aulas 1-5
 
@@ -69,13 +69,13 @@ mostra: nao
     - Anderson et al, pp. 203-242
     - [slides](/assets/teaching/estatistica/aula_6.pdf)
 
-|**9. distribuições contínuas de probabilidade (I)**
+**9. distribuições contínuas de probabilidade (I)**
 
 - bibliografia:
     - Anderson et al, pp. 243-274
     - [slides](/assets/teaching/estatistica/aula_7.pdf)
 
-**10. prova**
+|**10. prova**
 
 - conteúdo: aulas 7-9
 
@@ -97,7 +97,7 @@ mostra: nao
     - Anderson et al, pp. 315-352
     - [slides](/assets/teaching/estatistica/aula_8.pdf)
 
-**14. prova**
+|**14. prova**
 
 - conteúdo: aulas 11-13
 
@@ -116,6 +116,6 @@ mostra: nao
 - bibliografia:
     - Anderson et al, pp. 463-496
 
-**18. prova**
+|**18. prova**
 
 - conteúdo: aulas 15-17
