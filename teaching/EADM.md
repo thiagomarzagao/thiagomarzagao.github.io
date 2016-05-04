@@ -6,7 +6,7 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
 
-(Última atualização: 28/04/2016)
+(Última atualização: 04/05/2016)
 
 **Objetivo da disciplina**: 
 
@@ -89,11 +89,13 @@ mostra: nao
 
 - bibliografia:
     - Anderson et al, pp. 275-352
+    - [slides](/assets/teaching/estatistica/aula_8.pdf)
 
 **13. intervalos de confiança**
 
 - bibliografia:
     - Anderson et al, pp. 315-352
+    - [slides](/assets/teaching/estatistica/aula_8.pdf)
 
 **14. prova**
 
