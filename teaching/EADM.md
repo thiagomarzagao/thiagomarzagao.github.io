@@ -24,7 +24,6 @@ mostra: nao
 - Ao menos 50% dos 25 pontos corresponderão a questões extraídas do livro-texto (Anderson et al). (Não há esse requerimento p/ provas substitutivas).
 - Não haverá prova substitutiva sem apresentação de atestado médico.
 - A nota mínima p/ aprovação na disciplina é 60/100.
-- Notas da primeira metade do semestre (provas 1 e 2).
 
 **Plano de aulas**:
 
