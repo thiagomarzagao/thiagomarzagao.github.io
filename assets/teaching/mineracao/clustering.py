@@ -17,7 +17,7 @@ data = fulldata[['latitude',
 kmeans = KMeans(n_clusters = 27,
                 max_iter = 450, 
                 n_init = 15, 
-                init = 'random')
+                init = 'k-means++')
 
 # clusteriza
 kmeans.fit(data)
