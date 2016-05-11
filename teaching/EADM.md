@@ -6,7 +6,7 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
 
-(Última atualização: 04/05/2016)
+(Última atualização: 11/05/2016)
 
 **Objetivo da disciplina**: 
 
@@ -23,7 +23,8 @@ mostra: nao
 - As provas são individuais e sem consulta a qualquer tipo de material exceto calculadora.
 - Ao menos 50% dos 25 pontos corresponderão a questões extraídas do livro-texto (Anderson et al). (Não há esse requerimento p/ provas substitutivas).
 - Não haverá prova substitutiva sem apresentação de atestado médico.
-- A nota mínima p/ aprovação na disciplina é 60/100.
+- A nota mínima p/ aprovação na disciplina é 6/10.
+- [Notas](/assets/teaching/estatistica/notas_1_1_2016.html) do primeiro trimestre (provas 1 e 2).
 
 **Plano de aulas**:
 
