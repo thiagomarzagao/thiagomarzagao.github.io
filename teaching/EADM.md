@@ -6,7 +6,7 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 1/2016 - ADM/IDP**
 
-(Última atualização: 11/05/2016)
+(Última atualização: 13/05/2016)
 
 **Objetivo da disciplina**: 
 
