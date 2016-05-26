@@ -87,36 +87,38 @@ mostra: nao
     - Anderson et al, pp. 243-274
     - [slides](/assets/teaching/estatistica/aula_7.pdf)
 
-**12. distribuições amostrais e intervalos de confiança**
+**12. distribuições contínuas de probabilidade (III)**
 
 - bibliografia:
-    - Anderson et al, pp. 275-352
-    - [slides](/assets/teaching/estatistica/aula_8.pdf)
+    - Anderson et al, pp. 243-274
+    - [slides](/assets/teaching/estatistica/aula_7.pdf)
 
-**13. intervalos de confiança**
+**13. distribuições contínuas de probabilidade (IV)**
 
 - bibliografia:
-    - Anderson et al, pp. 315-352
-    - [slides](/assets/teaching/estatistica/aula_8.pdf)
+    - Anderson et al, pp. 243-274
+    - [slides](/assets/teaching/estatistica/aula_7.pdf)
 
 |**14. prova**
 
 - conteúdo: aulas 11-13
 
-**15. testes de hipóteses (I)**
+**15. distribuições amostrais e intervalos de confiança**
+
+- bibliografia:
+    - Anderson et al, pp. 275-352
+    - [slides](/assets/teaching/estatistica/aula_8.pdf)
+
+**16. intervalos de confiança**
+
+- bibliografia:
+    - Anderson et al, pp. 315-352
+    - [slides](/assets/teaching/estatistica/aula_8.pdf)
+
+**17. testes de hipóteses**
 
 - bibliografia:
     - Anderson et al, pp. 357-406
-
-**16. testes de hipóteses (II)**
-
-- bibliografia:
-    - Anderson et al, pp. 407-462
-
-**17. testes de hipóteses (III)**
-
-- bibliografia:
-    - Anderson et al, pp. 463-496
 
 |**18. prova**
 
