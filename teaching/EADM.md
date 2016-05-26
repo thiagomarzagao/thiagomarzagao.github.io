@@ -25,6 +25,7 @@ mostra: nao
 - Não haverá prova substitutiva sem apresentação de atestado médico.
 - A nota mínima p/ aprovação na disciplina é 6/10.
 - [Notas](/assets/teaching/estatistica/notas_1_1_2016.html) do primeiro trimestre (provas 1 e 2).
+- [Prova 3](/assets/teaching/estatistica/prova_3.pdf)
 
 **Plano de aulas**:
 
