@@ -24,7 +24,7 @@ mostra: nao
 - Ao menos 50% dos 25 pontos corresponderão a questões extraídas do livro-texto (Anderson et al). (Não há esse requerimento p/ provas substitutivas).
 - Não haverá prova substitutiva sem apresentação de atestado médico.
 - A nota mínima p/ aprovação na disciplina é 6/10.
-- [prova 3](/assets/teaching/estatistica/prova4.pdf)
+- [prova 4](/assets/teaching/estatistica/prova4.pdf)
 - [Notas](/assets/teaching/estatistica/notas_1_1_2016.html) do primeiro trimestre (provas 1, 2 e 3).
 
 **Plano de aulas**:
