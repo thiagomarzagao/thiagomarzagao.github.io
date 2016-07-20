@@ -3,7 +3,7 @@ layout: page
 title: resources
 ---
 
-(last updated: March 11th, 2015)
+(last updated: July 19th, 2016)
 
 <strong>machine learning / natural language processing</strong>:
 
@@ -86,6 +86,8 @@ This is domain-specific, but if you're doing text analysis in political science 
 In case you are plagued by the curse of too much data, the University of Oklahoma has a [workshop series](http://www.oscer.ou.edu/education.php) on supercomputing.
 
 Prof. Howe’s online [class](https://class.coursera.org/datasci-001/class/index) teaches you MapReduce and some SQL, which may come in very handy if you have tons of data.
+
+If you need help picking a programming language, [here](https://www.vodien.com/blog/education/beginners-resources-to-learn-programming-languages.php)'s an overview (thanks Erica and Alex from Portland!).
 
 <strong>next on the list</strong>:
 
