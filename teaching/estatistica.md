@@ -36,32 +36,30 @@ mostra: nao
 
 5. prova 1
 
-6. [distribuições discretas de probabilidade (I)](/assets/teaching/estatistica/discretas.pdf)
+6. [distribuições discretas de probabilidade](/assets/teaching/estatistica/discretas.pdf)
 
-7. [distribuições discretas de probabilidade (II)](/assets/teaching/estatistica/discretas.pdf)
+7. [distribuições contínuas de probabilidade (I)](/assets/teaching/estatistica/continuas.pdf)
 
-8. [distribuições contínuas de probabilidade (I)](/assets/teaching/estatistica/continuas.pdf)
+8. [distribuições contínuas de probabilidade (II)](/assets/teaching/estatistica/continuas.pdf)
 
-9. [distribuições contínuas de probabilidade (II)](/assets/teaching/estatistica/continuas.pdf)
+9. prova 2
 
-10. prova 2
+10. [intervalos de confiança (I)](/assets/teaching/estatistica/intervalos.pdf)
 
-11. [intervalos de confiança (I)](/assets/teaching/estatistica/intervalos.pdf)
+11. [intervalos de confiança (II)](/assets/teaching/estatistica/intervalos.pdf)
 
-12. [intervalos de confiança (II)](/assets/teaching/estatistica/intervalos.pdf)
+12. [intervalos de confiança (III)](/assets/teaching/estatistica/intervalos.pdf)
 
-13. [intervalos de confiança (III)](/assets/teaching/estatistica/intervalos.pdf)
+13. [intervalos de confiança (IV)](/assets/teaching/estatistica/intervalos.pdf)
 
-14. [intervalos de confiança (IV)](/assets/teaching/estatistica/intervalos.pdf)
+14. prova 3
 
-15. prova 3
+15. testes de hipóteses (I)
 
-16. testes de hipóteses (I)
+16. testes de hipóteses (II)
 
-17. testes de hipóteses (II)
+17. prova 4
 
-18. testes de hipóteses (III)
+18. regressão linear simples
 
-19. testes de hipóteses (IV)
-
-20. prova 4
+19. regressão linear múltipla
