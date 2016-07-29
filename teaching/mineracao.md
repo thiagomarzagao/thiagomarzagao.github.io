@@ -8,7 +8,7 @@ mostra: nao
 MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 </strong>
 
-(Última atualização: 28/07/2016)
+(Última atualização: 29/07/2016)
 
 **Objetivo da disciplina**:
 
@@ -59,6 +59,9 @@ MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
     - textos (atribuição de autoria, classificação)
 - mercado de trabalho (médias salariais, etc)
 - outline do curso (tópicos, material didático, avaliação)
+- [Machine Learning for the Social Sciences](https://www.youtube.com/watch?v=oqfKz-PP9FU)
+- [We Are All Social Scientists Now: How Big Data, Machine Learning, and Causal Inference Work Together](http://stanford.edu/~jgrimmer/bd_2.pdf)
+- [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](http://www.wired.com/2008/06/pb-theory/)
 - [slides](/assets/teaching/mineracao/slides1.pdf)
 
 <strong>2. introdução à programação</strong>
@@ -129,12 +132,17 @@ MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 - [condicional.csv](/assets/teaching/mineracao/condicional.csv)
 - [condicional.py](/assets/teaching/mineracao/condicional.py)
 
-<strong>8. máquinas de suporte vetorial</strong>
+<strong>8. máquinas de suporte vetorial & parameter tuning & seleção de modelos</strong>
 
-- soft margin
-- kernel trick
+- SVM
+    - soft margin
+    - kernel trick
+- parameter tuning
+- seleção de modelos
 - leitura obrigatória:
     - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf), pp. 337-356
+    - [grid search no scikit-learn](http://scikit-learn.org/stable/modules/grid_search.html)
+    - [Automating Machine Learning](https://speakerdeck.com/amueller/automating-machine-learning)
 - leitura opcional:
     - [Language and Ideology in Congress](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8444227&fileId=S0007123411000160)
 - [slides](/assets/teaching/mineracao/slides7.pdf)
