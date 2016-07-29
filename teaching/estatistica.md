@@ -1,12 +1,12 @@
 ---
 layout: page
-title: EADM
+title: estatistica
 mostra: nao
 ---
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 2/2016 - ADM/IDP**
 
-(Última atualização: 26/07/2016)
+(Última atualização: 28/07/2016)
 
 **Objetivo da disciplina**: 
 
@@ -21,7 +21,7 @@ mostra: nao
 - 4 provas de 5 pontos cada. A nota final será a média de (prova1 + prova2) e (prova3 + prova4). 
 - A nota mínima p/ aprovação na disciplina é 6/10.
 - As provas são individuais e sem consulta a qualquer tipo de material exceto calculadora.
-- Ao menos 50% dos 25 pontos corresponderão a questões resolvidas em sala de aula. (Não há esse requerimento p/ provas substitutivas).
+- Uma lista de exercícios será disponibilizada nesta página dias antes da prova. As questões da prova serão um subconjunto dessa lista. (Exceto p/ provas substitutivas, para as quais não haverá lista prévia de exercícios.)
 - Não haverá prova substitutiva sem apresentação de atestado médico.
 
 **Aulas**:
