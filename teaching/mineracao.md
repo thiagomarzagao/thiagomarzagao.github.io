@@ -64,7 +64,20 @@ MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 - [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](http://www.wired.com/2008/06/pb-theory/)
 - [slides](/assets/teaching/mineracao/slides1.pdf)
 
-<strong>2. introdução à programação</strong>
+<strong>2. regressão linear</strong>
+
+- leitura obrigatória:
+    - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf), pp. 61-109
+- leitura opcional:
+    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 13-96
+    - [Estatística Básica](http://www.livrariacultura.com.br/p/estatistica-basica-61737525), pp. 454-503
+    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 188-232
+    - [Forecasting U.S. House Elections](http://www.jstor.org/stable/439492) (sem acesso ao JSTOR? [Sci-Hub](http://www.sci-hub.bz))
+- [slides](/assets/teaching/mineracao/slides4.pdf) (regressão linear simples)
+- [slides](/assets/teaching/mineracao/slides5.pdf) (regressão linear múltipla)
+- [dataset](/assets/teaching/mineracao/aula5dataset.csv) usado na aula
+
+<strong>3. introdução à programação</strong>
 
 - Python
 - str, int, float
@@ -78,7 +91,7 @@ MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
     - [Automate the Boring Stuff with Python](http://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_2?ie=UTF8&qid=1448215811&sr=8-2&keywords=python), pp. 11-144
 - [slides](/assets/teaching/mineracao/slides2.pdf)
 
-<strong>3. pré-processamento</strong>
+<strong>4. pré-processamento</strong>
 
 - pandas
 - problemas comuns:
@@ -92,19 +105,6 @@ MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
     - [municipios.csv](/assets/teaching/mineracao/municipios.csv)
     - [municipios2.csv](/assets/teaching/mineracao/municipios2.csv)
 - [slides](/assets/teaching/mineracao/slides3.pdf)
-
-<strong>4. regressão linear</strong>
-
-- leitura obrigatória:
-    - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf), pp. 61-109
-- leitura opcional:
-    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 13-96
-    - [Estatística Básica](http://www.livrariacultura.com.br/p/estatistica-basica-61737525), pp. 454-503
-    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 188-232
-    - [Forecasting U.S. House Elections](http://www.jstor.org/stable/439492) (sem acesso ao JSTOR? [Sci-Hub](http://www.sci-hub.bz))
-- [slides](/assets/teaching/mineracao/slides4.pdf) (regressão linear simples)
-- [slides](/assets/teaching/mineracao/slides5.pdf) (regressão linear múltipla)
-- [dataset](/assets/teaching/mineracao/aula5dataset.csv) usado na aula
 
 <strong>5. discussão dos projetos (primeira rodada)</strong>
 
