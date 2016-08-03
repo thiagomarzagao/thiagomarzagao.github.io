@@ -8,7 +8,7 @@ mostra: nao
 MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 </strong>
 
-(Última atualização: 29/07/2016)
+(Última atualização: 03/08/2016)
 
 **Objetivo da disciplina**:
 
@@ -220,9 +220,10 @@ Analysis Methods for Political Texts](http://web.stanford.edu/~jgrimmer/tad2.pdf
 - chmod
 - ./configure, make, make install
 
-<strong>14. redução de dimensionalidade</strong>
+<strong>14. redução de dimensionalidade & extração de tópicos</strong>
 
-- PCA, LDA
+- LSA
+- LDA
 
 <strong>15. discussão dos projetos (terceira rodada)</strong>
 
