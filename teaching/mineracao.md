@@ -226,6 +226,7 @@ Analysis Methods for Political Texts](http://web.stanford.edu/~jgrimmer/tad2.pdf
 - LSA
 - LDA
 - leitura opcional:
+    - [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf), pp. 403-417
     - [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
     - [aula de LDA com um dos criadores do modelo](https://www.youtube.com/watch?v=DDq3OVp9dNA)
     - [Online Learning for Latent Dirichlet Allocation](https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf)
