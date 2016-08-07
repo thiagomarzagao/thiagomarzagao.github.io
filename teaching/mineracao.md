@@ -8,7 +8,7 @@ mostra: nao
 MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 </strong>
 
-(Última atualização: 03/08/2016)
+(Última atualização: 07/08/2016)
 
 **Objetivo da disciplina**:
 
@@ -59,9 +59,10 @@ MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
     - textos (atribuição de autoria, classificação)
 - mercado de trabalho (médias salariais, etc)
 - outline do curso (tópicos, material didático, avaliação)
-- [Machine Learning for the Social Sciences](https://www.youtube.com/watch?v=oqfKz-PP9FU)
-- [We Are All Social Scientists Now: How Big Data, Machine Learning, and Causal Inference Work Together](http://stanford.edu/~jgrimmer/bd_2.pdf)
-- [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](http://www.wired.com/2008/06/pb-theory/)
+- leitura obrigatória:
+    - [Machine Learning for the Social Sciences](https://www.youtube.com/watch?v=oqfKz-PP9FU)
+    - [We Are All Social Scientists Now: How Big Data, Machine Learning, and Causal Inference Work Together](http://stanford.edu/~jgrimmer/bd_2.pdf)
+    - [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](http://www.wired.com/2008/06/pb-theory/)
 - [slides](/assets/teaching/mineracao/slides1.pdf)
 
 <strong>2. regressão linear</strong>
@@ -224,6 +225,11 @@ Analysis Methods for Political Texts](http://web.stanford.edu/~jgrimmer/tad2.pdf
 
 - LSA
 - LDA
+- leitura opcional:
+    - [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+    - [aula de LDA com um dos criadores do modelo](https://www.youtube.com/watch?v=DDq3OVp9dNA)
+    - [Online Learning for Latent Dirichlet Allocation](https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf)
+- [slides](/assets/teaching/mineracao/slides11.pdf)
 
 <strong>15. discussão dos projetos (terceira rodada)</strong>
 
