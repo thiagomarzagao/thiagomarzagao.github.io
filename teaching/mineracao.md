@@ -32,7 +32,7 @@ MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 
 **Comunicação**:
 
-- A comunicação com o professor e com os demais alunos será por meio de time no Slack: [https://mineracao.slack.com/signup](https://mineracao.slack.com/signup) Você pode se juntar ao time informando seu email @unb.br.
+- A comunicação com o professor e com os demais alunos será por meio de time no Slack: [https://mineracao.slack.com/signup](https://mineracao.slack.com/signup) Você pode se juntar ao time informando seu email @unb.br ou @aluno.unb.br
 - Uma vez no time você pode postar dúvidas, respostas, pedaços de código, etc, no canal #general, que é visível a todos os participantes. Também é possível enviar mensagens privadas dentro do time.
 - Não use o time p/ postagem de piadas, correntes, etc.
 - O Slack é o único canal de comunicação com o professor. Emails provavelmente serão ignorados.
