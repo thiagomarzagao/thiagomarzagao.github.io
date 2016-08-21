@@ -8,11 +8,7 @@ mostra: nao
 MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 </strong>
 
-(Última atualização: 12/08/2016)
-
-<font color="red">Caros, surgiu uma viagem de última hora e por isso não teremos aula na segunda-feira 15/8. Nosso próximo encontro fica portanto para o dia 22/8. Discutiremos então um dia p/ repor a aula perdida. Desculpem pelo transtorno!</font>
-
-<br>
+(Última atualização: 20/08/2016)
 
 **Objetivo da disciplina**:
 
