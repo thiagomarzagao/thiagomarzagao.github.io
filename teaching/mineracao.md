@@ -8,7 +8,7 @@ mostra: nao
 MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 </strong>
 
-(Última atualização: 20/08/2016)
+(Última atualização: 06/09/2016)
 
 **Objetivo da disciplina**:
 
@@ -89,7 +89,7 @@ MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 - funções
 - pacotes
 - leitura opcional:
-    - [Automate the Boring Stuff with Python](http://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_2?ie=UTF8&qid=1448215811&sr=8-2&keywords=python), pp. 11-144
+    - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), caps. 0-6
 - [slides](/assets/teaching/mineracao/slides2.pdf)
 
 <strong>4. pré-processamento</strong>
