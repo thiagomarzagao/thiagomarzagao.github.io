@@ -165,7 +165,7 @@ from bs4 import BeautifulSoup
 basepath = 'http://www.vagalume.com.br'
 r = requests.get(basepath + '/browse/style/')
 soup = BeautifulSoup(r.text)
-genres = [u'Rock']
+genres = [u'Rock',
           u'Ax\u00E9',
           u'Forr\u00F3',
           u'Pagode',
