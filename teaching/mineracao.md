@@ -8,7 +8,7 @@ mostra: nao
 MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 </strong>
 
-(Última atualização: 06/09/2016)
+(Última atualização: 15/09/2016)
 
 **Objetivo da disciplina**:
 
