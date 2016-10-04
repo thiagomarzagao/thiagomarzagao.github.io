@@ -23,6 +23,12 @@ This is just the Q&A session that followed the panel where I gave the talk above
 
 <br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pUfU7bbhsZk" frameborder="0" allowfullscreen></iframe>
+
+Here I talked about data mining in the Brazilian government, with a focus on Neo4j. 2016-04-2010, Brasília, Brazil, in Portuguese. [Slides](http://www.slideshare.net/ThiagoMarzago/minerao-de-dados-no-governo-federal-66741862).
+
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bp3BDm5UJCU" frameborder="0" allowfullscreen></iframe>
 
 A four-talk panel that I moderated. It was about risk and fraud detection in the Brazilian government. Q&A session starts at 1h25m. 2016-08-25, Brasília, Brazil, in Portuguese.
