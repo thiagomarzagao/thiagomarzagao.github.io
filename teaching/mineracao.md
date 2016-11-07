@@ -8,9 +8,7 @@ mostra: nao
 MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 </strong>
 
-<font color="red">Não haverá aula na segunda-feira 24/10 em virtude da Semana Universitária, conforme disposto no <a href="http://www.saa.unb.br/images/stories/documentos/calendarios/graduacao/cal_cronologico/calendario_cronologico_2%C2%BA_2016.pdf">calendário</a> da UnB.</font><br>
-
-(Última atualização: 23/10/2016)
+(Última atualização: 07/11/2016)
 
 **Objetivo da disciplina**:
 
