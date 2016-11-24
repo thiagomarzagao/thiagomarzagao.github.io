@@ -114,7 +114,7 @@ def textGirlfriend():
 
 And voilà, I can now app-text my girlfriend.
 
-<a href="http://imgur.com/VeHxBPU"><img src="http://i.imgur.com/VeHxBPU.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/VeHxBPU.png" title="source: imgur.com" />
 
 Yeah, I know, that would hardly win a design contest. But it works.
 
