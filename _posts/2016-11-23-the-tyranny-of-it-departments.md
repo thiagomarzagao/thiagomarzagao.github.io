@@ -34,7 +34,7 @@ I don't need to build a full-fledged messaging app. What I need is extremely sim
 
 That app needs to be hosted somewhere, so the first step is choosing a platform. I briefly considered using my personal laptop for that, just so I didn't have to deal with commercial cloud providers. But I worry about exposing to the world my personal files, laptop camera, browser history, and the like. Also, I want 24/7 availability and sometimes I have to bring my laptop to the office.
 
-So I settled on [Google App Engine](https://appengine.google.com/). I used it before (to host an [app](http://democracy-scores.org/) that lets people replicate my Ph.D. research) and I liked the experience. And, more importantly, it has a free tier which. GAE has changed quite a bit since the last time I used it (early 2014), but it has an interactive tutorial that got me up to speed in a matter of minutes.
+So I settled on [Google App Engine](https://appengine.google.com/). I used it before (to host an [app](http://democracy-scores.org/) that lets people replicate my Ph.D. research) and I liked the experience. And, more importantly, it has a free tier. GAE has changed quite a bit since the last time I used it (early 2014), but it has an interactive tutorial that got me up to speed in a matter of minutes.
 
 You can choose a number of programming languages on GAE. I picked Python because that's what I'm fastest at. (In hindsight, perhaps I should've used this as a chance to learn some basic Go.)
 
@@ -113,6 +113,10 @@ def textGirlfriend():
 {% endhighlight %}
 
 And voilà, I can now app-text my girlfriend.
+
+<a href="http://imgur.com/VeHxBPU"><img src="http://i.imgur.com/VeHxBPU.png" title="source: imgur.com" /></a>
+
+Yeah, I know, that would hardly win a design contest. But it works.
 
 This is where I'm at right now. I did this last night, so there is still a lot of work ahead. Right now I can send messages this way, but if my girlfriend simply hit 'reply' her message goes to the bot's account and I just don't see it. I could have the app poll the bot's account every few seconds and alert me when a new message comes in, but instead I think I'll just create a Telegram group that has my girlfriend, myself, and my bot; I don't mind reading messages on my phone, I just don't like to type on my phone. Another issue is that I want to be able to text-app my family's Telegram group, which means adding radio buttons or a drop-down menu to the homepage so I can choose between multiple receivers. Finally, I want to be able to attach images to my messages - right now I can only send text. But the core is built; I'm free from the tyranny of on-screen keyboards.
 
