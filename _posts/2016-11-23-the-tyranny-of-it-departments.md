@@ -112,7 +112,7 @@ def textGirlfriend():
     return 'message sent!'
 {% endhighlight %}
 
-And voilà, I can now app-text my girlfriend.
+And voilà, I can now web-text my girlfriend.
 
 <img src="http://i.imgur.com/VeHxBPU.png" title="source: imgur.com" />
 
