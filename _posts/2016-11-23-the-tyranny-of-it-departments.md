@@ -34,7 +34,7 @@ I don't need to build a full-fledged messaging app. What I need is extremely sim
 
 That app needs to be hosted somewhere, so the first step is choosing a platform. I briefly considered using my personal laptop for that, just so I didn't have to deal with commercial cloud providers. But I worry about exposing to the world my personal files, laptop camera, browser history, and the like. Also, I want 24/7 availability and sometimes I have to bring my laptop to the office.
 
-So I settled on [Google App Engine](https://appengine.google.com/). I used it before (to host an [app](http://democracy-scores.org/) that lets people replicate my Ph.D. research) and I liked the experience. And, more importantly, it has a free tier. GAE has changed quite a bit since the last time I used it (early 2014), but it has an interactive tutorial that got me up to speed in a matter of minutes.
+I settled on [Google App Engine](https://appengine.google.com/). I used it before (to host an [app](http://democracy-scores.org/) that lets people replicate my Ph.D. research) and I liked the experience. And, more importantly, it has a free tier. GAE has changed quite a bit since the last time I used it (early 2014), but it has an interactive tutorial that got me up to speed in a matter of minutes.
 
 You can choose a number of programming languages on GAE. I picked Python because that's what I'm fastest at. (In hindsight, perhaps I should've used this as a chance to learn some basic Go.)
 
