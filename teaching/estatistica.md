@@ -6,9 +6,9 @@ mostra: nao
 
 **ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - 2/2016 - ADM/IDP**
 
-(Última atualização: 26/10/2016)
+(Última atualização: 24/11/2016)
 
-[lista de exercícios 3](/assets/teaching/estatistica/lista3.pdf)<br>
+[lista de exercícios 4](/assets/teaching/estatistica/lista4.pdf)<br>
 
 **Objetivo da disciplina**: 
 
