@@ -8,7 +8,10 @@ mostra: nao
 MINERAÇÃO DE DADOS - 2/2016 - IPOL/UnB
 </strong>
 
-(Última atualização: 07/11/2016)
+(Última atualização: 04/12/2016)
+
+<font color="red">ATENÇÃO! Aula de 5/12 cancelada em virtude recente invasão do IPOL. O feedback sobre cada paper será enviado via Slack.</font>
+<br>
 
 **Objetivo da disciplina**:
 
