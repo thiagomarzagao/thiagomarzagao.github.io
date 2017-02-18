@@ -14,7 +14,7 @@ My setup is: Humax HG100R-L2 modem (that's what most clients of NET - Brazil's l
 
 **step 1: your modem**
 
-If you have both a modem and a router then the easiest way to go about this is to put your modem in 'bridge mode'. That means disabling all you modem's advanced settings and delegating them to your router. That way you only need to worry about router settings. You won't need to worry about complex interactions between your modem settings and router settings.
+If you have both a modem and a router then the easiest way to go about this is to put your modem in 'bridge mode'. That means disabling your modem's advanced settings and delegating them to your router. That way you only need to worry about router settings. You won't need to worry about complex interactions between your modem settings and router settings.
 
 Head to http://192.168.0.1/ on your browser. You should see the page below.
 
@@ -78,7 +78,7 @@ If your firewall is active then you need to tell it to allow incoming traffic th
 
 You need to know your MacBook's public IP address so you can access it from the outside. [This](http://www.whatsmyip.org/) should tell you. Write it down.
 
-My experience with NET in Brazil (and with TimeWarnerCable in the US) is that IP addresses don't change that often. But they do sometimes. If that bothers you you may ask that your cable provider give you a static IP address (they may charge a small fee for that).
+My experience with NET in Brazil (and with TimeWarnerCable in the US) is that IP addresses don't change that often. But they do sometimes. If that bothers you you may ask that your cable provider give you a static IP address (they may charge a small fee for that). (EDIT: alternatively, you can use a Dynamic DNS service - like [this](http://dyn.com/remote-access/); h/t [Thompson Marzagão](https://twitter.com/marzagao?lang=en).)
 
 **step 5: your coffee shop**
 
