@@ -18,19 +18,19 @@ If you have both a modem and a router then the easiest way to go about this is t
 
 Head to http://192.168.0.1/ on your browser. You should see the page below.
 
-<a href="http://imgur.com/5qdWoaO"><img src="http://i.imgur.com/5qdWoaO.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/5qdWoaO.png" title="source: imgur.com" />
 
 If you've never changed them, your id and password are 'admin' and 'password' respectively. Sign in. You should see the following, except with your WiFi network name and password shown under "SSID(2.4GHz)" and "Senha" respectively. (Your password will be shown in plain characters, not as a bunch of dots, so don't let your neighbors peek.) (Yes, Humax' settings are in a mix of Portuguese and English. It beats me too.)
 
-<a href="http://imgur.com/6OckjLr"><img src="http://i.imgur.com/6OckjLr.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/6OckjLr.png" title="source: imgur.com" />
 
 Click "Advanced Network Settings" (lower right corner). You should see something like this:
 
-<a href="http://imgur.com/S2CYOO8"><img src="http://i.imgur.com/S2CYOO8.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/S2CYOO8.png" title="source: imgur.com" />
 
 Click on "Definir" (between "Status" and "Back Up", second column from the left). You should see a page with a bit more options than the following one (that's because your modem is not in bridge mode yet).
 
-<a href="http://imgur.com/jDP8MvD"><img src="http://i.imgur.com/jDP8MvD.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/jDP8MvD.png" title="source: imgur.com" />
 
 On the "Modo Switch" menu, choose "Bridge", then click "Aplicar". Click "ok" on whatever confirmation pop up appears. This will make you go offline for a couple of minutes, as your modem resets itself. Wait until it's back up online again and voilà, your modem is now in bridge mode.
 
@@ -42,27 +42,27 @@ On to your router now. We need to tell it to accept incoming SSH and HTTP connec
 
 On your Mac, open the AirPort Utility app.
 
-<a href="http://imgur.com/qYhU4lc"><img src="http://i.imgur.com/qYhU4lc.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/qYhU4lc.png" title="source: imgur.com" />
 
 Click on the AirPort Extreme picture to go into your routers' settings and go to the 'Network' tab. You should see something like this:
 
-<a href="http://imgur.com/1GkIwv3"><img src="http://i.imgur.com/1GkIwv3.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/1GkIwv3.png" title="source: imgur.com" />
 
 We'll make a lot of changes here. First, on the "Router Mode" dropdown menu, choose "DHCP and NAT" if that's not the chosen value already. Then click the "+" button near "DHCP Reservations". That will open a small page. You'll make it look like the one below by selecting the exact same choices. (To do that you'll need to know your MAC address, which you can find out in your Mac by going into "System Preferences", "Network", "Advanced"; it's the combination of digits you see right next to "Wi-Fi Address".) When everything matches, click "Save".
 
-<a href="http://imgur.com/X8XBJaT"><img src="http://i.imgur.com/X8XBJaT.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/X8XBJaT.png" title="source: imgur.com" />
 
 Now you're back to this:
 
-<a href="http://imgur.com/1GkIwv3"><img src="http://i.imgur.com/1GkIwv3.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/1GkIwv3.png" title="source: imgur.com" />
 
 Click the "+" button near "Port Settings". A small page will pop up. Tweak all the fields so that it looks exactly like this:
 
-<a href="http://imgur.com/iOwiAPY"><img src="http://i.imgur.com/iOwiAPY.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/iOwiAPY.png" title="source: imgur.com" />
 
 Click "Save". Then click the "+" button near "Port Settings" again. The same small page will pop up. Make it look exactly like this:
 
-<a href="http://imgur.com/5eNGZ94"><img src="http://i.imgur.com/5eNGZ94.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/5eNGZ94.png" title="source: imgur.com" />
 
 Click "Save". Then click "Update". Your router will go crazy for a moment as it does its magic. Wait until it comes back up online and voilà, you have allowed SSH and HTTP connections into your home network. SSH connections will be forwarded to port 22 and HTTP connections will be forwarded to port 8080.
 
@@ -70,7 +70,7 @@ Click "Save". Then click "Update". Your router will go crazy for a moment as it 
 
 This part is simple. Go to "System Preferences", "Sharing", and enable Remote Login:
 
-<a href="http://imgur.com/2Q79h2Y"><img src="http://i.imgur.com/2Q79h2Y.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/2Q79h2Y.png" title="source: imgur.com" />
 
 If your firewall is active then you need to tell it to allow incoming traffic through ports 22 and 8080. This can be a bit tricky and it depends on your OS version. [This](http://superuser.com/questions/265856/configure-osx-firewall-to-allow-ssh-server) may help. Alternatively, you can take the lazy and insecure path of simply disabling your firewall altogether ("System Preferences", "Security and Privacy", "Firewall").
 
@@ -86,7 +86,7 @@ Take whatever cheap, inconspicous piece of hardware you have at hand to your fav
 
 If your coffee shop hardware is a tablet or smartphone, [Termius](https://www.termius.com/) is a terrific SSH client for mobile devices.
 
-<a href="http://imgur.com/fgFpOka"><img src="http://i.imgur.com/fgFpOka.jpg" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/fgFpOka.jpg" title="source: imgur.com" />
 
 **step 6 (optional): your data science**
 
@@ -96,6 +96,6 @@ On your Mac, do `pip install jupyter` to install Jupyter and then do `jupyter no
 
 (If your cheapoware is a laptop things should work right out-of-the-box. If it's an iOS device then you have some additional steps to take - see [here](https://github.com/jupyter/notebook/issues/1421).)
 
-**step 7: enjoy your venti caramel macchiato**
+**step 7: your venti caramel macchiato**
 
 That's it! You have now reduced your likelihood of getting mugged and minimized your losses in case you do get mugged. Time to grab your katana and go mingle with the locals.
