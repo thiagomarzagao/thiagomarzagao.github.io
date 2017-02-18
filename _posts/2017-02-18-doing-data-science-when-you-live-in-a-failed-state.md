@@ -78,7 +78,7 @@ If your firewall is active then you need to tell it to allow incoming traffic th
 
 You need to know your MacBook's public IP address so you can access it from the outside. [This](http://www.whatsmyip.org/) should tell you. Write it down.
 
-In my experience with NET in Brazil (and with TimeWarnerCable in the US) is that IP addresses don't change that often. But they do sometimes. If that bothers you you may ask that your cable provider give you a static IP address (they may charge a small fee for that).
+My experience with NET in Brazil (and with TimeWarnerCable in the US) is that IP addresses don't change that often. But they do sometimes. If that bothers you you may ask that your cable provider give you a static IP address (they may charge a small fee for that).
 
 **step 5: your coffee shop**
 
