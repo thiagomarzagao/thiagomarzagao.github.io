@@ -41,7 +41,7 @@ A four-talk panel that I moderated. It was about risk and fraud detection in the
 <br>
 
 <div>2016-03-30 - <b>QConSP</b></div>
-<div class="video-container"><a href="https://www.infoq.com/br/presentations/big-data-no-planalto-como-o-governo-minera-datasets"><img src="/assets/qconsp.jpg" width="725" height="460"></a></div> [Here](https://www.infoq.com/br/presentations/big-data-no-planalto-como-o-governo-minera-datasets) I talked about how the Brazilian government uses Neo4j, Python, R, and other tools to detect corruption and other crimes.
+<a href="https://www.infoq.com/br/presentations/big-data-no-planalto-como-o-governo-minera-datasets"><img src="/assets/qconsp.jpg" width="725" height="460"></a>[Here](https://www.infoq.com/br/presentations/big-data-no-planalto-como-o-governo-minera-datasets) I talked about how the Brazilian government uses Neo4j, Python, R, and other tools to detect corruption and other crimes.
 
 <br>
 
