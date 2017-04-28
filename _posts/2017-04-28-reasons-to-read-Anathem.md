@@ -94,7 +94,7 @@ As Cal Newport tells us, Neal Stephenson is a known recluse. He doesn't answer e
 
 **5. Anathem may be an extreme version of what happens when people turn against science.**
 
-Flat-Earthers and anti-vaxxers are back. People who don't know what a standard-deviation is pontificate freely and publicly about the scientific evidence of climate change. Violent gangs openly oppose free speech on university campi. I'm not saying these slines are about to lock up Earth's scientists in monasteries, but perhaps the Temnestrian Iconography is getting more popular.
+Flat-Earthers and anti-vaxxers are back. People who don't know what a standard-deviation is pontificate freely and publicly about the scientific evidence of climate change. Violent gangs openly oppose free speech at universities. I'm not saying these slines are about to lock up Earth's scientists in monasteries, but perhaps the Temnestrian Iconography is getting more popular.
 
 > “[...] Fid Erasmas, what are the Iconographies and why do we concern ourselves with them?” 
 [...] 
