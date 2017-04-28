@@ -8,7 +8,7 @@ I just read Neal Stephenson's 2008 novel [Anathem](https://www.goodreads.com/boo
 
 **1. You will feel right at home even though the story is set in an alien world (I).**
 
-The planet is called Arbre and it has a history and society are not radically different from Earth's. Except that at some point (thousands of years before the story begins) the people of Arbre revolted against science and confined their intellectuals to monasteries where the development and use of technology is severely limited - no computers, no cell phones, no internet, no cameras, etc -, as is any contact with the outside world. Inside these monasteries ("Maths") the intellectuals (the "avout") dedicate themselves to the study and development of mathematics, physics, and philosophy. As the use of technology is restricted, all that research is purely theoretical.
+The planet is called Arbre and its history and society are not radically different from Earth's. Except that at some point (thousands of years before the story begins) the people of Arbre revolted against science and confined their intellectuals to monasteries where the development and use of technology is severely limited - no computers, no cell phones, no internet, no cameras, etc -, as is any contact with the outside world. Inside these monasteries ("Maths") the intellectuals (the "avout") dedicate themselves to the study and development of mathematics, physics, and philosophy. As the use of technology is restricted, all that research is purely theoretical.
 
 Arbre's Maths are therefore an allegory for Earth's universities. How many of our papers and dissertations end up having any (non-academic) impact? Maybe 1% of them? Fewer than that? In (Earth's) academia the metric of success is usually peer-reviewed publications, not real-world usefulness. Even what we call, say, "applied econometrics" or "applied statistics" is more often than not "applied" only in a limited, strictly academic sense; when you apply econometrics to investigate the effect of economic growth on democracy that is unlikely to have any detectable effect on economic growth or democracy. 
 
@@ -91,7 +91,7 @@ As Cal Newport tells us, Neal Stephenson is a known recluse. He doesn't answer e
 
 **5. Anathem may be an extreme version of what happens when people turn against science.**
 
-Flat-Earthers and anti-vaxxers are back and people who don't know what a standard-deviation is pontificate freely and publicly about the scientific evidence of climate change. I'm not saying these slines are about to lock up Earth's scientists in monasteries, but perhaps the Temnestrian Iconography is getting more popular.
+Flat-Earthers and anti-vaxxers are back. People who don't know what a standard-deviation is pontificate freely and publicly about the scientific evidence of climate change. Violent gangs openly oppose free speech on university campi. I'm not saying these slines are about to lock up Earth's scientists in monasteries, but perhaps the Temnestrian Iconography is getting more popular.
 
 > “[...] Fid Erasmas, what are the Iconographies and why do we concern ourselves with them?” 
 [...] 
