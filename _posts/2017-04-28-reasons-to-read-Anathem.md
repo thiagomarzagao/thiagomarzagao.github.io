@@ -96,25 +96,24 @@ As Cal Newport tells us, Neal Stephenson is a known recluse. He doesn't answer e
 
 Flat-Earthers and anti-vaxxers are back. People who don't know what a standard-deviation is pontificate freely and publicly about the scientific evidence of climate change. Violent gangs openly oppose free speech at universities. I'm not saying these slines are about to lock up Earth's scientists in monasteries, but perhaps the Temnestrian Iconography is getting more popular.
 
-> “[...] Fid Erasmas, what are the Iconographies and why do we concern ourselves with them?” 
-[...] 
-“Well, the extras—” 
-“The Sæculars,” Tamura corrected me. 
-“The Sæculars know that we exist. They don’t know quite what to make of us. The truth is too complicated for them to keep in their heads. Instead of the truth, they have simplified representations— caricatures— of us. Those come and go, and have done since the days of Thelenes. But if you stand back and look at them, you see certain patterns that recur again and again, like, like— attractors in a chaotic system.” 
-“Spare me the poetry,” said Grandsuur Tamura with a roll of the eyes. There was a lot of tittering, and I had to force myself not to glance in Tulia’s direction. 
+> “[...] Fid Erasmas, what are the Iconographies and why do we concern ourselves with them?” [...] 
+> “Well, the extras—” 
+> “The Sæculars,” Tamura corrected me. 
+> “The Sæculars know that we exist. They don’t know quite what to make of us. The truth is too complicated for them to keep in their heads. Instead of the truth, they have simplified representations— caricatures— of us. Those come and go, and have done since the days of Thelenes. But if you stand back and look at them, you see certain patterns that recur again and again, like, like— attractors in a chaotic system.” 
+> “Spare me the poetry,” said Grandsuur Tamura with a roll of the eyes. There was a lot of tittering, and I had to force myself not to glance in Tulia’s direction. 
 I went on, “Well, long ago those patterns were identified and written down in a systematic way by avout who make a study of extramuros. They are called Iconographies. They are important because if we know which iconography a given extra— pardon me, a given Sæcular— is carrying around in his head, we’ll have a good idea what they think of us and how they might react to us.” 
-Grandsuur Tamura gave no sign of whether she liked my answer or not. But she turned her eyes away from me, which was the most I could hope for. “Fid Ostabon,” she said, staring now at a twenty-one-year-old fraa with a ragged beard. “What is the Temnestrian Iconography?” 
-“It is the oldest,” he began. “I didn’t ask how old it was.” “It’s from an ancient comedy,” he tried. 
-“I didn’t ask where it was from.” 
-“The Temnestrian Iconography…” he rebegan. 
-“I know what it’s called. *What is it?*” 
-“It depicts us as clowns,” Fraa Ostabon said, a little brusquely. “But… clowns with a sinister aspect. It is a two-phase iconography: at the beginning, we are shown, say, prancing around with butterfly nets or looking at shapes in the clouds…” 
-“Talking to spiders,” someone put in. Then, when no reprimand came from Grandsuur Tamura, someone else said: “Reading books upside-down.” Another: “Putting our urine up in test tubes.” 
-“So at first it seems only comical,” said Fraa Ostabon, regaining the floor. “But then in the second phase, a dark side is shown— an impressionable youngster is seduced, a responsible mother lured into insanity, a political leader led into decisions that are pure folly.” 
-“It’s a way of blaming the degeneracy of society on us— making us the original degenerates,” said Grandsuur Tamura. “Its origins? Fid Dulien?” 
-“The Cloud-weaver, a satirical play by the Ethran playwright Temnestra that mocks Thelenes by name and that was used as evidence in his trial.” 
-“How to know if someone you meet is a subscriber to this iconography? Fid Olph?” 
-“Probably they will be civil as long as the conversation is limited to what they understand, but they’ll become strangely hostile if we begin speaking of abstractions…?”
+> Grandsuur Tamura gave no sign of whether she liked my answer or not. But she turned her eyes away from me, which was the most I could hope for. “Fid Ostabon,” she said, staring now at a twenty-one-year-old fraa with a ragged beard. “What is the Temnestrian Iconography?” 
+> “It is the oldest,” he began. “I didn’t ask how old it was.” “It’s from an ancient comedy,” he tried. 
+> “I didn’t ask where it was from.” 
+> “The Temnestrian Iconography…” he rebegan. 
+> “I know what it’s called. *What is it?*” 
+> “It depicts us as clowns,” Fraa Ostabon said, a little brusquely. “But… clowns with a sinister aspect. It is a two-phase iconography: at the beginning, we are shown, say, prancing around with butterfly nets or looking at shapes in the clouds…” 
+> “Talking to spiders,” someone put in. Then, when no reprimand came from Grandsuur Tamura, someone else said: “Reading books upside-down.” Another: “Putting our urine up in test tubes.” 
+> “So at first it seems only comical,” said Fraa Ostabon, regaining the floor. “But then in the second phase, a dark side is shown— an impressionable youngster is seduced, a responsible mother lured into insanity, a political leader led into decisions that are pure folly.” 
+> “It’s a way of blaming the degeneracy of society on us— making us the original degenerates,” said Grandsuur Tamura. “Its origins? Fid Dulien?” 
+> “The Cloud-weaver, a satirical play by the Ethran playwright Temnestra that mocks Thelenes by name and that was used as evidence in his trial.” 
+> “How to know if someone you meet is a subscriber to this iconography? Fid Olph?” 
+> “Probably they will be civil as long as the conversation is limited to what they understand, but they’ll become strangely hostile if we begin speaking of abstractions…?”
 
 (Anathem, pp. 71-72)
 
