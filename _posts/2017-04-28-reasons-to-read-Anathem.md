@@ -33,8 +33,11 @@ Think back to your Ph.D. years and remember the times you went out with your fel
 Why? Because you spoke in the jargon of your field - you used non-ordinary words and you used ordinary words in non-ordinary ways. Like "instrumental" or "endogeneity" or "functional programming". Not only that: the conversations were speculative and obeyed certain unwritten rules, like [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor). Clearly these were not the same conversations you have with non-avout - your college friends, your family, your Tinder dates. And yet you call all of them "conversations". Well, not anymore; Anathem gives you a word for inter-avout conversation about mathic subjects: Dialog. Neal Stephenson goes as far as creating a taxonomy of Dialog types:
 
 > **Dialog, Peregrin**: A Dialog in which two participants of roughly equal knowledge and intelligence develop an idea by talking to each other, typically while out walking around. 
+
 > **Dialog, Periklynian**: A competitive Dialog in which each participant seeks to destroy the other’s position (see Plane).
+
 > **Dialog, Suvinian**: A Dialog in which a mentor instructs a fid, usually by asking the fid questions, as opposed to speaking discursively. 
+
 > **Dialog**: A discourse, usually in formal style, between theors. “To be in Dialog” is to participate in such a discussion extemporaneously. The term may also apply to a written record of a historical Dialog; such documents are the cornerstone of the mathic literary tradition and are studied, re-enacted, and memorized by fids. In the classic format, a Dialog involves two principals and some number of onlookers who participate sporadically. Another common format is the Triangular, featuring a savant, an ordinary person who seeks knowledge, and an imbecile. There are countless other classifications, including the suvinian, the Periklynian, and the peregrin.
 
 (Anathem, pp. 960-961)
