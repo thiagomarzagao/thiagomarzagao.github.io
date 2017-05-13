@@ -23,6 +23,11 @@ title: talks & slides
 
 <br>
 
+<div>2017-05-10 - <b>Evidence2Action: Smart Government</b></div>
+<script async class="speakerdeck-embed" data-id="9c98a23fd1be410db8b71574a4e852b3" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about how the [Comptroller General of Brazil](http://www.cgu.gov.br/) (where I work) uses machine learning to identify corrupt government employees and other problems.
+
+<br>
+
 <div>2016-11-10 - <b>1º Fórum AudiCaixa de Auditoria de TIC</b></div>
 <script async class="speakerdeck-embed" data-id="0fce6432f7c84b54ac89004f918ade0d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about how the [Comptroller General of Brazil](http://www.cgu.gov.br/) (where I work) uses machine learning to identify corrupt government employees and other problems.
 
