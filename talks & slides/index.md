@@ -23,6 +23,12 @@ title: talks & slides
 
 <br>
 
+<div>2017-05-25 - <b>39th World Continuous Auditing and Reporting Symposium</b></div>
+<script async class="speakerdeck-embed" data-id="0fb1f03d3d4e466cab3684e8405093e5" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I showed how we've been using 
+neural networks to predict problems with government suppliers.
+
+<br>
+
 <div>2017-05-10 - <b>Evidence2Action: Smart Government</b></div>
 <script async class="speakerdeck-embed" data-id="9c98a23fd1be410db8b71574a4e852b3" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I gave an abdriged, non-technical, English version of the talk below.
 
