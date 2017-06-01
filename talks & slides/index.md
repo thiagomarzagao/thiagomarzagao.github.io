@@ -23,6 +23,11 @@ title: talks & slides
 
 <br>
 
+<div>2017-05-31 - <b>23o Congresso de Informática e Inovação na Gestão Pública (CONIP)</b></div>
+<script async class="speakerdeck-embed" data-id="d0c40257776f4143bfd195952ef260e1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about what it takes to do (good) data science in the government and how to get started.
+
+<br>
+
 <div>2017-05-25 - <b>39th World Continuous Auditing and Reporting Symposium</b></div>
 <script async class="speakerdeck-embed" data-id="0fb1f03d3d4e466cab3684e8405093e5" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I showed how we've been using 
 neural networks to predict problems with government suppliers.
