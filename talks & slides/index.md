@@ -35,7 +35,7 @@ neural networks to predict problems with government suppliers.
 <br>
 
 <div>2017-05-10 - <b>Evidence2Action: Smart Government</b></div>
-<script async class="speakerdeck-embed" data-id="9c98a23fd1be410db8b71574a4e852b3" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I gave an abdriged, non-technical, English version of the talk below.
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/2prrNVaD-Nc" frameborder="0" allowfullscreen></iframe></div>Here I gave an abdriged, non-technical, English version of the talk below. [Slides](https://speakerdeck.com/thiagomarzagao/using-ai-to-fight-corruption-in-the-brazilian-government)
 
 <br>
 
