@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/thiagomarzagao
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thiagomarzagao.com
+  * I am thiagomarzagao (https://keybase.io/thiagomarzagao) on keybase.
+  * I have a public key ASAVdCRfhIPn2ajeJwty8IPOGKV0NmlWGuSLIU5iSELYego
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01201574245f8483e7d9a8de270b72f083ce18a5743669561ae48b214e624842d87a0a",
+            "host": "keybase.io",
+            "kid": "01201574245f8483e7d9a8de270b72f083ce18a5743669561ae48b214e624842d87a0a",
+            "uid": "e5eb7dac0bcddc97e0a973ea5629ba19",
+            "username": "thiagomarzagao"
+        },
+        "merkle_root": {
+            "ctime": 1498084165,
+            "hash": "a6a93f52e97991a0afc1ab436e6dc7a1ee821f67e087b83ec3652a1abb97f2fc46a275c9a91ec8f0674aa9633970dc849fe05066618b7288c7258d9fe303d0cc",
+            "hash_meta": "ccb73ebbf2872f68e693d534593974c6931e304b8a34be33fcfe73ec07bdeac8",
+            "seqno": 1186176
+        },
+        "service": {
+            "hostname": "thiagomarzagao.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1498084218,
+    "expire_in": 504576000,
+    "prev": "2de80c3320b0da3be5a5f2e31f7509b34b1ebc19b77405d6abed2d467a74f4b8",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFXQkX4SD59mo3icLcvCDzhildDZpVhrkiyFOYkhC2HoKp3BheWxvYWTFA097ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTU3NDI0NWY4NDgzZTdkOWE4ZGUyNzBiNzJmMDgzY2UxOGE1NzQzNjY5NTYxYWU0OGIyMTRlNjI0ODQyZDg3YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTU3NDI0NWY4NDgzZTdkOWE4ZGUyNzBiNzJmMDgzY2UxOGE1NzQzNjY5NTYxYWU0OGIyMTRlNjI0ODQyZDg3YTBhIiwidWlkIjoiZTVlYjdkYWMwYmNkZGM5N2UwYTk3M2VhNTYyOWJhMTkiLCJ1c2VybmFtZSI6InRoaWFnb21hcnphZ2FvIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk4MDg0MTY1LCJoYXNoIjoiYTZhOTNmNTJlOTc5OTFhMGFmYzFhYjQzNmU2ZGM3YTFlZTgyMWY2N2UwODdiODNlYzM2NTJhMWFiYjk3ZjJmYzQ2YTI3NWM5YTkxZWM4ZjA2NzRhYTk2MzM5NzBkYzg0OWZlMDUwNjY2MThiNzI4OGM3MjU4ZDlmZTMwM2QwY2MiLCJoYXNoX21ldGEiOiJjY2I3M2ViYmYyODcyZjY4ZTY5M2Q1MzQ1OTM5NzRjNjkzMWUzMDRiOGEzNGJlMzNmY2ZlNzNlYzA3YmRlYWM4Iiwic2Vxbm8iOjExODYxNzZ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidGhpYWdvbWFyemFnYW8uY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTQ5ODA4NDIxOCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIyZGU4MGMzMzIwYjBkYTNiZTVhNWYyZTMxZjc1MDliMzRiMWViYzE5Yjc3NDA1ZDZhYmVkMmQ0NjdhNzRmNGI4Iiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAmHK7TF0B7p40uEdha8eF/SAeIa6Cu4JmRHN+bQl92lV3gx4djIXNX6r6EHWE3HgXaRJAdTFDXQRZfr3bn2tpCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICdjdQ7HkMbtEabK10bc6DRyq2lalmqPSAZVK0DDpLcho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thiagomarzagao
+
+==================================================================
