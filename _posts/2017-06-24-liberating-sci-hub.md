@@ -14,7 +14,7 @@ This week I finally got tired of that nonsense - dammit, I'm a data scientist, I
 
 Writing the code was easy enough, it's a simple web app that does just one thing. I wrote it on Thursday evening and I was confident that the next morning I would just fire app a new project on Google App Engine, deploy the code, and be done with it in less than an hour. Oh, the hubris. I ended up working on it all Friday and all Saturday morning; only at Saturday 12:43pm the damned thing went alive.
 
-What follows is an account of those 36 hours, largely for my own benefit in case I run into the same issues again in the future, but also in case it may be helpful to other people also looking to unblock Sci-Hub. I'm also writing this because I think these last 36 hours are a good illustration of the difference between programming, on the one hand, and software development, on the other, which is something I struggled to understand when I first started writing code. Finally, I'm writing this because those 36 hours are a good example of the inefficiencies introduced when sysadmins (or their bosses) decide to block useful resources.
+What follows is an account of those 36 hours, largely for my own benefit in case I run into the same issues again in the future, but also in case it may be helpful to other people also looking to unblock Sci-Hub. I'm also writing this because I think those 36 hours are a good illustration of the difference between programming, on the one hand, and software development, on the other, which is something I struggled to understand when I first started writing code. Finally, I'm writing this because those 36 hours are a good example of the inefficiencies introduced when sysadmins (or their bosses) decide to block useful resources.
 
 **le code**
 
