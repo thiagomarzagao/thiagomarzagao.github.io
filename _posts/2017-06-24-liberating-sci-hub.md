@@ -226,4 +226,6 @@ It's not so fun to pull an all-nighter when you are no longer in grad school - w
 
 Those 36 hours were also a useful reminder of the difference between programming and software development. Programming is about learning all the things you can do with the tools your languages provide. Software development is largely about learning all the things you *cannot* do because your runtime environment won't let you. Our Courseras and Udacities do a great job of teaching the former but we must learn the latter by ourselves, by trial and error and by reading the documentation. I'm not sure that it could be otherwise: loops and lambdas are fundamental concepts that have been with us for decades, but the quirks of GAE's flexible environment will probably have changed completely in a year or less. Any course built around GAE (or GCP in general or AWS) would be obsolete too soon to make it worth it.
 
-This is it. I hope this may be useful to other people.
+**hey, where's the code?**
+
+It's all [here](https://github.com/thiagomarzagao/sci-hub-liberator/). Have fun!
