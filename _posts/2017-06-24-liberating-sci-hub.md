@@ -6,9 +6,11 @@ title: liberating Sci-Hub
 
 If you do academic research but are not affiliated with an academic institution you probably know [Sci-Hub](http://sci-hub.cc/). It gives you access to over 60 million research papers - for free (no ads, no malware, no scams). Alexandra Elbakyan, its creator, has deservedly been ranked by Nature one of the top ten most relevant people in science and we independent researchers owe her a lot.
 
-<a href="https://sci-hub.cc/"><img src="http://i.imgur.com/KNwyCEz.png"></a>
-
 You'd think that such an invention would be welcomed by most people who are not Elsevier executives. You'd think that such an invention would be particularly welcomed at organizations that do not have an Elsevier subscription. You'd be wrong. In the Brazilian government, where I work, Sci-Hub is not only not welcomed, it is actively blocked. The firewall doesn't let me access it.
+
+<img src="http://i.imgur.com/5DAw1VW.png">
+
+That's Portuguese for "Blocked content! Science is illegal/unethical, so screw yourself." (Sort of.)
 
 This week I finally got tired of that nonsense - dammit, I'm a data scientist, I need academic papers not only for the research I do on the side but also, and mainly, for my day job. So I decided to build an interface to Sci-Hub - an app that takes my search string, gives it to Sci-Hub, and retrieves the results. Much like I did before [in order to use Telegram](http://thiagomarzagao.com/2016/11/23/the-tyranny-of-it-departments/).
 
