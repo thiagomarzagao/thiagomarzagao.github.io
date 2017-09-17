@@ -5,7 +5,7 @@ kramdown:
   input: GFM
 
 # Permalinks
-permalink:        /:year-:month-:day-:title/
+permalink:        pretty
 
 # Setup
 title:            Thiago Marzagão
