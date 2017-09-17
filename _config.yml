@@ -12,7 +12,7 @@ title:            Thiago Marzagão
 tagline:          'A Jekyll theme'
 description:      'data, code, etc'
 url:              http://thiagomarzagao.github.io
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Mark Otto'
