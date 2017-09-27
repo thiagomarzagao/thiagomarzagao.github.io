@@ -23,6 +23,12 @@ title: talks & slides
 
 <br>
 
+<div>2017-09-26 - <b>3º Seminário sobre Análise de Dados na Administração Pública</b></div>
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/PsdxNtvOVeg" frameborder="0" allowfullscreen></iframe></div>
+A three-talk panel that I moderated. We discussed different ways to use data mining to improve policy (and shorten queuing time in banks!). Q&A session starts 52 minutes in.
+
+<br>
+
 <div>2017-05-31 - <b>23o Congresso de Informática e Inovação na Gestão Pública (CONIP)</b></div>
 <script async class="speakerdeck-embed" data-id="d0c40257776f4143bfd195952ef260e1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about what it takes to do (good) data science in the government and how to get started.
 
@@ -52,7 +58,7 @@ Here I talked about data mining in the Brazilian government, with a focus on Neo
 
 <div>2016-08-25 - <b>2º Seminário sobre Análise de Dados na Administração Pública</b></div>
 <div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/bp3BDm5UJCU" frameborder="0" allowfullscreen></iframe></div>
-A four-talk panel that I moderated. It was about risk and fraud detection in the Brazilian government. Q&A session starts at 1h25m. 2016-08-25, Brasília, Brazil, in Portuguese.
+A four-talk panel that I moderated. It was about risk and fraud detection in the Brazilian government. Q&A session starts at 1h25m.
 
 <br>
 
