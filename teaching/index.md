@@ -3,6 +3,8 @@ layout: page
 title: teaching
 ---
 
+[APRENDIZAGEM DE MÁQUINA C/ PYTHON - IPEA - 2/2017](/teaching/ipea)
+
 [MINERAÇÃO DE DADOS - POL/UnB - 2/2016](/teaching/mineracao)
 
 MINERAÇÃO DE DADOS - ADM/UnB - 1/2016
