@@ -15,6 +15,6 @@ title: code
 
 Scripts to <a href="https://gist.github.com/thiagomarzagao/0288f7ec358caf40a554">scrape</a> and <a href="https://gist.github.com/thiagomarzagao/f5b78bd8a4bc874b9846">parse</a> the Federal District's procurement <a href="https://www.compras.df.gov.br/publico/">website</a>. (I mention these scripts <a href="http://thiagomarzagao.com/2015/01/20/classifying-goods-and-services/">here</a>.)
 
-For replication material, see my <a href="http://thiagomarzagao.com/papers/">papers</a> page.
+For replication material, see my <a href="http://thiagomarzagao.com/publications/">papers</a> page.
 
 Please let me know if you run into any bugs.
