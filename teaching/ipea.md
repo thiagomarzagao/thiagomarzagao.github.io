@@ -8,7 +8,7 @@ mostra: nao
 APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 </strong>
 
-(Última atualização: 11/10/2017)
+(Última atualização: 20/11/2017)
 
 **Objetivo da disciplina**:
 
@@ -81,27 +81,9 @@ APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
     - [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
 - datasets usados na aula:
     - [municipios.csv](/assets/teaching/ipea/municipios.csv)
-    - [municipios2.csv](/assets/teaching/ipea/municipios2.csv)
 - [slides](/assets/teaching/ipea/slides3.pdf)
 
-<strong>4. regressão linear</strong>
-
-- leitura obrigatória:
-    - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf), pp. 61-109
-- leitura opcional:
-    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 13-96
-    - [Estatística Básica](http://www.livrariacultura.com.br/p/estatistica-basica-61737525), pp. 454-503
-    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 188-232
-    - [Forecasting U.S. House Elections](http://www.jstor.org/stable/439492) (sem acesso ao JSTOR? [Sci-Hub](http://www.sci-hub.bz))
-- [slides](/assets/teaching/ipea/slides4a.pdf) (regressão linear simples)
-- [slides](/assets/teaching/ipea/slides4b.pdf) (regressão linear múltipla)
-- [dataset](/assets/teaching/ipea/dados_regressao.csv) usado na aula
-
-<strong>5. discussão dos projetos (primeira rodada)</strong>
-
-- alunos apresentam suas idéias p/ trabalho final
-
-<strong>6. árvores de decisão & validação</strong>
+<strong>4. árvores de decisão & validação</strong>
 
 - árvores de decisão simples
 - random forest
@@ -116,14 +98,14 @@ APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
     - [The Politics of Need: Examining Governors' Decisions to Oppose the "Obamacare" Medicaid Expansion](http://spa.sagepub.com/content/14/4/437.short)
 - [slides](/assets/teaching/ipea/slides5.pdf)
 
-<strong>7. árvores de decisão & validação II</strong>
+<strong>5. árvores de decisão & validação II</strong>
 
 - [matematica.csv](/assets/teaching/ipea/matematica.csv)
 - [matematica.py](/assets/teaching/ipea/matematica.py)
 - [condicional.csv](/assets/teaching/ipea/condicional.csv)
 - [condicional.py](/assets/teaching/ipea/condicional.py)
 
-<strong>8. máquinas de suporte vetorial & parameter tuning & seleção de modelos</strong>
+<strong>6. máquinas de suporte vetorial & parameter tuning & seleção de modelos</strong>
 
 - SVM
     - soft margin
@@ -139,6 +121,23 @@ APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 - [slides](/assets/teaching/ipea/slides6.pdf)
 - [matematica_svm.py](/assets/teaching/ipea/matematica.py)
 - [condicional_svm.py](/assets/teaching/ipea/condicional.py)
+
+<strong>7. discussão dos projetos (primeira rodada)</strong>
+
+- alunos apresentam suas idéias p/ trabalho final
+
+<strong>8. regressão linear</strong>
+
+- leitura obrigatória:
+    - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf), pp. 61-109
+- leitura opcional:
+    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 13-96
+    - [Estatística Básica](http://www.livrariacultura.com.br/p/estatistica-basica-61737525), pp. 454-503
+    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 188-232
+    - [Forecasting U.S. House Elections](http://www.jstor.org/stable/439492) (sem acesso ao JSTOR? [Sci-Hub](http://www.sci-hub.bz))
+- [slides](/assets/teaching/ipea/slides4a.pdf) (regressão linear simples)
+- [slides](/assets/teaching/ipea/slides4b.pdf) (regressão linear múltipla)
+- [dataset](/assets/teaching/ipea/dados_regressao.csv) usado na aula
 
 <strong>9. clusterização</strong>
 
