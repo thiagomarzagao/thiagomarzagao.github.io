@@ -8,7 +8,7 @@ mostra: nao
 APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 </strong>
 
-(Última atualização: 20/11/2017)
+(Última atualização: 22/11/2017)
 
 **Objetivo da disciplina**:
 
@@ -20,7 +20,7 @@ APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 
 **Dia, horário e local**:
 
-- Terças e quintas, das 9:00 às 11:00, de 14/11 a 14/12, no IPEA.
+- Terças e quintas, das 9:00 às 11:00, de 14/11 a 14/12, no laboratório de informática do 6o andar do edifício-sede do IPEA.
 
 **Comunicação**:
 
@@ -34,7 +34,10 @@ APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 - Trabalho final. O trabalho deverá consistir na aplicação de uma ou mais técnicas aprendidas no curso (classificação, clusterização, regressão) a problema concreto de interesse do aluno. O problema deverá ser previamente discutido com e aprovado pelo professor.
 - O trabalho é individual. 
 - O trabalho será avaliado com base: i) na adequação do(s) método(s) empregados(s) ao problema; ii) no uso e interpretação corretos do(s) método(s); iii) na clareza e precisão ao descrever o problema e o(s) método(s) empregado(s).
+- O trabalho final não precisa ser um paper publicável. A idéia é apenas o aluno demonstrar domínio de pelo menos uma das ferramentas aprendidas ao longo do curso. Não há necessidade de revisão de literatura ou discussão teórica. Um trabalho final de ~5 páginas é perfeitamente aceitável.
+- O trabalho final pode ser em português ou em inglês.
 - O trabalho final deverá ser postado no canal #general do time no Slack. Dessa forma todo mundo verá o trabalho de todo mundo.
+- Além do trabalho final o aluno deverá postar também os scripts e datasets utilizados.
 - <font color="red">O prazo para postar o trabalho final é 23:59 do dia 15/12. Não serão aceitos trabalhos entregues fora do prazo.</font>
 - Plágio resultará na reprovação do aluno, no encaminhamento do caso às áreas competentes do IPEA e na inclusão do nome do aluno no [Cheaters Hall](/teaching/cheaters_hall).
 
