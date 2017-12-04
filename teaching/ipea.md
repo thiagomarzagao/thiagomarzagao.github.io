@@ -139,7 +139,7 @@ APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 - [municipios.csv](/assets/teaching/ipea/municipios.csv)
 - exercício 2:
 - [movies.py](/assets/teaching/ipea/movies.py)
-- [ml-latest.csv](http://files.grouplens.org/datasets/movielens/ml-latest.zip)
+- [ml-latest.zip](http://files.grouplens.org/datasets/movielens/ml-latest.zip)
 - exercício 3:
 - [olimpiadas.py](/assets/teaching/ipea/olimpiadas.py)
 - [summer.csv](https://www.kaggle.com/the-guardian/olympic-games/downloads/summer.csv)
