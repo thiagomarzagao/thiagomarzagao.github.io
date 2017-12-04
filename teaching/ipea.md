@@ -8,7 +8,7 @@ mostra: nao
 APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 </strong>
 
-(Última atualização: 22/11/2017)
+(Última atualização: 04/12/2017)
 
 **Objetivo da disciplina**:
 
@@ -122,27 +122,10 @@ APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 - leitura opcional:
     - [Language and Ideology in Congress](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8444227&fileId=S0007123411000160)
 - [slides](/assets/teaching/ipea/slides6.pdf)
-- [matematica_svm.py](/assets/teaching/ipea/matematica.py)
-- [condicional_svm.py](/assets/teaching/ipea/condicional.py)
+- [matematica_svm.py](/assets/teaching/ipea/matematica_svm.py)
+- [condicional_svm.py](/assets/teaching/ipea/condicional_svm.py)
 
-<strong>7. discussão dos projetos (primeira rodada)</strong>
-
-- alunos apresentam suas idéias p/ trabalho final
-
-<strong>8. regressão linear</strong>
-
-- leitura obrigatória:
-    - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf), pp. 61-109
-- leitura opcional:
-    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 13-96
-    - [Estatística Básica](http://www.livrariacultura.com.br/p/estatistica-basica-61737525), pp. 454-503
-    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 188-232
-    - [Forecasting U.S. House Elections](http://www.jstor.org/stable/439492) (sem acesso ao JSTOR? [Sci-Hub](http://www.sci-hub.bz))
-- [slides](/assets/teaching/ipea/slides4a.pdf) (regressão linear simples)
-- [slides](/assets/teaching/ipea/slides4b.pdf) (regressão linear múltipla)
-- [dataset](/assets/teaching/ipea/dados_regressao.csv) usado na aula
-
-<strong>9. clusterização</strong>
+<strong>7. clusterização</strong>
 
 - leitura obrigatória:
     - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf), pp. 385-390
@@ -150,15 +133,18 @@ APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 - leitura opcional:
     - [Classificando regimes políticos utilizando análise de conglomerados](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762012000100006)
     - [Financiamento de campanha e apoio parlamentar à Agenda Legislativa da Indústria na Câmara dos Deputados](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762015000100033)
-- [slides](/assets/teaching/ipea/slides7.pdf)
-- [clustering.py](/assets/teaching/ipea/clustering.py)
-- [municipios_clustering.csv](/assets/teaching/ipea/municipios_clustering.csv)
+- [slides](/assets/teaching/ipea/clustering.pdf)
+- exercício 1:
+- [municipios.py](/assets/teaching/ipea/municipios.py)
+- [municipios.csv](/assets/teaching/ipea/municipios.csv)
+- exercício 2:
+- [movies.py](/assets/teaching/ipea/movies.py)
+- [ml-latest.csv](http://files.grouplens.org/datasets/movielens/ml-latest.zip)
+- exercício 3:
+- [olimpiadas.py](/assets/teaching/ipea/olimpiadas.py)
+- [summer.csv](https://www.kaggle.com/the-guardian/olympic-games/downloads/summer.csv)
 
-<strong>10. discussão dos projetos (segunda rodada)</strong>
-
-- alunos apresentam suas idéias p/ trabalho final
-
-<strong>11. mineração de textos</strong>
+<strong>8. mineração de textos</strong>
 
 - bag of words
 - matriz de termos-freqüências
@@ -171,7 +157,7 @@ APRENDIZAGEM DE MÁQUINA USANDO PYTHON - 2/2017 - IPEA
 Analysis Methods for Political Texts](http://web.stanford.edu/~jgrimmer/tad2.pdf)
 - [slides](/assets/teaching/ipea/slides8a.pdf)
 
-<strong>12. redução de dimensionalidade & extração de tópicos</strong>
+<strong>9. redução de dimensionalidade & extração de tópicos</strong>
 
 - LSA
 - LDA
@@ -182,7 +168,7 @@ Analysis Methods for Political Texts](http://web.stanford.edu/~jgrimmer/tad2.pdf
     - [Online Learning for Latent Dirichlet Allocation](https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf)
 - [slides](/assets/teaching/ipea/slides8b.pdf)
 
-<strong>13. raspagem de sites</strong>
+<strong>10. raspagem de sites</strong>
 
 - com APIs
     - Vagalume, Twitter (Streaming API vs Search API), Facebook (Graph API)
@@ -207,3 +193,16 @@ Analysis Methods for Political Texts](http://web.stanford.edu/~jgrimmer/tad2.pdf
 - [raspa_scielo.py](/assets/teaching/ipea/raspa_scielo.py)
 - [raspa_scielo_2.py](/assets/teaching/ipea/raspa_scielo_2.py)
 - [regex.py](/assets/teaching/ipea/regex.py)
+
+<strong>11. regressão linear</strong>
+
+- leitura obrigatória:
+    - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf), pp. 61-109
+- leitura opcional:
+    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 13-96
+    - [Estatística Básica](http://www.livrariacultura.com.br/p/estatistica-basica-61737525), pp. 454-503
+    - [Basic Econometrics](http://www.amazon.com/Basic-Econometrics-Damodar-Gujarati/dp/0073375772/ref=sr_1_1?ie=UTF8&qid=1448210562&sr=8-1&keywords=basic+econometrics), pp. 188-232
+    - [Forecasting U.S. House Elections](http://www.jstor.org/stable/439492) (sem acesso ao JSTOR? [Sci-Hub](http://www.sci-hub.bz))
+- [slides](/assets/teaching/ipea/slides4a.pdf) (regressão linear simples)
+- [slides](/assets/teaching/ipea/slides4b.pdf) (regressão linear múltipla)
+- [dataset](/assets/teaching/ipea/dados_regressao.csv) usado na aula
