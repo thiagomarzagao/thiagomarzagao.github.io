@@ -8,7 +8,7 @@ mostra: nao
 DATA MINING E MACHINE LEARNING I - 1/2018 - IESB
 </strong>
 
-(Última atualização: 19/02/2018)
+(Última atualização: 24/02/2018)
 
 **Objetivo da disciplina**:
 
@@ -163,9 +163,35 @@ Analysis Methods for Political Texts](http://web.stanford.edu/~jgrimmer/tad2.pdf
     - [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
     - [aula de LDA com um dos criadores do modelo](https://www.youtube.com/watch?v=DDq3OVp9dNA)
 
-<strong>9. análise de redes I</strong>
+<strong>9. análise de grafos I</strong>
 
-<strong>10. análise de redes II</strong>
+- slides:
+    - [grafos](/assets/teaching/iesb/slides/grafos1.pdf)
+- exercícios/Panamá Papers:
+    - [panama_papers](https://offshoreleaks.icij.org/pages/database)
+    - [panama_papers.py](/assets/teaching/iesb/exercicios/grafos/panama_papers.py)
+    - [graph_vis.py](/assets/teaching/iesb/exercicios/grafos/graph_vis.py)
+    - [panama_papers_vis.py](/assets/teaching/iesb/exercicios/grafos/panama_papers_vis.py)
+- outras ferramentas p/ visualização
+    - [plotly](https://plot.ly/)
+    - [vis.js](http://visjs.org/)
+- banco de grafos
+    - [Neo4j](https://neo4j.com/)
+
+<strong>10. análise de grafos II</strong>
+
+- slides:
+    - [grafos](/assets/teaching/iesb/slides/grafos1.pdf)
+- exercícios/Panamá Papers:
+    - [panama_papers](https://offshoreleaks.icij.org/pages/database)
+    - [panama_papers.py](/assets/teaching/iesb/exercicios/grafos/panama_papers.py)
+    - [graph_vis.py](/assets/teaching/iesb/exercicios/grafos/graph_vis.py)
+    - [panama_papers_vis.py](/assets/teaching/iesb/exercicios/grafos/panama_papers_vis.py)
+- outras ferramentas p/ visualização
+    - [plotly](https://plot.ly/)
+    - [vis.js](http://visjs.org/)
+- banco de grafos
+    - [Neo4j](https://neo4j.com/)
 
 <strong>11. trabalho final: apresentações</strong>
 
