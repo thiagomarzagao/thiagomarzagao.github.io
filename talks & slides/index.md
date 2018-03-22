@@ -23,6 +23,11 @@ title: talks & slides
 
 <br>
 
+<div>2018-03-15 - <b>Seminário sobre Data Science e Inteligência Artificial na Administração Pública</b></div>
+<script async class="speakerdeck-embed" data-id="db67d3d845354254945459f271c0f985" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about the work we do at the Observatory of Public Spending and how other government agencies can get start with data science.
+
+<br>
+
 <div>2017-09-26 - <b>3º Seminário sobre Análise de Dados na Administração Pública</b></div>
 <div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/PsdxNtvOVeg" frameborder="0" allowfullscreen></iframe></div>
 A three-talk panel that I moderated. We discussed different ways to use data mining to improve policy (and shorten queuing time in banks!). Q&A session starts 52 minutes in.
