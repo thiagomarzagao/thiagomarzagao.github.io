@@ -103,7 +103,7 @@ Now, you probably want this "listener" to run in the background, so that you can
 
 **step 4: processing `#incoming` messages**
 
-Receiving messages is not enough, your script needs to do something about them. The simple, quick-and-dirty solution is to have your `#incoming` messages be the very database queries you want to run. An `#incoming` message could be, say, `SELECT [some_column] FROM [some].[table] WHERE [some_other_column] = 0`. Then the listener (the server-side program we created before) would read the query and use an ODBC package - like pyodbc or rodbc - to run it. If that works for you, here's how you'd amend the listener we created before to have it handle SQL queries:
+Receiving messages is not enough, your script needs to do something about them. The simple, quick-and-dirty solution is to have your `#incoming` messages be the very database queries you want to run. An `#incoming` message could be, say, `SELECT [some_column] FROM [some].[table] WHERE [some_other_column] = 42`. Then the listener (the server-side program we created before) would read the query and use an ODBC package - like pyodbc or rodbc - to run it. If that works for you, here's how you'd amend the listener we created before to have it handle SQL queries:
 
 {% highlight python %}
 import time
