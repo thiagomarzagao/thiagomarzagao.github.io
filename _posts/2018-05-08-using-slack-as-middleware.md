@@ -73,7 +73,7 @@ There. Once you run this code you should see the message "hey macarena" appear i
 
 **step 3: receiving `#incoming` messages**
 
-Alright, now you need a server-side program that will check `#incoming` for new messages - say, every five seconds or so. By server-side I mean it will run inside your company's network; it needs to run from a machine that has access to your company's databases. Here's an example:
+Ok, now you need a server-side program that will check `#incoming` for new messages - say, every five seconds or so. By server-side I mean it will run inside your company's network; it needs to run from a machine that has access to your company's databases. Here's an example:
 
 {% highlight python %}
 import time
@@ -126,7 +126,7 @@ def run_query(query):
     cnxn = pyodbc.connect(
         driver = 'name of your ODBC driver',
         server = 'path-to-your-database-server',
-        database = 'name_of_your_database,
+        database = 'name_of_your_database',
         uid = 'uid',
         pwd = 'pwd'
         )
@@ -152,7 +152,7 @@ Once the ODBC part is taken care of, leave the script above running and post som
 
 **step 5: replying to `#incoming` messages**
 
-Alright, so you now have a script that receives queries and executes them. Now your script needs to post the result sets to `#outgoing`. There really isn't much mystery here - we already wrote `post_to_outgoing` above. The only thing left is to convert our result set into a string, so that Slack can accept it. In Python the `json` module handles that for us: `json.dumps(your_data)` takes a list or dict (or list of dicts, or dict of lists) and turns it into a string. It's all below.
+So you have a script that receives queries and executes them. Now your script needs to post the result sets to `#outgoing`. There really isn't much mystery here - we already wrote `post_to_outgoing` above. The only thing left is to convert our result set into a string, so that Slack can accept it. In Python the `json` module handles that for us: `json.dumps(your_data)` takes a list or dict (or list of dicts, or dict of lists) and turns it into a string. It's all below.
 
 {% highlight python %}
 import json
