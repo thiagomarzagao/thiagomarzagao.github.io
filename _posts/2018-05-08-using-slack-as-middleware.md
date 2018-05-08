@@ -4,7 +4,7 @@ layout: post
 title: using Slack as middleware
 ---
 
-I started working remote a few weeks ago. It's sheer awesomeness - no distractions, no commute, no shabby cafeteria lunch. But there was one minor glitch: I was having trouble accesing my organization's proprietary data. Being a government agency, we hoard tons of sensitive data on people - addresses, taxpayer IDs, personal income, etc. So, naturally, we restrict access to our databases. There is no URL I can go to when I need to run some database query; I need to be inside my organization's network to run database queries.
+I started working remote a few weeks ago. It's sheer awesomeness - no distractions, no commute, no shabby cafeteria lunch. But there was one minor glitch: I was having trouble accessing my organization's proprietary data. Being a government agency, we hoard tons of sensitive data on people - addresses, taxpayer IDs, personal income, etc. So, naturally, we restrict access to our databases. There is no URL I can go to when I need to run some database query; I need to be inside my organization's network to run database queries.
 
 I can use a VPN to log into my office PC from any machine. And once I'm logged into my office PC I can access whatever I want. But that means being forced to use my lame, old office PC instead of my sleak, fast MacBook Pro. Using the VPN also means enduring a maddening lag. It's only a fraction of a second, but it's noticeable and it can drive you insane. Finally, using the VPN means I have no *local* internet access - while I'm in the VPN my laptop has no other contact with the outside world, which results in my not being able to use Spotify and a bunch of other stuff. And I need my 90s Eurodance playlists to be in the proper mindset for writing code.
 
