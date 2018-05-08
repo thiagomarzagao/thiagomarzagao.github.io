@@ -8,11 +8,11 @@ mostra: nao
 DATA MINING E MACHINE LEARNING I - 1/2018 - IESB
 </strong>
 
-(Última atualização: 24/02/2018)
+(Última atualização: 2018-05-04)
 
 **Objetivo da disciplina**:
 
-- Ao final do curso o aluno deverá ser capaz de usar corretamente as seguintes ferramentas: clusterização, detecção de anomalias, raspagem de sites, mineração de textos, análise de redes sociais.
+- Ao final do curso o aluno deverá ser capaz de usar corretamente as seguintes ferramentas: clusterização, detecção de anomalias, raspagem de sites, mineração de textos, análise de redes sociais. A idéia é que esta primeira disciplina lance as fundações para a segunda (Data Mining e Machine Learning II), que será focada em aprendizagem supervisionada.
 
 **Pré-requisitos**:
 
