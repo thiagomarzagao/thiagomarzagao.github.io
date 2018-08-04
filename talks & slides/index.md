@@ -23,6 +23,11 @@ title: talks & slides
 
 <br>
 
+<div>2018-08-03 - <b>Fórum sobre Inteligência Artificial na Administração Pública</b></div>
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/5xPSDSoQPpI" frameborder="0" allowfullscreen></iframe></div> A talk I gave at Brazil's electoral court. I discussed a few of our ML-based projects at the Observatory of Public Spending. Q&A session starts 1h04m in.
+
+<br>
+
 <div>2018-03-15 - <b>Seminário sobre Data Science e Inteligência Artificial na Administração Pública</b></div>
 <script async class="speakerdeck-embed" data-id="db67d3d845354254945459f271c0f985" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about the work we do at the Observatory of Public Spending and how other government agencies can get start with data science.
 
