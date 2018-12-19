@@ -11,9 +11,9 @@ You can find more details about my work in my [papers](http://thiagomarzagao.com
 
 I also play with LEGO robots (I've made a [Python module](https://github.com/thiagomarzagao/ev3py) that makes it easy to program LEGO Mindstorms EV3 bricks), write tutorials ("[webscraping with Selenium](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/)" is by far the most popular one), [discuss Brazilian music](http://thiagomarzagao.com/2015/12/24/text-analyzing-brazilian-music/), listen to podcasts (check [The History of English Podcast](http://historyofenglishpodcast.com/) and [Talk Python to Me](https://talkpython.fm/)), read sci-fi (here's my [Goodreads profile](https://www.goodreads.com/user/show/45921922-thiago-marzag-o)), watch Rick and Morty, and waste time on social media.
 
-Here's a picture of my dog (unlike me she is on [Instagram](https://www.instagram.com/aryavonkempten/); before getting her I read a lot about dogs - [here](https://twitter.com/tmarzagao/status/1014685028155052032)'s what I learned):
+Here's a picture of my dog ([here](https://www.instagram.com/aryavonkempten/)'s more):
 
-<img src="https://i.imgur.com/ne3Cb1s.jpg" title="Arya" height="40%" width="40%" />
+<img src="https://i.imgur.com/ne3Cb1s.jpg" title="Arya" height="100%" width="100%" />
 
 You can reach me at marzagao dot 1 at osu dot edu and [@tmarzagao](https://twitter.com/tmarzagao).
 
