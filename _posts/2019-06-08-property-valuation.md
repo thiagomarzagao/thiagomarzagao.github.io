@@ -70,7 +70,7 @@ Take the report we discussed before. The sample size is 25. That's just not good
 
 Such a small sample is particularly egregious here, since CEF has 70% of all mortgages in Brazil, so they surely have a ton of data they could have used (or shared with the company they contracted to do the job). Imagine having millions of samples and then using only 25.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/QcGxS4V"><a href="//imgur.com/QcGxS4V"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<iframe src="https://giphy.com/embed/pNGFddQO31GJa" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pNGFddQO31GJa">via GIPHY</a></p>
 
 (I suspect this has to do with appraisers' lack of programming skills. They use software with graphical interfaces and probably just type every data point manually. So 1 million samples would be of no use to them. But I'm just guessing here.)
 
@@ -90,7 +90,7 @@ The stuff you copied and pasted contains, among other things, tests of the assum
 
 In other words, regulation substitutes for actual knowledge.
 
-(Let this be a lesson to the perpetually outraged online mobs demanding that algorithms be regulated. They think they'll get Andrew Ng to write the regulations, but Andrew Ng has better things to do. In the real world regulations are produced by a mix of bureaucrats with no skin in the game and politicians with too much skin in the game.)
+(Let this be a lesson to the perpetually outraged online mobs demanding that algorithms be regulated. They think they'll get Andrew Ng to write the regulations. In the real world regulations are produced by a mix of bureaucrats with no skin in the game and politicians with too much skin in the game.)
 
 **"well, criticizing is easy! why don't you do something about it instead?"**
 
