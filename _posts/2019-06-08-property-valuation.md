@@ -70,7 +70,7 @@ Take the report we discussed before. The sample size is 25. That's just not good
 
 Such a small sample is particularly egregious here, since CEF has 70% of all mortgages in Brazil, so they surely have a ton of data they could have used (or shared with the company they contracted to do the job). Imagine having millions of samples and then using only 25.
 
-<iframe src="https://giphy.com/embed/pNGFddQO31GJa" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pNGFddQO31GJa">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/pNGFddQO31GJa" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pNGFddQO31GJa"></a></p>
 
 (I suspect this has to do with appraisers' lack of programming skills. They use software with graphical interfaces and probably just type every data point manually. So 1 million samples would be of no use to them. But I'm just guessing here.)
 
