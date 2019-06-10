@@ -4,7 +4,7 @@ layout: post
 title: how much is your apartment worth? (part 2)
 ---
 
-So, Brazilian banks are using predictive models to do property valuation but they are [doing it wrong](http://thiagomarzagao.com/2019-06-08-property-valuation.md). It's time for us data folks to step in and cause some disruption.
+So, Brazilian banks are using predictive models to do property valuation but they are [doing it wrong](http://thiagomarzagao.com/2019/06/08/property-valuation/). It's time for us data folks to step in and cause some disruption.
 
 <iframe src="https://giphy.com/embed/lQJIEmMzyr8OhoTA9t" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lQJIEmMzyr8OhoTA9t"></a></p>
 
@@ -137,9 +137,9 @@ for i, href in enumerate(hrefs):
 
 This will take a couple of days to run, because of all the pictures you're downloading.
 
-<img src="https://i.imgur.com/S1abFYP.jpg">
+<iframe src="https://giphy.com/embed/jBK8OrYIO1yTe" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/waiting-charlie-chaplin-work-problems-jBK8OrYIO1yTe"></a></p>
 
-In the end we'll have over 15k samples. That's up from the current 25-250 samples that real estate appraisers have been using.
+In the end we'll have over 15k samples. That's up from the current 25-250 samples that real estate appraisers are using.
 
 **parsing data**
 
@@ -278,7 +278,7 @@ Hooray, now we've put all the (non-image) data in a CSV file with proper column 
 
 Now that we have all that data it's time to throw some of it away.
 
-You see, people are lazy. When they list their properties on wimoveis they don't bother to tick all the boxes - "pool", "playground", "A/C", etc. Whatever they consider relevant they'll put in the property description (often with lots of adjectives and exclamation marks). The result is that our CSV file is mostly empty: most of its cells are missing data. This varies according to the feature we're talking about. But the vast majority of the features have simply too many missing data points to be useful. So let's clean up a bit.
+You see, people are lazy. When they list their properties on wimoveis they don't bother to tick all the boxes - "pool", "playground", "A/C", etc. Whatever they consider relevant they'll write down in the text field (often with lots of adjectives and exclamation marks). The result is that our CSV file is mostly empty: most of its cells are missing data. This varies according to the feature we're talking about. But the vast majority of the features have simply too many missing data points to be useful. So let's clean up a bit.
 
 {% highlight python %}
 import numpy as np
@@ -449,7 +449,7 @@ There! Now we have a clean, usable dataset.
 
 I tried a few different algorithms to estimate the properties' asking prices: linear regression, SVM, random forest, boosted trees, neural networks. For each of these algorithms (except linear regression) I tweaked the corresponding parameters a bunch of times (and for neural networks I tried lots of different architectures). The clear winner was boosted trees (which won't be so surprising to Kaggle competitors).
 
-Just a quick note: we discarded lots of features in the previous step because of missing data. Here we'll add some of them back. People don't always tick the "barbecue" box when filling out their listings, but they usually mention in the property description that the condo has a barbecuing place. So the code below scans the property description looking for certain words.
+Just a quick note: we discarded lots of features in the previous step because of missing data. Here we'll add some of them back. People don't always tick the "barbecue" box when filling out their listings, but they usually mention it in the text field. So the code below scans the text field looking for certain words.
 
 {% highlight python %}
 import math
@@ -987,7 +987,7 @@ In the US Zillow [is doing it](https://www.zillow.com/zestimate/). I bet that th
 
 So I'm not proposing anything new here. Which makes it hard to understand why the heck Brazilian banks are not doing it yet. They have billions at stake.
 
-**"incentives matter"**
+**incentives matter**
 
 I know better than to second guess the choices of people with skin in the game. But 70% of all mortgages in Brazil are concentrated in a state-owned bank - Caixa Econômica Federal (CEF). And when the state is involved the incentives are different. It's not about delivering results but about broadening your mandate, blame-shifting, and securing resources. (If you want to have an idea of how government works, watch HBO's Chernobyl.)
 
