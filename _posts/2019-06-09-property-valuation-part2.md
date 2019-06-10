@@ -1001,6 +1001,4 @@ Not to mention that an entire ecosystem has evolved around the status quo. You s
 
 I guess this is it. I hope this post has inspired you to roll up your sleeves and do your own valuations from now on.
 
-<img src="https://i.imgur.com/4k9QFRY.jpg" title="source: imgur.com" />
-
 Happy appraisals!
