@@ -23,6 +23,11 @@ title: talks & slides
 
 <br>
 
+<div>2019-08-01 - <b>Designing antitrust for the digital era</b></div>
+<script async class="speakerdeck-embed" data-id="66eaaeb4e7f84760beb45be6ec951abc" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about how network externalities and access to private date do not preclude competition in digital markets (Facebook, Tinder, etc, face fierce competition all the time even though they connect lots of people and have tons of data on their users).
+
+<br>
+
 <div>2018-08-03 - <b>Fórum sobre Inteligência Artificial na Administração Pública</b></div>
 <div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/5xPSDSoQPpI" frameborder="0" allowfullscreen></iframe></div> A talk I gave at Brazil's electoral court. I discussed a few of our ML-based projects at the Observatory of Public Spending. Q&A session starts 1h04m in.
 
