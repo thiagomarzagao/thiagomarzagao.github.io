@@ -21,10 +21,13 @@ title: talks & slides
     }
 </style>
 
+<div>2019-08-21 - <b>Audiência Pública no Senado sobre Inteligência Artificial e Políticas Públicas</b></div>
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/f-Drtnlkp_4" frameborder="0" allowfullscreen></iframe></div> The Senate held a hearing on AI & public policy and they invited me to talk about it.
+
 <br>
 
 <div>2019-08-01 - <b>Designing antitrust for the digital era</b></div>
-<script async class="speakerdeck-embed" data-id="66eaaeb4e7f84760beb45be6ec951abc" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about how network externalities and access to private date do not preclude competition in digital markets (Facebook, Tinder, etc, face fierce competition all the time even though they connect lots of people and have tons of data on their users).
+<script async class="speakerdeck-embed" data-id="66eaaeb4e7f84760beb45be6ec951abc" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about how network externalities and access to private data do not preclude competition in digital markets (Facebook, Tinder, etc, face fierce competition all the time even though they connect lots of people and have tons of data on their users).
 
 <br>
 
