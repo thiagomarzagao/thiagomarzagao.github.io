@@ -6,8 +6,6 @@ title: how much is your apartment worth? (part 2)
 
 So, Brazilian banks are using predictive models to do property valuation but they are [doing it wrong](http://thiagomarzagao.com/2019/06/08/property-valuation/). It's time for us data folks to step in and cause some disruption.
 
-<iframe src="https://giphy.com/embed/lQJIEmMzyr8OhoTA9t" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lQJIEmMzyr8OhoTA9t"></a></p>
-
 **our hypothetical property**
 
 Let's assume that we want to find the market value of an apartment in Brasília. It's 120m<sup>2</sup>, it's in the Noroeste sector (Brasília is a planned city, so it has sectors instead of neighborhoods), it has three bedrooms, three bathrooms, and two parking spots. The condo fee is R$ 580/month and the property tax is R$ 745/month.
