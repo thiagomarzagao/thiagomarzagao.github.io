@@ -292,8 +292,6 @@ What to do then?
 
 **measuring how weird you are**
 
-<iframe src="https://giphy.com/embed/4HrMwcHXFT24LqWaCQ" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/weird-4HrMwcHXFT24LqWaCQ"></a>
-
 The solution is to use something called Inverse User Frequency (IUF). Here is how it works. Goodreads has ~65 million users. *To Kill a Mockingbird* has been rated by 3.6 million users. So its IUF is log(65/3.6) \\(\approx\\) 2.8. *The Middle Kingdom*, on the other hand, has been rated by only 1.3k users. So its UDF is log(65/0.0013) \\(\approx\\) 10.8. So, *The Middle Kingdom* is almost four times weirder than *To Kill a Mockingbird* (without taking the log the differences would be too extreme; we want to take the book's popularity into account but not too much). (If you're familiar with natural language processing you will notice this is similar to Inverse Document Frequency.)
 
 So instead of computing raw cosine similarities we are going to compute *weighted* cosine similarities, with each rating being weighted by the IUF of the corresponding book.

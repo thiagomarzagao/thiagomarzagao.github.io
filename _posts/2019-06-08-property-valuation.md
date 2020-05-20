@@ -72,6 +72,8 @@ Such a small sample is particularly egregious here, since CEF has 70% of all mor
 
 <iframe src="https://giphy.com/embed/pNGFddQO31GJa" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pNGFddQO31GJa"></a></p>
 
+<a href="https://imgur.com/cq5QlpI"><img src="https://i.imgur.com/cq5QlpI.png" title="source: imgur.com" /></a>
+
 (I suspect this has to do with appraisers' lack of programming skills. They use software with graphical interfaces and probably just type every data point manually. So 1 million samples would be of no use to them. But I'm just guessing here.)
 
 Also, the appraiser doesn't tell us which 25 - out of the original 38 - samples he actually used in the regression. I considered trying to replicate his results but there are 5.414.950.296 possible combinations of 25 elements out of 38, so that might take a while to run.

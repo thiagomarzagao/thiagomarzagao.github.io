@@ -991,8 +991,6 @@ I know better than to second guess the choices of people with skin in the game. 
 
 So it's not a market failure that we have here, but by and large a state failure. CEF's bureaucrats do not get punished for using the wrong tool to do property valuation. In a state-owned company there is a lot of noise between your actions and your punishments/rewards. Which helps explain CEF's long history of incompetence and [corruption](http://agenciabrasil.ebc.com.br/justica/noticia/2018-10/mpf-oferece-4-denuncias-por-fraude-de-r-3-bi-na-caixa-e-no-fgts).
 
-<iframe src="https://giphy.com/embed/LMWUPwA8LMQiLQHseo" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LMWUPwA8LMQiLQHseo"></a></p>
-
 Not to mention that an entire ecosystem has evolved around the status quo. You see, to be contracted by CEF as an appraiser you need to be certified by the Federal Council of Realtors (yes, that exists). There's an exam for that and there are schools that charge good money to help prepare you for that exam. So, there are lots of people who benefit from the current system, which makes it harder to change.
 
 **so long**
