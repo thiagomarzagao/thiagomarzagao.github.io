@@ -87,8 +87,6 @@ In case you are plagued by the curse of too much data, the University of Oklahom
 
 Prof. Howe’s online [class](https://class.coursera.org/datasci-001/class/index) teaches you MapReduce and some SQL, which may come in very handy if you have tons of data.
 
-If you need help picking a programming language, [here](https://www.vodien.com/blog/education/beginners-resources-to-learn-programming-languages.php)'s an overview (thanks Erica and Alex from Portland!).
-
 <strong>next on the list</strong>:
 
 Here’s some stuff I haven’t touched yet but am eager to:
