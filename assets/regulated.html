@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.axis path, .axis line {
+    fill: none;
+    stroke: black;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+#tooltip {
+    position: absolute;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+}
+
+#tooltip.hidden {
+    display: none;
+}
+
+#tooltip p {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+</style>
+<body>
+
+<div id="tooltip" class="hidden">
+    <p><span id="value">100</span>
+    </p>
+</div>
+
+<script src="d3/d3.min.js"></script>
+<script>
+
+var margins = {
+    top: 12,
+    left: 300,
+    right: 24,
+    bottom: 24
+},
+legendPanel = {
+    width: 0
+},
+width = 500 - margins.left - margins.right - legendPanel.width + 150,
+    height = 750 - margins.top - margins.bottom,
+    dataset = [{
+        data: [{
+            month: 'retail sale of pharmaceutical goods',
+            count: 156954
+        }, {
+            month: 'social rights organizations',
+            count: 92818
+        }, {
+            month: 'performing arts, concerts, dancing',
+            count: 56544
+        }, {
+            month: 'private security',
+            count: 50875
+        },  {
+            month: 'movies, videos, and TV shows',
+            count: 36380
+        },  {
+            month: 'general public administration activities',
+            count: 34365
+        },  {
+            month: 'quarrying of stone, sand and clay',
+            count: 23624
+        },  {
+            month: 'manufacture of pharmaceuticals',
+            count: 22966
+        },  {
+            month: 'hospital activities',
+            count: 22860
+        },  {
+            month: 'wholesale of medical equipment',
+            count: 20758
+        },  {
+            month: 'retail sale of liquified petroleum gas',
+            count: 20313
+        },  {
+            month: 'chartered bus passenger services',
+            count: 18360
+        },  {
+            month: 'road transport of cargo',
+            count: 17577
+        },  {
+            month: 'activities of trade unions',
+            count: 15746
+        },  {
+            month: 'retail sale of pharmaceutical goods',
+            count: 15410
+        },  {
+            month: 'miscellaneous training services',
+            count: 15188
+        },  {
+            month: 'retail sale of car fuel',
+            count: 15013
+        },  {
+            month: 'construction of buildings',
+            count: 14960
+        },  {
+            month: 'non-specialized retail sale',
+            count: 14893
+        },  {
+            month: 'associations related to arts and culture',
+            count: 14131
+        },  {
+            month: 'social work services accomodation',
+            count: 14040
+        },  {
+            month: 'electric power generation',
+            count: 13543
+        },  {
+            month: 'retail sale of construction material',
+            count: 13281
+        },  {
+            month: 'wired telecommunications activities',
+            count: 13094
+        },  {
+            month: 'miscellaneous business support activities',
+            count: 12674
+        },  {
+            month: 'retail sale of clothing and footwear',
+            count: 10619
+        },  {
+            month: 'organization of corporate events',
+            count: 10563
+        },  {
+            month: 'miscellaneous retail sale',
+            count: 10139
+        },  {
+            month: 'wholesale of fuel',
+            count: 9323
+        },  {
+            month: 'sale of vehicle parts and accessories',
+            count: 9100
+        }],
+        name: ''
+    }
+
+    ],
+    series = dataset.map(function (d) {
+        return d.name;
+    }),
+    dataset = dataset.map(function (d) {
+        return d.data.map(function (o, i) {
+            // Structure it so that your numeric
+            // axis (the stacked amount) is y
+            return {
+                y: o.count,
+                x: o.month
+            };
+        });
+    }),
+    stack = d3.layout.stack();
+
+stack(dataset);
+
+var dataset = dataset.map(function (group) {
+    return group.map(function (d) {
+        // Invert the x and y values, and y0 becomes x0
+        return {
+            x: d.y,
+            y: d.x,
+            x0: d.y0
+        };
+    });
+}),
+    svg = d3.select('body')
+        .append('svg')
+        .attr('width', width + margins.left + margins.right + legendPanel.width)
+        .attr('height', height + margins.top + margins.bottom)
+        .append('g')
+        .attr('transform', 'translate(' + margins.left + ',' + margins.top + ')'),
+    xMax = d3.max(dataset, function (group) {
+        return d3.max(group, function (d) {
+            return d.x + d.x0;
+        });
+    }),
+    xScale = d3.scale.linear()
+        .domain([0, xMax])
+        .range([0, width]),
+    months = dataset[0].map(function (d) {
+        return d.y;
+    }),
+    yScale = d3.scale.ordinal()
+        .domain(months)
+        .rangeRoundBands([0, 700], .1),
+    xAxis = d3.svg.axis()
+        .ticks(5)
+        .scale(xScale)
+        .orient('bottom'),
+    yAxis = d3.svg.axis()
+        .scale(yScale)
+        .orient('left'),
+    colours = d3.scale.category10(),
+    groups = svg.selectAll('g')
+        .data(dataset)
+        .enter()
+        .append('g')
+        .style('fill', function (d, i) {
+        return colours(i);
+    }),
+    rects = groups.selectAll('rect')
+        .data(function (d) {
+        return d;
+    })
+        .enter()
+        .append('rect')
+        .attr('x', function (d) {
+        return xScale(d.x0);
+    })
+        .attr('y', function (d, i) {
+        return yScale(d.y);
+    })
+        .attr('height', function (d) {
+        return yScale.rangeBand();
+    })
+        .attr('width', function (d) {
+        return xScale(d.x);
+    })
+        .on('mouseover', function (d) {
+        var xPos = parseFloat(d3.select(this).attr('x')) / 2 + width / 2;
+        var yPos = parseFloat(d3.select(this).attr('y')) + yScale.rangeBand() / 2;
+
+        d3.select('#tooltip')
+            .style('left', xPos + 200 + 'px')
+            .style('top', yPos + 'px')
+            .select('#value')
+            .text(d.x);
+
+        d3.select('#tooltip').classed('hidden', false);
+    })
+        .on('mouseout', function () {
+        d3.select('#tooltip').classed('hidden', true);
+    })
+
+    svg.append('g')
+        .attr('class', 'axis')
+        .attr('transform', 'translate(0,' + height + ')')
+        .call(xAxis);
+
+svg.append('g')
+    .attr('class', 'axis')
+    .call(yAxis);
+
+series.forEach(function (s, i) {
+    svg.append('text')
+        .attr('fill', 'white')
+        .attr('x', width + margins.left + 8)
+        .attr('y', i * 24 + 24)
+        .text(s);
+    svg.append('rect')
+        .attr('fill', colours(i))
+        .attr('width', 60)
+        .attr('height', 20)
+        .attr('x', width + margins.left + 90)
+        .attr('y', i * 24 + 6);
+});
+
+</script>
+</body>
