@@ -20,7 +20,7 @@ In Brazil [70%](https://www1.folha.uol.com.br/mercado/2018/09/volume-de-credito-
 
 I downloaded dozens of property valuation reports by CEF. Well, they are not actually made by CEF: CEF outsources the appraisals to other companies. But CEF reviews and approves every appraisal report. And in any case the ultimate responsibility rests with CEF.
 
-Let's look at [this](https://www.brameleiloes.com.br/principal/pub/Image/20181025040759LAUDO_CAIXA.pdf) report, which is pretty typical.
+Let's look at [this](/assets/20181025040759LAUDO_CAIXA.pdf) report, which is pretty typical.
 
 The property here is a plot of 41.695m<sup>2</sup> in a small town not far from Rio de Janeiro (about 100km away). The appraiser started by gathering data on 38 other plots, all in the same small town. For each of the plots he collected four variables: area (in m<sup>2</sup>), whether the lot is paved, average family income of the area, and price (in R$) per m<sup>2</sup>. Then he dropped 13 of the 38 samples and used the remaining 25 to run a linear regression: price per m<sup>2</sup> ~ area + paved + income. He then used the resulting model to estimate the price of the original plot. The resulting estimate was R$ 1.056.866,78, with an 80% confidence interval of [R$ 898.423,01, R$ 1.215.513,48]. The appraiser saw fit to manually adjust the estimated value to R$ 990.000,00 because, well, there's some stuff that the model doesn't capture.
 
