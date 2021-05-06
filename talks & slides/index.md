@@ -21,6 +21,11 @@ title: talks & slides
     }
 </style>
 
+<div>2021-05-06 - <b>Ciência de dados e governo</b></div>
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/1swpjdGJ8vc" frameborder="0" allowfullscreen></iframe></div> Here I talked about the non-technical challenges of creating successful data projects in the government.
+
+<br>
+
 <div>2019-09-16 - <b>Quanto vale? Usando machine learning para precificar os imóveis do governo federal</b></div>
 <div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/kkqAiHHnWeg" frameborder="0" allowfullscreen></iframe></div> Here I talked about how to use machine learning to estimate the price of real estate.
 
