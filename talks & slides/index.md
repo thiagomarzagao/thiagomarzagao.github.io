@@ -37,7 +37,7 @@ title: talks & slides
 <br>
 
 <div>2019-08-21 - <b>Audiência Pública no Senado sobre Inteligência Artificial e Políticas Públicas</b></div>
-<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/f-Drtnlkp_4" frameborder="0" allowfullscreen></iframe></div> The Senate held a hearing on AI & public policy and they invited me to talk about it.
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/9qvDSLqITvo" frameborder="0" allowfullscreen></iframe></div> The Senate held a hearing on AI & public policy and they invited me to talk about it.
 
 <br>
 
