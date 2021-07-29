@@ -26,13 +26,23 @@ title: talks & slides
 
 <br>
 
-<div>2021-05-06 - <b>Ciência de dados e governo</b></div>
-<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/1swpjdGJ8vc" frameborder="0" allowfullscreen></iframe></div> Here I talked about the non-technical challenges of creating successful data projects in the government.
+<div>2021-06-18 - <b>SICSS presentation</b></div>
+<script async class="speakerdeck-embed" data-id="ec564d090dbe4d348235fcaa320a95e3" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>I chatted with students from the Summer Institutes in Computational Social Science ([SICSS](https://sicss.io/)) about two machine learning projects of mine (one about procurement classification and one about real estate pricing).
+
+<br>
+
+<div>2021-05-06 - <b>LAMFO talk</b></div>
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/1swpjdGJ8vc" frameborder="0" allowfullscreen></iframe></div>I chatted with the folks from the Machine Learning Laboratory in Finance and Organizations ([LAMFO](https://lamfo.unb.br/)) about the non-technical challenges of creating successful data projects in the government.
+
+<br>
+
+<div>2021-04-05 - <b>Opening class of ENAP's data science MBA</b></div>
+<script async class="speakerdeck-embed" data-id="38ed7ad5d22d416a9444fe574468024b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>I talked to the folks from ENAP's [MBA in Data Science Applied to Public Policy](https://suap.enap.gov.br/portaldoaluno/curso/996/) about how we shouldn't worry so much about model interpretability and about how we need to take a venture capital approach to data projects in the government.
 
 <br>
 
 <div>2019-09-16 - <b>Quanto vale? Usando machine learning para precificar os imóveis do governo federal</b></div>
-<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/kkqAiHHnWeg" frameborder="0" allowfullscreen></iframe></div> Here I talked about how to use machine learning to estimate the price of real estate.
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/kkqAiHHnWeg" frameborder="0" allowfullscreen></iframe></div>I talked about how to use machine learning to estimate the price of real estate.
 
 <br>
 
@@ -79,13 +89,12 @@ neural networks to predict problems with government suppliers.
 <br>
 
 <div>2016-11-10 - <b>1º Fórum AudiCaixa de Auditoria de TIC</b></div>
-<script async class="speakerdeck-embed" data-id="0fce6432f7c84b54ac89004f918ade0d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>Here I talked about how the [Comptroller General of Brazil](http://www.cgu.gov.br/) (where I work) uses machine learning to identify corrupt government employees and other problems.
+<script async class="speakerdeck-embed" data-id="0fce6432f7c84b54ac89004f918ade0d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>I talked about how the [Comptroller General of Brazil](http://www.cgu.gov.br/) (where I work) uses machine learning to identify corrupt government employees and other problems.
 
 <br>
 
 <div>2016-10-04 - <b>Neo4j meetup</b></div>
-<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/pUfU7bbhsZk" frameborder="0" allowfullscreen></iframe></div>
-Here I talked about data mining in the Brazilian government, with a focus on Neo4j. [Slides](https://speakerdeck.com/thiagomarzagao/mineracao-de-dados-no-governo-federal).
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/pUfU7bbhsZk" frameborder="0" allowfullscreen></iframe></div>I talked about data mining in the Brazilian government, with a focus on Neo4j. [Slides](https://speakerdeck.com/thiagomarzagao/mineracao-de-dados-no-governo-federal).
 
 <br>
 
@@ -101,8 +110,7 @@ A four-talk panel that I moderated. It was about risk and fraud detection in the
 <br>
 
 <div>2015-09-10 - <b>1º Seminário sobre Análise de Dados na Administração Pública</b></div>
-<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/9WxFNz8uQ7w" frameborder="0" allowfullscreen></iframe></div>
-Here I talked about using NLP to classify the goods the Brazilian government buys. [Slides](https://speakerdeck.com/thiagomarzagao/classificacao-automatizada-de-produtos-e-servicos-licitados).
+<div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/9WxFNz8uQ7w" frameborder="0" allowfullscreen></iframe></div>I talked about using NLP to classify the goods the Brazilian government buys. [Slides](https://speakerdeck.com/thiagomarzagao/classificacao-automatizada-de-produtos-e-servicos-licitados).
 
 <br>
 
