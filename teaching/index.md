@@ -3,22 +3,22 @@ layout: page
 title: teaching
 ---
 
-[CIÊNCIA DE DADOS NO SETOR PÚBLICO - IDP - AGO/2021](https://www.idp.edu.br/openclass/dados-do-setor-publico/)
+[Ciência de dados no setor público](https://www.idp.edu.br/openclass/dados-do-setor-publico/) - IDP - Aug/2021
 
-[INTELIGÊNCIA ARTIFICIAL: UMA INTRODUÇÃO - IDP - NOV/2020](https://www.idp.edu.br/openclass/inteligencia-artificial-uma-introducao/)
+[Inteligência artificial: uma introdução](https://www.idp.edu.br/openclass/inteligencia-artificial-uma-introducao/) - IDP - Nov/2020
 
-[BIG DATA & ANALYTICS: UMA INTRODUÇÃO - IDP - SET/2020](https://www.idp.edu.br/openclass/big-data-e-data-analytics-uma-introducao/)
+[Big data & analytics: uma introdução](https://www.idp.edu.br/openclass/big-data-e-data-analytics-uma-introducao/) - IDP - Sep/2020
 
-[DATA MINING & MACHINE LEARNING I - IESB - 1/2018](/teaching/iesb1)
+[Data mining & machine learning I](/teaching/iesb1) - IESB - 1/2018
 
-[APRENDIZAGEM DE MÁQUINA C/ PYTHON - IPEA - 2/2017](/teaching/ipea)
+[Aprendizagem de máquina c/ Python](/teaching/ipea) - IPEA - 2/2017
 
-[MINERAÇÃO DE DADOS - POL/UnB - 2/2016](/teaching/mineracao)
+[Mineração de dados](/teaching/mineracao) - POL/UnB - 2/2016
 
-MINERAÇÃO DE DADOS - ADM/UnB - 1/2016
+Mineração de dados - ADM/UnB - 1/2016
 
-[ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - ADM/IDP - 2/2016](/teaching/estatistica)
+[Estatística aplicada à administração](/teaching/estatistica) - ADM/IDP - 2/2016
 
-ESTATÍSTICA APLICADA À ADMINISTRAÇÃO - ADM/IDP - 1/2016
+Estatística aplicada à administração - ADM/IDP - 1/2016
 
 **[Cheaters Hall](/teaching/cheaters_hall)**
