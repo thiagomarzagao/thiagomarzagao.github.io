@@ -17,6 +17,10 @@ title: publications
 
 <strong>unpublished</strong>:
 
+[Insider trading in Brazil's stock market](https://osf.io/fu9mg/) (2021). Here I estimate the probability of insider trading for each stock in Brazil's stock market, for each quarter from 2019Q4 through 2021Q1.
+
+[Putting a price on tenure](https://osf.io/dvy9w/) (2021). Here I estimate how much tenure is worth in $ to the employees who benefit from it.
+
 [Using SVM to pre-classify government expenditures](http://arxiv.org/abs/1601.02680)<a name="classify"></a> (2015). Here I use support vector machines (SVM) to create an [app](https://github.com/thiagomarzagao/catmatfinder) that could reduce misclassification of government purchases in Brazil. The app suggests likely categories based on the description of the good being purchased.
 
 <a href="/assets/replication/bias.pdf">Ideological bias in democracy measures</a> (2012). Here I use Monte Carlos to reassess some studies on the biases behind the Freedom House, Polity IV, etc. I find that the evidence of bias is robust but that we can't know which measures are biased or in what direction (e.g., for all we know the Freedom House may as well have a leftist bias, contrary to popular belief). <u>Data and code</u>. I used a mix of Stata (<a href="https://gist.github.com/thiagomarzagao/e49541433d474d11d1fb">here</a> and <a href="https://gist.github.com/thiagomarzagao/18fed6a8afbb484e0c9c">here</a>) and R (<a href="https://gist.github.com/thiagomarzagao/c916e2a3ce77ea23d9a8">here</a>) code. <a href="/assets/replication/data-bollenpaxton.dta">Here's</a> the data in Stata format; <a href="/assets/replication//bollenpaxtondata.csv">here's</a> the same data in CSV format (for the R code).
