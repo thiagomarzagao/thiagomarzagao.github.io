@@ -3,6 +3,8 @@ layout: page
 title: teaching
 ---
 
+[Soluções em deep learning](https://www.idp.edu.br/openclass/solucoes-em-deep-learning/) - IDP - Aug/2021
+
 [Ciência de dados no setor público](https://www.idp.edu.br/openclass/dados-do-setor-publico/) - IDP - Aug/2021
 
 [Inteligência artificial: uma introdução](https://www.idp.edu.br/openclass/inteligencia-artificial-uma-introducao/) - IDP - Nov/2020
