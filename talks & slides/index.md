@@ -21,6 +21,8 @@ title: talks & slides
     }
 </style>
 
+<br>
+
 <div>2021-07-07- <b>Let's Data podcast</b></div>
 <div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/aHZoXf9mp4c" frameborder="0" allowfullscreen></iframe></div> I chatted with the folks from the Let's Data podcast about my work and side projects, AI regulation, sci-fi, doing research outside academia, angel investing, and financial machine learning. The episode is also on [Spotify](https://open.spotify.com/episode/2xh5jrSzdEOQL5gWmm3osE?si=7fff6a4fb2b340dd).
 
