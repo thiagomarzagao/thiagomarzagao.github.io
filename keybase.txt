@@ -4,7 +4,7 @@ https://keybase.io/thiagomarzagao
 
 I hereby claim:
 
-  * I am an admin of http://thiagomarzagao.com
+  * I am an admin of http://thiago.id
   * I am thiagomarzagao (https://keybase.io/thiagomarzagao) on keybase.
   * I have a public key ASAVdCRfhIPn2ajeJwty8IPOGKV0NmlWGuSLIU5iSELYego
 
@@ -26,7 +26,7 @@ To do so, I am signing this object:
             "seqno": 1186176
         },
         "service": {
-            "hostname": "thiagomarzagao.com",
+            "hostname": "thiago.id",
             "protocol": "http:"
         },
         "type": "web_service_binding",
