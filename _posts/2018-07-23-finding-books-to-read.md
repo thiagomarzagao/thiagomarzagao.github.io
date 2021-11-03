@@ -42,7 +42,7 @@ We can even go beyond 1500. See the "Sort" button in the above picture? We can s
 
 I didn't do the sorting thing though. It only occurred to me after I had done everything and I'm in no mood to go back and redo everything. So what I have is only up to 1500 ratings per book. Sorry, reviewer #2.
 
-Alrigh then, enough talk. Here is the Python code I wrote to get all the ratings I ever gave on Goodreads. I used Selenium and Chrome. If you're new to scraping then here's a [tutorial](http://thiagomarzagao.com/resources#selenium). You don't need to be logged in to scrape Goodreads (though that reduces the size of the data a little: some Goodreads users choose to make their profiles available only to people who are logged in).
+Alrigh then, enough talk. Here is the Python code I wrote to get all the ratings I ever gave on Goodreads. I used Selenium and Chrome. If you're new to scraping then here's a [tutorial](/resources#selenium). You don't need to be logged in to scrape Goodreads (though that reduces the size of the data a little: some Goodreads users choose to make their profiles available only to people who are logged in).
 
 {% highlight python %}
 import time
