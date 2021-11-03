@@ -6,7 +6,7 @@ title: rise of the machines - part 3
 
 [![](http://i.imgur.com/LTJZhVI.png)](http://imgur.com/LTJZhVI)
 
-In [part 2](http://thiagomarzagao.com/2014/06/24/rise-of-the-machines-part-2-2/) we saw how to use C++ and bytecodes to program LEGO Mindstorms EV3 bricks. Now, bytecodes don't make for human-readable scripts. And C++ scripts take [~4 times](http://www.connellybarnes.com/documents/language_productivity.pdf) longer to write than equivalent Python or Perl scripts. So, I've started writing a Python module that should make life easier - I've called it ev3py.
+In [part 2](/2014/06/24/rise-of-the-machines-part-2-2/) we saw how to use C++ and bytecodes to program LEGO Mindstorms EV3 bricks. Now, bytecodes don't make for human-readable scripts. And C++ scripts take [~4 times](http://www.connellybarnes.com/documents/language_productivity.pdf) longer to write than equivalent Python or Perl scripts. So, I've started writing a Python module that should make life easier - I've called it ev3py.
 
 Here's the GitHub [repo](https://github.com/thiagomarzagao/ev3py). For now the module is still inchoate; it only covers three basic functions (starting motors, stopping motors, and reading data from sensors) and it only works on Macs, and only via Bluetooth. But it's a start.
 
