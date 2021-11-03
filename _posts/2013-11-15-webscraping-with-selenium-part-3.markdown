@@ -4,7 +4,7 @@ layout: post
 title: webscraping with Selenium - part 3
 ---
 
-In [part 2](http://thiagomarzagao.com/2013/11/14/webscraping-with-selenium-part-2/) we learned how to handle dynamic names and how to download content with Selenium. Here we will learn how to make our code robust to network flukes.
+In [part 2](/2013/11/14/webscraping-with-selenium-part-2/) we learned how to handle dynamic names and how to download content with Selenium. Here we will learn how to make our code robust to network flukes.
 
 <strong>handling errors</strong>
 
@@ -89,4 +89,4 @@ except TimeoutException:
 Once your code has finished running you can inspect the log file and see what searches you need to re-do.
 
 
-([Part 4](http://thiagomarzagao.com/2013/11/16/webscraping-with-selenium-part-4/))
+([Part 4](/2013/11/16/webscraping-with-selenium-part-4/))
