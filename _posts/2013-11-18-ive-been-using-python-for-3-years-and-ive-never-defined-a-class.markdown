@@ -13,7 +13,7 @@ Realizing the huge gap between the scripts I wrote and the ones on textbooks was
 [![](http://i.imgur.com/CdiAnVD.png)](http://imgur.com/CdiAnVD)
 (This may have impaired my programming skills but I enjoyed tweaking [Nibbles](http://en.wikipedia.org/wiki/Nibbles_(video_game)). And using `goto`)
 
-Turns out I made too much of it. Yes, my scripts were ugly and I shouldn't let things happen outside functions and I shouldn't have global variables. I firmly intend to go back and refactor my [Wordscores](http://thiagomarzagao.com/2013/06/10/wordscores-in-python/) and "[Fightin' Words](http://thiagomarzagao.wordpress.com/2013/06/24/130/)" implementations. But if you are doing math and your script is small and you won't integrate it into a larger project, then not everything needs be organized around classes.
+Turns out I made too much of it. Yes, my scripts were ugly and I shouldn't let things happen outside functions and I shouldn't have global variables. I firmly intend to go back and refactor my [Wordscores](/2013/06/10/wordscores-in-python/) and "[Fightin' Words](/2013/06/24/130/)" implementations. But if you are doing math and your script is small and you won't integrate it into a larger project, then not everything needs be organized around classes.
 
 As [someone in the thread above](http://www.reddit.com/r/Python/comments/1qvoop/ive_been_using_python_for_3_years_and_ive_never/cdh6c79) noted, writing math code is fundamentally different than writing a desktop application.
 
