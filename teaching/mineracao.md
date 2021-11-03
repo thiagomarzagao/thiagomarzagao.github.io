@@ -201,7 +201,7 @@ Analysis Methods for Political Texts](http://web.stanford.edu/~jgrimmer/tad2.pdf
 - expressões regulares
 - resultado é probabilístico (time.sleep(), try/catch)
 - leitura obrigatória:
-    - webscraping with Selenium (partes [1](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/), [2](http://thiagomarzagao.com/2013/11/14/webscraping-with-selenium-part-2/), [3](http://thiagomarzagao.com/2013/11/15/webscraping-with-selenium-part-3/), [4](http://thiagomarzagao.com/2013/11/16/webscraping-with-selenium-part-4/) e [5](http://thiagomarzagao.com/2013/11/17/webscraping-with-selenium-part-5/))
+    - webscraping with Selenium (partes [1](/2013/11/12/webscraping-with-selenium-part-1/), [2](/2013/11/14/webscraping-with-selenium-part-2/), [3](/2013/11/15/webscraping-with-selenium-part-3/), [4](/2013/11/16/webscraping-with-selenium-part-4/) e [5](/2013/11/17/webscraping-with-selenium-part-5/))
 - [raspa_vagalume.py](/assets/teaching/mineracao/raspa_vagalume.py)
 - [raspa_twitter.py](/assets/teaching/mineracao/raspa_twitter.py)
 - [raspa_scielo.py](/assets/teaching/mineracao/raspa_scielo.py)
