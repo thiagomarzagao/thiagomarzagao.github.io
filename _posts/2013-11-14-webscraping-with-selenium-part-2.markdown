@@ -4,7 +4,7 @@ layout: post
 title: webscraping with Selenium - part 2
 ---
 
-In [part 1](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/) we learned how to locate page elements and how to interact with them. Here we will learn how to do deal with dynamic names and how to download things with Selenium.
+In [part 1](/2013/11/12/webscraping-with-selenium-part-1/) we learned how to locate page elements and how to interact with them. Here we will learn how to do deal with dynamic names and how to download things with Selenium.
 
 <strong>handling dynamic names</strong>
 
@@ -236,4 +236,4 @@ That's it. No platform-specific commands, no experimental features. The downside
 This is it for now. On the next post we will cover error handling (if you are coding along and getting error messages like NoSuchElementException or NoSuchFrameException just hang in there; for now you can just add a `time.sleep(15)` statement before each window opens and that should do it; but I will show you better solutions). I will also show you how to make your code work for any number of search results in LexisNexis (the code we've seen so far only works when the number of results is 1 to 500; if there are 0 results or 500+ results the code will crash). In later posts we will cover some advanced topics, like using PhantomJS as a browser.
 
 
-([Part 3](http://thiagomarzagao.com/2013/11/15/webscraping-with-selenium-part-3/))
+([Part 3](/2013/11/15/webscraping-with-selenium-part-3/))
