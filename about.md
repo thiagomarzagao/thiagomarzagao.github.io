@@ -7,7 +7,7 @@ Hi! I’m Thiago Marzagão and I do data analysis for academic, policy-making, a
 
 I have worked for the Brazilian antitrust agency ([CADE](http://cade.gov.br/)), where I built CÉREBRO - an app that detects bid-rigging in public procurement. I also teach at Brasília universities and research institutes, off and on - I have taught statistics at [IDP](/teaching/estatistica/) and machine learning at [UnB](/teaching/mineracao/), [IPEA](/teaching/ipea/), and [IESB](/teaching/iesb1/).
 
-You can find more details about my work in my [papers](http://thiagomarzagao.com/publications/), [talks](/talks%20&%20slides/), [code](/code/), and [résumé](/assets/resume.pdf).
+You can find more details about my work in my [papers](/publications/), [talks](/talks%20&%20slides/), [code](/code/), and [résumé](/assets/resume.pdf).
 
 I also play with LEGO robots (I've made a [Python module](https://github.com/thiagomarzagao/ev3py) that makes it easy to program LEGO Mindstorms EV3 bricks), write tutorials ("[webscraping with Selenium](/2013/11/12/webscraping-with-selenium-part-1/)" is by far the most popular one), read sci-fi (here's my [Goodreads profile](https://www.goodreads.com/user/show/45921922-thiago-marzag-o)), bike and run around São Paulo).
 
