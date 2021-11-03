@@ -4,7 +4,7 @@ layout: post
 title: saving TfidfVectorizer without pickles
 ---
 
-As [promised](http://thiagomarzagao.com/2015/12/07/model-persistence-without-pickles), here's how to save a trained instance of scikit-learn's [TfidfVectorizer](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) without using pickles - in other words, how to save it as human-readable, shareable data.
+As [promised](/2015/12/07/model-persistence-without-pickles), here's how to save a trained instance of scikit-learn's [TfidfVectorizer](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) without using pickles - in other words, how to save it as human-readable, shareable data.
 
 The general idea is in my previous post: a model is a set of coefficients so you just extract them and save them as you would save any other data (like the very data you used to train the model). That way you avoid the [security and maintainability problems](http://scikit-learn.org/stable/modules/model_persistence.html) of using pickles. You extract the coefficients, save them as data, then later you load them and plug them back in.
 
