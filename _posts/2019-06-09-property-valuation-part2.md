@@ -4,7 +4,7 @@ layout: post
 title: how much is your apartment worth? (part 2)
 ---
 
-So, Brazilian banks are using predictive models to do property valuation but they are [doing it wrong](http://thiagomarzagao.com/2019/06/08/property-valuation/). It's time for us data folks to step in and cause some disruption.
+So, Brazilian banks are using predictive models to do property valuation but they are [doing it wrong](/2019/06/08/property-valuation/). It's time for us data folks to step in and cause some disruption.
 
 **our hypothetical property**
 
