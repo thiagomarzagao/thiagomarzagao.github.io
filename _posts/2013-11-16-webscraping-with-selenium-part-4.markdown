@@ -177,4 +177,4 @@ Here I only used an explicit wait for the "Close Window" button but of course yo
 
 That's about it for now. On the next post we will cover headless browsing and parallel webscraping.
 
-([Part 5](http://thiagomarzagao.com/2013/11/17/webscraping-with-selenium-part-5/))
+([Part 5](/2013/11/17/webscraping-with-selenium-part-5/))
