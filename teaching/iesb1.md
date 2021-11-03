@@ -132,7 +132,7 @@ DATA MINING E MACHINE LEARNING I - 1/2018 - IESB
     - [raspa_scielo_2.py](/assets/teaching/iesb/exercicios/raspagem/raspa_scielo_2.py)
     - [regex.py](/assets/teaching/iesb/exercicios/raspagem/regex.py)
 - leitura:
-    - webscraping with Selenium (partes [1](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/), [2](http://thiagomarzagao.com/2013/11/14/webscraping-with-selenium-part-2/), [3](http://thiagomarzagao.com/2013/11/15/webscraping-with-selenium-part-3/), [4](http://thiagomarzagao.com/2013/11/16/webscraping-with-selenium-part-4/) e [5](http://thiagomarzagao.com/2013/11/17/webscraping-with-selenium-part-5/))
+    - webscraping with Selenium (partes [1](/2013/11/12/webscraping-with-selenium-part-1/), [2](/2013/11/14/webscraping-with-selenium-part-2/), [3](/2013/11/15/webscraping-with-selenium-part-3/), [4](/2013/11/16/webscraping-with-selenium-part-4/) e [5](/2013/11/17/webscraping-with-selenium-part-5/))
 
 <strong>7. mineração de textos I</strong>
 
