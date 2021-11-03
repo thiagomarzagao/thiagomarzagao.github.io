@@ -191,4 +191,4 @@ That's it. You should now see Chrome leaving the search page and opening the res
 
 There is a lot more to cover, but that will have to wait.
 
-([Part 2](http://thiagomarzagao.com/2013/11/14/webscraping-with-selenium-part-2/))
+([Part 2](/2013/11/14/webscraping-with-selenium-part-2/))
