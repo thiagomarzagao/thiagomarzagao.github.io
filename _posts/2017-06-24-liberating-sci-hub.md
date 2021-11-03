@@ -12,7 +12,7 @@ You'd think that such an invention would be welcomed by most people who are not 
 
 That's Portuguese for "Blocked content! Science is illegal/unethical, so screw yourself." (Sort of.)
 
-This week I finally got tired of that nonsense - dammit, I'm a data scientist, I need academic papers not only for the research I do on the side but also, and mainly, for my day job. So I decided to build an interface to Sci-Hub - an app that takes my search string, gives it to Sci-Hub, and retrieves the results. Much like I did before [in order to use Telegram](http://thiagomarzagao.com/2016/11/23/the-tyranny-of-it-departments/).
+This week I finally got tired of that nonsense - dammit, I'm a data scientist, I need academic papers not only for the research I do on the side but also, and mainly, for my day job. So I decided to build an interface to Sci-Hub - an app that takes my search string, gives it to Sci-Hub, and retrieves the results. Much like I did before [in order to use Telegram](/2016/11/23/the-tyranny-of-it-departments/).
 
 Writing the code was easy enough, it's a simple web app that does just one thing. I wrote it on Thursday evening and I was confident that the next morning I would just fire app a new project on Google App Engine, deploy the code, and be done with it in less than an hour. Oh, the hubris. I ended up working on it all Friday and all Saturday morning; only at Saturday 12:43pm the damned thing went alive.
 
