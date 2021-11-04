@@ -3,7 +3,6 @@ highlighter:      rouge
 markdown:         kramdown
 kramdown:
   input: GFM
-mathjax:          true
 
 # Permalinks
 permalink:        pretty
