@@ -7,7 +7,7 @@ Hi! I’m Thiago Marzagão and I do data analysis for academic, policy-making, a
 
 I have worked for the Brazilian government, where I used machine learning to find corruption and bid-rigging and to automate processes. I also do some research and [publish](/publications) on peer-reviewed economic/econometrics journals, and I have [taught](/publications) graduate and undergraduate courses on everything from basic statistics to deep learning. You can find more details about my work in my [talks](/talks%20&%20slides/), [code](/code/), and [résumé](/assets/resume.pdf).
 
-I also play with LEGO robots (I've made a [Python module](https://github.com/thiagomarzagao/ev3py) that makes it easy to program LEGO Mindstorms EV3 bricks), write tutorials ("[webscraping with Selenium](/2013/11/12/webscraping-with-selenium-part-1/)" is by far the most popular one), read sci-fi (here's my [Goodreads profile](https://www.goodreads.com/user/show/45921922-thiago-marzag-o)), bike and run around São Paulo).
+I also play with LEGO robots (I've made a [Python module](https://github.com/thiagomarzagao/ev3py) that makes it easy to program LEGO Mindstorms EV3 bricks), write tutorials ("[webscraping with Selenium](/2013/11/12/webscraping-with-selenium-part-1/)" is by far the most popular one), read sci-fi (here's my [Goodreads profile](https://www.goodreads.com/user/show/45921922-thiago-marzag-o)), bike and run around São Paulo.
 
 You can reach me at marzagao dot 1 at osu dot edu and [@tmarzagao](https://twitter.com/tmarzagao).
 
