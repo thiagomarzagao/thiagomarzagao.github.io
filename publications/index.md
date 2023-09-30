@@ -3,6 +3,10 @@ layout: page
 title: publications
 ---
 
+<strong>book chapter</strong>:
+
+Chapter 9 in <a href="https://www.amazon.com/Non-Academic-Careers-Quantitative-Social-Scientists-ebook/dp/B0C6D4YKT6/">Non-Academic Careers for Quantitative Social Scientists</a>.
+
 <strong>peer-reviewed</strong>:
 
 <a href="https://www.scielo.br/j/rbe/a/DJjtmWw4ZYjVyLMXHXBWx4P/">A note on real estate appraisal in Brazil</a>. (with Rodrigo Peres and Leonardo Sales). Brazilian Review of Economics, 75(1), 29-36, 2021. Brazilian banks commonly use linear regression to appraise real estate: they regress price on features like area, location, etc, and use the resulting model to estimate the market value of the target property. But Brazilian banks do not test the predictive performance of those models, which for all we know are no better than random guesses. That introduces huge inefficiencies in the real estate market. Here we propose a machine learning approach to the problem. We use real estate data scraped from 15 thousand online listings and use it to fit a boosted trees model. The resulting model has a median absolute error of 8,16%. We provide all data and source code. <u>Data and code</u> It's all [here](https://github.com/thiagomarzagao/wimoveis). 
@@ -15,7 +19,7 @@ title: publications
 
 <a href="http://www.scielo.br/pdf/rbe/v62n3/a02v62n3.pdf">Lobby e protecionismo no Brasil contemporâneo</a> (“Lobby and protectionism in Brazil”). Revista Brasileira de Economia (Brazilian Review of Economics), 62(3), 263-178, 2008. Here I regress tariffs on industry-level indicators of political power (economic concentration, number of workers, etc). <u>Data and code</u>. I ran everything almost a decade ago and back then I used Excel spreadsheets to store data (<a href="http://lemire.me/blog/archives/2014/05/23/you-shouldnt-use-a-spreadsheet-for-important-work-i-mean-it/">I know, I know...</a>) and I clicked buttons instead of writing code (I didn't know any better), so I don't have much to offer here. The spreadsheets are all in <a href="/assets/replication/REPLICATION+MATERIAL.zip">this zipped folder</a>.
 
-<strong>unpublished</strong>:
+<strong>not peer-reviewed</strong>:
 
 [Insider trading in Brazil's stock market](https://osf.io/fu9mg/) (2021). Here I estimate the probability of insider trading for each stock in Brazil's stock market, for each quarter from 2019Q4 through 2021Q1.
 
