@@ -5,7 +5,7 @@ title: publications
 
 <strong>book chapter</strong>:
 
-Chapter 9 in <a href="https://www.amazon.com/Non-Academic-Careers-Quantitative-Social-Scientists-ebook/dp/B0C6D4YKT6/">Non-Academic Careers for Quantitative Social Scientists</a>.
+Chapter 9 in <a href="https://www.amazon.com/Non-Academic-Careers-Quantitative-Social-Scientists-ebook/dp/B0C6D4YKT6/">Non-Academic Careers for Quantitative Social Scientists</a> (Springer, 2023).
 
 <strong>peer-reviewed</strong>:
 
