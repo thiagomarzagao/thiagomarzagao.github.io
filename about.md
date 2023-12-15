@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-Hi! I’m Thiago Marzagão and I write code and look at data. I got my Ph.D. at the Ohio State University, where I mined news articles to create a [machine-coded democracy index](http://bibliotecadigital.fgv.br/ojs/index.php/bre/article/view/58160) (I was funded by the [Fulbright Commission](https://fulbright.org.br/) and by the Brazilian government), and now I'm a lead data scientist at [Fitbod](https://fitbod.me/), an amazing app that creates personalized workouts based on your fitness goal and available equipment.
+I got my Ph.D. at the Ohio State University, where I mined news articles to create a [machine-coded democracy index](http://bibliotecadigital.fgv.br/ojs/index.php/bre/article/view/58160) (I was funded by the [Fulbright Commission](https://fulbright.org.br/) and by the Brazilian government), and now I'm a lead data scientist at [Fitbod](https://fitbod.me/), an amazing app that creates personalized workouts based on your fitness goal and available equipment.
 
 I have worked for the Brazilian government, where I used machine learning to find corruption and bid-rigging and to automate processes. I also do some research and [publish](/publications) on peer-reviewed economic/econometrics journals, and I have [taught](/publications) graduate and undergraduate courses on everything from basic statistics to deep learning. You can find more details about my work in my [talks](/talks%20&%20slides/), [code](/code/), and [résumé](/assets/resume.pdf).
 
