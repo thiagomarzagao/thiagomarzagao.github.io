@@ -9,7 +9,7 @@ I have worked for the Brazilian government, where I used machine learning to fin
 
 I also play with LEGO robots (I've made a [Python module](https://github.com/thiagomarzagao/ev3py) that makes it easy to program LEGO Mindstorms EV3 bricks), write tutorials ("[webscraping with Selenium](/2013/11/12/webscraping-with-selenium-part-1/)" is by far the most popular one), read sci-fi (here's my [Goodreads profile](https://www.goodreads.com/user/show/45921922-thiago-marzag-o)), bike and run around São Paulo.
 
-You can reach me at marzagao dot 1 at osu dot edu and [@tmarzagao](https://twitter.com/tmarzagao).
+You can reach me via [Twitter](https://twitter.com/tmarzagao) and [LinkedIn](https://www.linkedin.com/in/thiago-marzag%C3%A3o-101084b0/).
 
 Here's a picture of my dog:
 
