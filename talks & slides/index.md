@@ -24,7 +24,7 @@ title: talks & slides
 <br>
 
 <div>2024-12-11 - <b>CTRL+ENTER podcast</b></div>
-<a href="https://open.spotify.com/episode/4yB4AbA3YlvNE6UPw4kKCT"><img src="/assets/ctrlenter.png" width="725" height="460"></a>[Here](https://open.spotify.com/episode/4yB4AbA3YlvNE6UPw4kKCT) I talked to [IDP](https://www.idp.edu.br/) professor Leonardo Monasterio about the differences between AI work in government and industry, AI regulation, science funding, and career choices in tech.
+<a href="https://open.spotify.com/episode/4yB4AbA3YlvNE6UPw4kKCT"><img src="/assets/ctrlenter.png"></a>[Here](https://open.spotify.com/episode/4yB4AbA3YlvNE6UPw4kKCT) I talked to [IDP](https://www.idp.edu.br/) professor Leonardo Monasterio about the differences between AI work in government and industry, AI regulation, science funding, and career choices in tech.
 
 <br>
 
