@@ -23,6 +23,11 @@ title: talks & slides
 
 <br>
 
+<div>2024-12-11 - <b>CTRL+ENTER podcast</b></div>
+<a href="https://open.spotify.com/episode/4yB4AbA3YlvNE6UPw4kKCT"><img src="/assets/ctrlenter.png" width="725" height="460"></a>[Here](https://open.spotify.com/episode/4yB4AbA3YlvNE6UPw4kKCT) I talked to [IDP](https://www.idp.edu.br/) professor Leonardo Monasterio about the differences between AI work in government and industry, AI regulation, science funding, and career choices in tech.
+
+<br>
+
 <div>2021-07-07- <b>Let's Data podcast</b></div>
 <div class="video-container"><iframe width="725" height="460" src="https://www.youtube.com/embed/aHZoXf9mp4c" frameborder="0" allowfullscreen></iframe></div> I chatted with the folks from the Let's Data podcast about my work and side projects, AI regulation, sci-fi, doing research outside academia, angel investing, and financial machine learning. The episode is also on [Spotify](https://open.spotify.com/episode/2xh5jrSzdEOQL5gWmm3osE?si=7fff6a4fb2b340dd).
 
