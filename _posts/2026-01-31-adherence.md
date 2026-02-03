@@ -4,7 +4,11 @@ layout: post
 title: Predictors of long-term resistance exercise adherence among beginners
 ---
 
-New [manuscript](https://sportrxiv.org/index.php/server/preprint/view/709/version/894), co-authored with [Federica Conti](https://au.linkedin.com/in/federica-conti-761b86144), [Andy Galpin](https://www.andygalpin.com/), and [Brad Schoenfeld](https://www.lehman.edu/academics/health-human-services-nursing/exercise-sciences-recreation/bradley-schoenfeld/). Abstract:
+New [manuscript](https://sportrxiv.org/index.php/server/preprint/view/709/version/894), co-authored with [Federica Conti](https://au.linkedin.com/in/federica-conti-761b86144), [Andy Galpin](https://www.andygalpin.com/), and [Brad Schoenfeld](https://www.lehman.edu/academics/health-human-services-nursing/exercise-sciences-recreation/bradley-schoenfeld/). TL;DR: we used Fitbod's data to find out what sorts of characteristics and behaviors predict that you'll keep lifting weights consistently long past your first workout.
+
+At Fitbod we have been mining our data internally for years in order to improve our workout recommendations, but this is the first time we're doing science out in the open. This was fun and we expect many more papers to come!
+
+Abstract:
  
 > *Background*:
 > Digital fitness applications offer unprecedented access to structured training programs, yet the behavioral factors that predict sustained engagement in real-world settings remain incompletely understood.
