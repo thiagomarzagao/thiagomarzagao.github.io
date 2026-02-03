@@ -19,7 +19,10 @@ Chapter 9 in <a href="https://www.amazon.com/Non-Academic-Careers-Quantitative-S
 
 <a href="http://www.scielo.br/pdf/rbe/v62n3/a02v62n3.pdf">Lobby e protecionismo no Brasil contemporâneo</a> (“Lobby and protectionism in Brazil”). Revista Brasileira de Economia (Brazilian Review of Economics), 62(3), 263-178, 2008. Here I regress tariffs on industry-level indicators of political power (economic concentration, number of workers, etc). <u>Data and code</u>. I ran everything almost a decade ago and back then I used Excel spreadsheets to store data (<a href="http://lemire.me/blog/archives/2014/05/23/you-shouldnt-use-a-spreadsheet-for-important-work-i-mean-it/">I know, I know...</a>) and I clicked buttons instead of writing code (I didn't know any better), so I don't have much to offer here. The spreadsheets are all in <a href="/assets/replication/REPLICATION+MATERIAL.zip">this zipped folder</a>.
 
-<strong>not peer-reviewed</strong>:
+<strong>not peer-reviewed (yet)</strong>:
+
+[Predictors of long-term resistance exercise adherence among beginners
+](https://sportrxiv.org/index.php/server/preprint/view/709/version/894) (2026). With Federica Conti, Andy Galpin, and Brad Schoenfeld. Here we mine Fitbod's data to find the predictors of long-term strength training adherence.
 
 [Insider trading in Brazil's stock market](https://osf.io/fu9mg/) (2021). Here I estimate the probability of insider trading for each stock in Brazil's stock market, for each quarter from 2019Q4 through 2021Q1.
 
