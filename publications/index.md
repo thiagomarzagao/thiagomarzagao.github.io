@@ -24,7 +24,7 @@ Chapter 9 in <a href="https://www.amazon.com/Non-Academic-Careers-Quantitative-S
 [Predictors of long-term resistance exercise adherence among beginners
 ](https://sportrxiv.org/index.php/server/preprint/view/709/version/894) (2026). With Federica Conti, Andy Galpin, and Brad Schoenfeld. Here we mine Fitbod's data to find the predictors of long-term strength training adherence.
 
-[Insider trading in Brazil's stock market](https://osf.io/fu9mg/) (2021). Here I estimate the probability of insider trading for each stock in Brazil's stock market, for each quarter from 2019Q4 through 2021Q1.
+[Insider trading in Brazil's stock market]([https://osf.io/fu9mg/](https://ideas.repec.org/p/osf/osfxxx/fu9mg.html)) (2021). Here I estimate the probability of insider trading for each stock in Brazil's stock market, for each quarter from 2019Q4 through 2021Q1.
 
 [Putting a price on tenure](https://osf.io/dvy9w/) (2021). Here I estimate how much tenure is worth in $ to the employees who benefit from it.
 
