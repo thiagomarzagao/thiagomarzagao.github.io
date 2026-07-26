@@ -39,3 +39,10 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+# Generated Jekyll and local dependency files
+_site/
+_preview_site/
+.bundle/
+vendor/
+Gemfile.lock
