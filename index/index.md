@@ -3,4 +3,10 @@ layout: page
 title: index
 ---
 
-Selected substantive posts are listed on the [blog](/blog/) page.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
