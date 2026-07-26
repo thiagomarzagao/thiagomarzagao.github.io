@@ -9,21 +9,21 @@ permalink:        pretty
 
 # Setup
 title:            Thiago Marzagão
-tagline:          'A Jekyll theme'
-description:      'data, code, etc'
-url:              http://thiagomarzagao.github.io
+tagline:          ''
+description:      ''
+url:              https://thiagomarzagao.com
 baseurl:          ""
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Thiago Marzagão'
+  url:            https://thiagomarzagao.com
 
-#gems:             [jekyll-paginate]
-paginate:         5
-
-# Custom vars
-#version:          2.1.0
 comments:         true
 
-github:
-  repo:           https://github.com/poole/hyde
+plugins:
+  - jekyll-paginate
+
+
+
+paginate: 5
+paginate_path: "/blog/page:num/"

@@ -1,50 +1,15 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1>
-        <a href="/{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
+      <h1><a href="/">{{ site.title }}</a></h1>
     </div>
 
-    <nav class="sidebar-nav">
-        <ul class="nav">
-            <li><a href="/">home</a></li>
-            <li><a href="/about/">about</a></li>
-            <li><a href="/publications/">publications</a></li>
-            <li><a href="/code/">code</a></li>
-            <li><a href="/talks%20&%20slides/">talks & slides</a></li>
-            <li><a href="/teaching/">teaching</a></li>
-            <li><a href="/committees/">committees</a></li>
-            <li><a href="/index/">index</a></li>
-        </ul>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% comment %}
-          {% assign pages_list = site.pages %}
-          {% for node in pages_list %}
-            {% if node.title != null %}
-              {% if node.layout == "page" %}
-                {% if node.mostra != "nao" %}
-                    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-                {% endif %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-      {% endcomment %}
+    <nav class="sidebar-nav" aria-label="Main navigation">
+      <a class="sidebar-nav-item{% if page.url == '/' or page.url == '/about/' %} active{% endif %}" href="/">about</a>
+      <a class="sidebar-nav-item{% if page.url contains '/work/' %} active{% endif %}" href="/work/">work</a>
+      <a class="sidebar-nav-item{% if page.url contains '/academics/' %} active{% endif %}" href="/academics/">academia</a>
+      <a class="sidebar-nav-item{% if page.url contains '/talks/' %} active{% endif %}" href="/talks/">podcasts & talks</a>
+      <a class="sidebar-nav-item{% if page.url contains '/blog/' %} active{% endif %}" href="/blog/">blog</a>
     </nav>
-
-{% comment %}
-uncomment to show Twitter feed on sidebar
-<a class="twitter-timeline" href="https://twitter.com/tmarzagao" height="30" data-chrome="nofooter noborders transparent" data-widget-id="559032766902575106">Tweets by @tmarzagao</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-{% endcomment %}
-
   </div>
 </div>

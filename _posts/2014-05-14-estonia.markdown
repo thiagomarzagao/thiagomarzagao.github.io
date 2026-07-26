@@ -1,9 +1,0 @@
----
-comments: true
-layout: post
-title: Estonia
----
-
-The Estonian online voting platform is open source and written in Python!
-
-[Here](https://github.com/vvk-ehk/evalimine).

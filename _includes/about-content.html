@@ -1,0 +1,87 @@
+<style>
+  .about-layout {
+    --photo-width: 18rem;
+  }
+
+  .about-photo {
+    float: left;
+    display: block;
+    width: var(--photo-width);
+    max-width: 45%;
+    height: auto;
+    margin: 0 2rem 1rem 0;
+    border-radius: 5px;
+  }
+
+  .about-layout::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  .about-text p:first-child {
+    margin-top: 0;
+  }
+
+  .about-links {
+    margin-top: 1.5rem;
+  }
+
+  @media (max-width: 47.99rem) {
+    .about-photo {
+      float: none;
+      width: var(--photo-width);
+      max-width: 100%;
+      margin: 0 auto 1.5rem;
+    }
+  }
+</style>
+
+<div class="about-layout">
+
+  <img
+    class="about-photo"
+    src="/assets/biking.jpg"
+    alt="Thiago Marzagão"
+  >
+
+  <div class="about-text">
+
+    <p>
+      <b>I'm <a href="https://fitbod.me/">Fitbod</a>'s Head of Data Science, Research &amp; AI.</b> Fitbod creates strength-training workouts that adapt to your body, recovery, and progress. I joined the team in 2021, after being a passionate Fitbod user for a few months.
+    </p>
+
+    <p>
+      At Fitbod <b>I'm responsible for the algorithm that generates each workout</b>, for analytics and A/B testing, for applied research, for patent applications, for hiring and developing data scientists, and for ensuring other teams get correct answers when they ask Claude and Codex data questions. I also participate in Fitbod's overall business planning and help build the product roadmap.
+    </p>
+
+    <p>
+      I have a <b>Ph.D. from the Ohio State University</b>. I took tons of stats classes and in my dissertation I used machine learning and newspaper articles to build the world’s first automated democracy index. I had a Fulbright scholarship.
+    </p>
+
+    <p>
+      Before Fitbod I worked in fraud detection, training machine learning
+      models to identify corruption and bid-rigging. I have also <b>taught statistics
+      and machine learning at several universities</b>, in both undergraduate and
+      graduate courses.
+    </p>
+
+    <p>
+      In 2025 I moved to Spain and went full nomad for a while. I lived in Madrid, Oviedo, Gijón, Sevilla, Granada, Málaga, and eventually settled in València. In 2026 I learned how to pilot boats, biked the ~300km between Bruges and Amsterdam, and saw the Easter processions in Córdoba.
+    </p>
+
+    <p>
+     When I'm not on my laptop I'm usually dogfooding Fitbod in the gym, running or rucking in the Turia park, or reading (<a href="https://www.goodreads.com/user/show/45921922-thiago-marzag-o">here</a>'s my Goodreads page). I speak English, Portuguese, and Spanish, and get by in French.
+    </p>
+
+    <p class="about-links">
+      <a href="https://x.com/tmarzagao">X</a>
+      &nbsp;·&nbsp;
+      <a href="https://www.linkedin.com/in/thiago-marzagao/">LinkedIn</a>
+      &nbsp;·&nbsp;
+      <a href="mailto:thiago@fitbod.me">email</a>
+    </p>
+
+  </div>
+
+</div>

@@ -248,3 +248,50 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Site-specific additions. Keep these deliberately small. */
+.profile-intro {
+  display: block;
+}
+
+.profile-photo {
+  width: 17rem;
+  height: 17rem;
+  max-width: 100%;
+  margin: 0 auto 2.25rem;
+  border-radius: 4px;
+  object-fit: cover;
+  object-position: 50% 22%;
+}
+
+.profile-copy {
+  min-width: 0;
+}
+
+.profile-note {
+  color: #777;
+}
+
+.contact-links {
+  margin-bottom: 0;
+}
+
+.page h2:first-of-type {
+  margin-top: 0;
+}
+
+.page h2 {
+  margin-top: 2.25rem;
+}
+
+.page h3 {
+  margin-top: 1.75rem;
+}
+
+@media (max-width: 38em) {
+  .profile-photo {
+    width: 13rem;
+    height: 13rem;
+    margin-bottom: 1.75rem;
+  }
+}
