@@ -2,6 +2,8 @@
 layout: page
 ---
 
+## Fitbod (2021 - present)
+
 **I'm <a href="https://fitbod.me/">Fitbod</a>'s Head of Data Science, Research &amp; AI.** Fitbod creates strength-training workouts that adapt to your body, recovery, and progress. I joined the team in 2021, after being a passionate Fitbod user for a few months.
 
 At Fitbod **I'm responsible for the algorithm that generates each workout**, for analytics and A/B testing, for applied research, for patent applications, for hiring and developing data scientists, and for ensuring other teams get correct answers when they ask Claude and Codex data questions. I also participate in Fitbod's overall business planning and help build the product roadmap.
@@ -30,7 +32,7 @@ Some things I've done at Fitbod:
 
   In 2021 the average Fitbod user could bench press 6% more weight after doing the exercise ten times. In 2026 that's 26%. That's a direct result of more personalized workouts.
 
-- **Partnered with leading sports scientists**
+- **Did research with leading sports scientists**
 
   I reached out to professors [Brad Schoenfeld](https://www.lehman.edu/academics/health-human-services-nursing/exercise-sciences-recreation/bradley-schoenfeld/) and [Andy Galpin](https://www.parker.edu/research-at-parker/research-staff/andy-galpin/) and pitched a research collaboration. They said yes, brought along Dr. [Federica Conti](https://www.parker.edu/research-at-parker/research-staff/federica-conti/), and the four of us just co-authored a research paper that looks into the determinants of long-term strength training adherence - upcoming in [Frontiers in Sports and Active Living](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1855668/abstract).
 
@@ -44,5 +46,22 @@ Some things I've done at Fitbod:
 
   [US12551760B2](https://patents.google.com/patent/US12551760B2/) (granted) and [US20240299809A1](https://patents.google.com/patent/US20240299809A1/en) (pending).
 
-
 - **Hired, mentored, and promoted data scientists to senior roles**
+
+## Observatory of Public Spending, Brazil (2016-2021)
+
+The Observatory of Public Spending uses data science to find cases of corruption in federal spending. It is part of the Office of the Comptroller-Geral and it pioneered the use of machine learning in Brazil's public sector. It also helped other government agencies leverage data science tools and inspired the creation of several data-driven units. I worked there as a senior data scientist and as the Observatory's deputy head.
+
+Some things I did at the Observatory:
+
+- Trained an ML model that helped the Comptroller-General of Brazil choose which municipalities to audit. **Total auditable budget was US$ ~3.6 billion.**
+
+- Trained an ML model that estimated the price of government-owned real estate properties, to help the government auction them.
+
+- Mined the database of covid economic relief to find cases of fraud.
+
+- Trained and mentored data scientists in other government agencies.
+
+## Teaching roles (2016-2018)
+
+I have taught statistics and machine learning at different universities and research institutions - the [University of Brasília](https://international.unb.br/), [IESB](https://www.iesb.br/), [IDP](https://en.idp.edu.br/), and [IPEA](https://www.ipea.gov.br/) -, both undergraduate and graduate courses. You can find some of my syllabi, slides, etc [here](/teaching/).
