@@ -27,3 +27,9 @@ plugins:
 
 paginate: 5
 paginate_path: "/blog/page:num/"
+
+# Do not infer page titles from the first Markdown heading
+titles_from_headings:
+  enabled: false
+  strip_title: false
+  collections: false
