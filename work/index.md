@@ -50,7 +50,7 @@ Some things I've done at Fitbod:
 
 ## Observatory of Public Spending, Brazil (2016-2021)
 
-The Observatory of Public Spending uses data science to find cases of corruption in federal spending. It is part of the Office of the Comptroller-Geral and it pioneered the use of machine learning in Brazil's public sector. It also helped other government agencies leverage data science tools and inspired the creation of several data-driven units. I worked there as a senior data scientist and as the Observatory's deputy head.
+The Observatory of Public Spending uses data science to find cases of corruption in federal spending. It is part of the Office of the Comptroller-General and it pioneered the use of machine learning in Brazil's public sector. It also helped other government agencies leverage data science tools and inspired the creation of several data-driven units. I worked there as a senior data scientist and as the Observatory's deputy head.
 
 Some things I did at the Observatory:
 
