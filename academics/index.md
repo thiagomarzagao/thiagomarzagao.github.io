@@ -2,6 +2,8 @@
 layout: page
 ---
 
+## Ph.D.
+
 I received my Ph.D. from [the Ohio State University](https://polisci.osu.edu/) in 2014.
 
 I spent most of my Ph.D. taking econometrics courses - probability theory, regression, maximum likelihood estimation, time series models, event history models, spatial econometrics, panel data analysis, scaling and dimensional analysis - and independently learning machine learning, language models, and Python. I also took courses on research design, survey design, game theory, and political science (I was in the political science department).
@@ -10,9 +12,13 @@ For my dissertation I used language models and 42 million news articles from mor
 
 (Fun fact: I scraped all those news articles from a repository called LexisNexis, they got upset about it, so I wrote a comprehensive tutorial on how to scrape LexisNexis and it became quite popular at the time - [part 1](/2013/11/12/webscraping-with-selenium-part-1/), [part 2](/2013/11/14/webscraping-with-selenium-part-2/), [part 3](/2013/11/15/webscraping-with-selenium-part-3/), [part 4](/2013/11/16/webscraping-with-selenium-part-4/), [part 5](/2013/11/17/webscraping-with-selenium-part-5/). It was my little tribute to Aaron Swartz.).
 
+## teaching
+
 After my Ph.D. I taught statistics and machine learning at different universities and research institutions - the [University of Brasília](https://international.unb.br/), [IESB](https://www.iesb.br/), [IDP](https://en.idp.edu.br/), and [IPEA](https://www.ipea.gov.br/) -, both undergraduate and graduate courses. You can find some of my syllabi, slides, etc [here](/teaching/).
 
 I have served on undergraduate and graduate thesis committees at the [University of Brasília](https://international.unb.br/) and at the [FGV](https://portal.fgv.br/).
+
+## publications
 
 I wrote a chapter in the edited book <a href="https://www.amazon.com/Non-Academic-Careers-Quantitative-Social-Scientists-ebook/dp/B0C6D4YKT6/">Non-Academic Careers for Quantitative Social Scientists</a> (Springer, 2023).
 
@@ -20,7 +26,9 @@ I wrote a chapter in the edited book <a href="https://www.amazon.com/Non-Academi
 
 (Relatedly, I'm always open to talking to quant people who aren't sure academia is for them. Just email me and we'll chat.)
 
-I have published peer-reviewed articles on econometrics, economics, political science, and fraud detection:
+I have published peer-reviewed articles on sports science, econometrics, economics, political science, and fraud detection:
+
+- <a href="https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1855668/abstract">Predictors of long-term resistance exercise adherence: Evidence from a large cohort of mobile app users of various experience levels</a>. (with Federica Conti, Brad Schoenfeld, and Andy Galpin). Forthcoming on Frontiers in Sports and Active Living.
 
 - <a href="https://www.scielo.br/j/rbe/a/DJjtmWw4ZYjVyLMXHXBWx4P/">A note on real estate appraisal in Brazil</a>. (with Rodrigo Peres and Leonardo Sales). Brazilian Review of Economics, 75(1), 29-36, 2021.
 
