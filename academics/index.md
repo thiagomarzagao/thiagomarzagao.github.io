@@ -32,7 +32,7 @@ I have published peer-reviewed articles on econometrics, economics, political sc
 
 - <a href="http://www.scielo.br/pdf/rbe/v62n3/a02v62n3.pdf">Lobby e protecionismo no Brasil contemporâneo</a> (“Lobby and protectionism in Brazil”). Revista Brasileira de Economia (Brazilian Review of Economics), 62(3), 263-178, 2008.
 
-And some papers that never got past peer-review but I'm very fond anyway:
+And some papers that never got past peer-review but that I stand by:
 
 - <a href="https://ideas.repec.org/p/osf/osfxxx/fu9mg.html">Insider trading in Brazil's stock market</a>
 
